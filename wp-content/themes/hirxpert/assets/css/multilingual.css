@@ -1,0 +1,139 @@
+/**
+ * Multilingual Language Switcher Styles
+ * For Hirxpert Theme
+ */
+
+/* Language Switcher Wrapper */
+.hirxpert-language-switcher-wrapper {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.hirxpert-language-switcher {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+/* Language Items */
+.hirxpert-language-switcher .lang-item {
+    display: flex;
+    align-items: center;
+    padding: 5px 8px;
+    text-decoration: none;
+    color: inherit;
+    font-size: 13px;
+    border-radius: 3px;
+    transition: all 0.3s ease;
+    gap: 5px;
+}
+
+.hirxpert-language-switcher .lang-item:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.hirxpert-language-switcher .lang-item.current-lang {
+    background-color: rgba(0, 0, 0, 0.15);
+    font-weight: 600;
+}
+
+/* Language Flags */
+.hirxpert-language-switcher .lang-item img {
+    width: 18px;
+    height: 12px;
+    border-radius: 2px;
+    object-fit: cover;
+}
+
+.hirxpert-language-switcher .lang-flag {
+    display: inline-block;
+    width: 18px;
+    height: 12px;
+    border-radius: 2px;
+    background-color: #f0f0f0;
+    font-size: 8px;
+    line-height: 12px;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* Language Names */
+.hirxpert-language-switcher .lang-name {
+    font-size: 12px;
+}
+
+/* Dropdown Version */
+.hirxpert-language-switcher select.lang-switcher-dropdown {
+    padding: 5px 8px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    background-color: #fff;
+    font-size: 13px;
+    cursor: pointer;
+}
+
+/* Header Integration */
+.site-header .hirxpert-language-switcher-wrapper {
+    margin: 0 15px;
+}
+
+.topbar .hirxpert-language-switcher .lang-item {
+    color: #fff;
+}
+
+.topbar .hirxpert-language-switcher .lang-item:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Mobile Menu Integration */
+.mobile-menu .hirxpert-language-switcher {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 15px;
+    border-top: 1px solid #eee;
+}
+
+.mobile-menu .hirxpert-language-switcher .lang-item {
+    width: 100%;
+    padding: 10px 15px;
+    margin-bottom: 5px;
+}
+
+/* Footer Integration */
+.site-footer .hirxpert-language-switcher-wrapper {
+    margin: 10px 0;
+}
+
+.site-footer .hirxpert-language-switcher .lang-item {
+    color: inherit;
+}
+
+/* RTL Support */
+body.rtl .hirxpert-language-switcher {
+    flex-direction: row-reverse;
+}
+
+body.rtl .hirxpert-language-switcher .lang-item {
+    flex-direction: row-reverse;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .hirxpert-language-switcher .lang-name {
+        display: none;
+    }
+    
+    .hirxpert-language-switcher .lang-item {
+        padding: 5px;
+    }
+}
+
+@media (max-width: 480px) {
+    .hirxpert-language-switcher {
+        gap: 2px;
+    }
+    
+    .hirxpert-language-switcher .lang-item {
+        padding: 3px 5px;
+    }
+}

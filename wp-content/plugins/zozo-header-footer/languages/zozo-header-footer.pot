@@ -1,0 +1,1308 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zozo Header Footer\n"
+"POT-Creation-Date: 2022-10-31 17:41+0530\n"
+"PO-Revision-Date: 2022-10-31 17:42+0530\n"
+"Last-Translator: \n"
+"Language-Team: zozothemes\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:129
+msgid "404 Page"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:130
+msgid "Search Page"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:131
+msgid "Blog / Posts Page"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:132
+msgid "Front Page"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:133
+msgid "Date Archive"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:134
+msgid "Author Archive"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:138
+msgid "WooCommerce Shop Page"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:143
+#: admin/target-rule/class-zozo-target-rules-fields.php:215
+msgid "Basic"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:145
+msgid "Entire Website"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:146
+msgid "All Singulars"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:147
+msgid "All Archives"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:152
+msgid "Special Pages"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:193
+msgid "Specific Target"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:195
+msgid "Specific Pages / Posts / Taxonomies, etc."
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:217
+msgid "All"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:218
+msgid "Logged In"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:219
+msgid "Logged Out"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:224
+msgid "Advanced"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:629
+msgid "Please enter"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:630
+msgid "Please delete"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:631
+msgid "or more characters"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:632
+msgid "character"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:633
+msgid "Loading more results…"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:634
+msgid "You can only select"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:635
+msgid "item"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:636
+msgid "s"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:637
+msgid "No results found"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:638
+msgid "Searching…"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:639
+msgid "The results could not be loaded."
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:640
+msgid "Search pages / post / categories"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:659
+#: admin/target-rule/class-zozo-target-rules-fields.php:1068
+msgid "Add Rule"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:675
+#: admin/target-rule/class-zozo-target-rules-fields.php:780
+#: admin/target-rule/class-zozo-target-rules-fields.php:1084
+#: admin/target-rule/class-zozo-target-rules-fields.php:1114
+#: admin/target-rule/class-zozo-target-rules-fields.php:1564
+msgid "Select"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:725
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:730
+#: admin/target-rule/class-zozo-target-rules-fields.php:739
+#, php-format
+msgid "All %s Archive"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:851
+#: admin/zhf-admin.php:145
+msgid "Add Exclusion Rule"
+msgstr ""
+
+#: admin/target-rule/class-zozo-target-rules-fields.php:1505
+#, php-format
+msgid "The same display setting is already exist in %s post/s."
+msgstr ""
+
+#: admin/zhf-admin.php:39
+msgid "ZOZO Header & Footer Builder Options"
+msgstr ""
+
+#: admin/zhf-admin.php:66
+msgid "Type of Template"
+msgstr ""
+
+#: admin/zhf-admin.php:70
+msgid "Select Option"
+msgstr ""
+
+#: admin/zhf-admin.php:71
+msgid "Header"
+msgstr ""
+
+#: admin/zhf-admin.php:72
+msgid "Footer"
+msgstr ""
+
+#: admin/zhf-admin.php:73
+msgid "Custom Block"
+msgstr ""
+
+#: admin/zhf-admin.php:81
+msgid "Shortcode"
+msgstr ""
+
+#: admin/zhf-admin.php:82
+msgid ""
+"Copy this shortcode and paste it into your post, page, or text widget "
+"content."
+msgstr ""
+
+#: admin/zhf-admin.php:111
+msgid "Display On"
+msgstr ""
+
+#: admin/zhf-admin.php:113
+msgid "Add locations for where this template should appear."
+msgstr ""
+
+#: admin/zhf-admin.php:120
+msgid "Display Rules"
+msgstr ""
+
+#: admin/zhf-admin.php:124
+msgid "Add Display Rule"
+msgstr ""
+
+#: admin/zhf-admin.php:133
+msgid "Do Not Display On"
+msgstr ""
+
+#: admin/zhf-admin.php:135
+msgid "Add locations for where this template should not appear."
+msgstr ""
+
+#: admin/zhf-admin.php:142
+msgid "Exclude On"
+msgstr ""
+
+#: admin/zhf-admin.php:155
+msgid "User Roles"
+msgstr ""
+
+#: admin/zhf-admin.php:156
+msgid "Display custom template based on user role."
+msgstr ""
+
+#: admin/zhf-admin.php:163
+msgid "Users"
+msgstr ""
+
+#: admin/zhf-admin.php:166
+msgid "Add User Rule"
+msgstr ""
+
+#: admin/zhf-admin.php:182 admin/zhf-admin.php:183 admin/zhf-admin.php:184
+#: admin/zhf-admin.php:185 admin/zhf-admin.php:219 admin/zhf-admin.php:220
+msgid "Elementor Header & Footer Builder"
+msgstr ""
+
+#: admin/zhf-admin.php:186
+msgid "Add New"
+msgstr ""
+
+#: admin/zhf-admin.php:187
+msgid "Add New Header or Footer"
+msgstr ""
+
+#: admin/zhf-admin.php:188
+msgid "New Template"
+msgstr ""
+
+#: admin/zhf-admin.php:189
+msgid "Edit Template"
+msgstr ""
+
+#: admin/zhf-admin.php:190
+msgid "View Template"
+msgstr ""
+
+#: admin/zhf-admin.php:191
+msgid "All Templates"
+msgstr ""
+
+#: admin/zhf-admin.php:192
+msgid "Search Templates"
+msgstr ""
+
+#: admin/zhf-admin.php:193
+msgid "Parent Templates:"
+msgstr ""
+
+#: admin/zhf-admin.php:194
+msgid "No Templates found."
+msgstr ""
+
+#: admin/zhf-admin.php:195
+msgid "No Templates found in Trash."
+msgstr ""
+
+#: inc/class.zozo-header-footer-ajax.php:42 inc/zozo-member/function.php:415
+msgid "Wrong username or password."
+msgstr ""
+
+#: inc/class.zozo-header-footer-ajax.php:44 inc/zozo-member/function.php:430
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#: inc/class.zozo-header-footer-ajax.php:92 inc/zozo-member/function.php:482
+msgid "Registered successful, redirecting...."
+msgstr ""
+
+#: inc/class.zozo-header-footer-ajax.php:100 inc/zozo-member/function.php:490
+msgid "Enter valid email/user name!."
+msgstr ""
+
+#: inc/class.zozo-header-footer-ajax.php:118 inc/zozo-member/function.php:512
+msgid "Enter an username or e-mail address."
+msgstr ""
+
+#: inc/class.zozo-header-footer-ajax.php:124 inc/zozo-member/function.php:518
+msgid "There is no user registered with that email address."
+msgstr ""
+
+#: inc/class.zozo-header-footer-ajax.php:130 inc/zozo-member/function.php:524
+msgid "There is no user registered with that username."
+msgstr ""
+
+#: inc/class.zozo-header-footer-ajax.php:133 inc/zozo-member/function.php:527
+msgid "Invalid username or e-mail address."
+msgstr ""
+
+#: inc/class.zozo-header-footer-ajax.php:179 inc/zozo-member/function.php:573
+msgid "Check your email address for you new password."
+msgstr ""
+
+#: inc/class.zozo-header-footer-ajax.php:181 inc/zozo-member/function.php:575
+msgid "System is unable to send you mail containg your new password."
+msgstr ""
+
+#: inc/class.zozo-header-footer-ajax.php:183 inc/zozo-member/function.php:577
+msgid "Oops! Something went wrong while updaing your account."
+msgstr ""
+
+#: inc/class.zozo-header-footer-extension.php:62
+msgid "ZOZO Header & Footer"
+msgstr ""
+
+#: inc/class.zozo-header-footer-extension.php:86 inc/zozo-member/index.php:12
+msgid "Sending user info, please wait..."
+msgstr ""
+
+#: inc/class.zozo-header-footer-extension.php:87 inc/zozo-member/index.php:13
+msgid "Please enter valid email!"
+msgstr ""
+
+#: inc/class.zozo-header-footer-extension.php:88 inc/zozo-member/index.php:14
+msgid "Please enter valid username/password!"
+msgstr ""
+
+#: inc/class.zozo-header-footer-extension.php:89 inc/zozo-member/index.php:15
+msgid "Please enter required fields values for registration!"
+msgstr ""
+
+#: inc/class.zozo-minicart.php:31
+msgid "No items in cart"
+msgstr ""
+
+#: inc/class.zozo-minicart.php:55
+msgid "Product"
+msgstr ""
+
+#: inc/class.zozo-minicart.php:67
+msgid "Remove this item"
+msgstr ""
+
+#: inc/class.zozo-minicart.php:80
+msgid "Cart"
+msgstr ""
+
+#: inc/class.zozo-minicart.php:80
+msgid "View Cart"
+msgstr ""
+
+#: inc/class.zozo-minicart.php:118 inc/class.zozo-minicart.php:223
+msgid "Busted"
+msgstr ""
+
+#: inc/zozo-member/function.php:8
+msgid "Hello!"
+msgstr ""
+
+#: inc/zozo-member/function.php:9 widgets/registration.php:145
+msgid "Sign in"
+msgstr ""
+
+#: inc/zozo-member/function.php:10 widgets/registration.php:153
+msgid "Sign out"
+msgstr ""
+
+#: inc/zozo-member/function.php:19
+msgid " Admin"
+msgstr ""
+
+#: inc/zozo-member/function.php:164 inc/zozo-member/function.php:232
+msgid "My Profile"
+msgstr ""
+
+#: inc/zozo-member/function.php:165
+msgid "My Properties List"
+msgstr ""
+
+#: inc/zozo-member/function.php:166
+msgid "Add New Property"
+msgstr ""
+
+#: inc/zozo-member/function.php:167 inc/zozo-member/function.php:233
+msgid "Favorites"
+msgstr ""
+
+#: inc/zozo-member/function.php:168 inc/zozo-member/function.php:234
+msgid "Saved Searches"
+msgstr ""
+
+#: inc/zozo-member/function.php:169
+msgid "My Invoices"
+msgstr ""
+
+#: inc/zozo-member/function.php:170
+msgid "Inbox"
+msgstr ""
+
+#: inc/zozo-member/function.php:171 inc/zozo-member/function.php:235
+msgid "Log Out"
+msgstr ""
+
+#: inc/zozo-member/function.php:268
+msgid "Login Image"
+msgstr ""
+
+#: inc/zozo-member/function.php:297 inc/zozo-member/function.php:315
+#: widgets/registration.php:209 widgets/registration.php:233
+msgid "Login"
+msgstr ""
+
+#: inc/zozo-member/function.php:301 widgets/registration.php:217
+msgid "Username"
+msgstr ""
+
+#: inc/zozo-member/function.php:305 widgets/registration.php:225
+msgid "Password"
+msgstr ""
+
+#: inc/zozo-member/function.php:310 inc/zozo-member/function.php:333
+#: inc/zozo-member/function.php:355 widgets/registration.php:177
+#: widgets/registration.php:302
+msgid "Register"
+msgstr ""
+
+#: inc/zozo-member/function.php:313 widgets/registration.php:188
+msgid "Lost your password?"
+msgstr ""
+
+#: inc/zozo-member/function.php:336 widgets/registration.php:262
+msgid "Your Name"
+msgstr ""
+
+#: inc/zozo-member/function.php:340 widgets/registration.php:270
+msgid "Your Email*"
+msgstr ""
+
+#: inc/zozo-member/function.php:344 widgets/registration.php:278
+msgid "Nick Name"
+msgstr ""
+
+#: inc/zozo-member/function.php:348 widgets/registration.php:286
+msgid "Choose Username*"
+msgstr ""
+
+#: inc/zozo-member/function.php:352 widgets/registration.php:294
+msgid "Choose Password*"
+msgstr ""
+
+#: inc/zozo-member/function.php:373
+msgid "Forgot Password"
+msgstr ""
+
+#: inc/zozo-member/function.php:377 widgets/registration.php:331
+msgid "Username or E-mail"
+msgstr ""
+
+#: inc/zozo-member/function.php:380 widgets/registration.php:339
+msgid "Submit"
+msgstr ""
+
+#: index.php:67
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: index.php:68
+msgid "Zozo Header Footer"
+msgstr ""
+
+#: index.php:69
+msgid "Elementor"
+msgstr ""
+
+#: widgets/copyright.php:45 widgets/copyright.php:91 widgets/copyright.php:144
+msgid "Copyright"
+msgstr ""
+
+#: widgets/copyright.php:98
+msgid "Copyright Text"
+msgstr ""
+
+#: widgets/copyright.php:103
+msgid ""
+"Copyright © [zhf_current_year] [zhf_site_link] | Powered by [zhf_site_title]"
+msgstr ""
+
+#: widgets/copyright.php:109
+msgid "Link"
+msgstr ""
+
+#: widgets/copyright.php:111 widgets/logo.php:165
+msgid "https://your-link.com"
+msgstr ""
+
+#: widgets/copyright.php:117 widgets/logo.php:136 widgets/menu.php:229
+#: widgets/mini-cart.php:138 widgets/page-title.php:144
+#: widgets/page-title.php:212 widgets/registration.php:395
+#: widgets/registration.php:627 widgets/search.php:131
+#: widgets/secondary-bar.php:145
+msgid "Alignment"
+msgstr ""
+
+#: widgets/copyright.php:121 widgets/logo.php:140 widgets/menu.php:217
+#: widgets/menu.php:233 widgets/menu.php:308 widgets/mini-cart.php:142
+#: widgets/page-title.php:148 widgets/page-title.php:216
+#: widgets/registration.php:399 widgets/registration.php:631
+#: widgets/search.php:135 widgets/secondary-bar.php:149
+#: widgets/secondary-bar.php:193
+msgid "Left"
+msgstr ""
+
+#: widgets/copyright.php:125 widgets/logo.php:144 widgets/menu.php:237
+#: widgets/menu.php:312 widgets/mini-cart.php:146 widgets/page-title.php:152
+#: widgets/page-title.php:220 widgets/registration.php:403
+#: widgets/registration.php:635 widgets/search.php:139
+#: widgets/secondary-bar.php:153
+msgid "Center"
+msgstr ""
+
+#: widgets/copyright.php:129 widgets/logo.php:148 widgets/menu.php:218
+#: widgets/menu.php:241 widgets/menu.php:316 widgets/mini-cart.php:150
+#: widgets/page-title.php:156 widgets/page-title.php:224
+#: widgets/registration.php:407 widgets/registration.php:639
+#: widgets/search.php:143 widgets/secondary-bar.php:157
+#: widgets/secondary-bar.php:192
+msgid "Right"
+msgstr ""
+
+#: widgets/copyright.php:161 widgets/logo.php:490 widgets/menu.php:460
+#: widgets/menu.php:495 widgets/menu.php:526 widgets/menu.php:684
+#: widgets/menu.php:719 widgets/menu.php:750 widgets/menu.php:1038
+#: widgets/menu.php:1070 widgets/mini-cart.php:263 widgets/page-title.php:555
+#: widgets/registration.php:668 widgets/registration.php:698
+#: widgets/search.php:394 widgets/search.php:424
+msgid "Text Color"
+msgstr ""
+
+#: widgets/copyright.php:176 widgets/logo.php:393 widgets/menu.php:453
+#: widgets/menu.php:677 widgets/menu.php:823 widgets/menu.php:1031
+#: widgets/mini-cart.php:174 widgets/mini-cart.php:287
+#: widgets/page-title.php:412 widgets/registration.php:490
+#: widgets/registration.php:662 widgets/search.php:183 widgets/search.php:388
+#: widgets/search.php:535 widgets/secondary-bar.php:254
+msgid "Normal"
+msgstr ""
+
+#: widgets/copyright.php:182 widgets/mini-cart.php:293
+#: widgets/page-title.php:403 widgets/secondary-bar.php:436
+msgid "Link Color"
+msgstr ""
+
+#: widgets/copyright.php:196 widgets/logo.php:425 widgets/menu.php:489
+#: widgets/menu.php:713 widgets/menu.php:854 widgets/menu.php:1064
+#: widgets/mini-cart.php:191 widgets/mini-cart.php:304
+#: widgets/page-title.php:429 widgets/registration.php:543
+#: widgets/registration.php:692 widgets/search.php:224 widgets/search.php:418
+#: widgets/search.php:588 widgets/secondary-bar.php:282
+msgid "Hover"
+msgstr ""
+
+#: widgets/copyright.php:202 widgets/mini-cart.php:310
+#: widgets/secondary-bar.php:446
+msgid "Link Hover Color"
+msgstr ""
+
+#: widgets/logo.php:45
+msgid "Logo"
+msgstr ""
+
+#: widgets/logo.php:91 widgets/logo.php:220
+msgid "Site Logo"
+msgstr ""
+
+#: widgets/logo.php:93
+msgid "Default logo options."
+msgstr ""
+
+#: widgets/logo.php:99
+msgid "Custom Logo"
+msgstr ""
+
+#: widgets/logo.php:100 widgets/page-title.php:175
+msgid ""
+"This is option for custom logo. Enable this too choose custom logo, or else "
+"leave disable stat to set default one."
+msgstr ""
+
+#: widgets/logo.php:109
+msgid "Logo Image"
+msgstr ""
+
+#: widgets/logo.php:110
+msgid "Choose logo image."
+msgstr ""
+
+#: widgets/logo.php:160
+msgid "Custom Link"
+msgstr ""
+
+#: widgets/logo.php:174 widgets/logo.php:483
+msgid "Caption"
+msgstr ""
+
+#: widgets/logo.php:176
+msgid "Logo caption options."
+msgstr ""
+
+#: widgets/logo.php:182
+msgid "Caption Enable"
+msgstr ""
+
+#: widgets/logo.php:183
+msgid "This is option for enable logo caption."
+msgstr ""
+
+#: widgets/logo.php:191
+msgid "Caption Options"
+msgstr ""
+
+#: widgets/logo.php:195 widgets/mini-cart.php:129
+msgid "Default"
+msgstr ""
+
+#: widgets/logo.php:196
+msgid "Custom"
+msgstr ""
+
+#: widgets/logo.php:206
+msgid "Custom Caption"
+msgstr ""
+
+#: widgets/logo.php:227 widgets/page-title.php:515
+#: widgets/secondary-bar.php:216
+msgid "Width"
+msgstr ""
+
+#: widgets/logo.php:263
+msgid "Max Width"
+msgstr ""
+
+#: widgets/logo.php:299 widgets/logo.php:504 widgets/menu.php:475
+#: widgets/menu.php:508 widgets/menu.php:537 widgets/menu.php:699
+#: widgets/menu.php:732 widgets/menu.php:761 widgets/menu.php:841
+#: widgets/menu.php:873 widgets/menu.php:983 widgets/menu.php:1052
+#: widgets/menu.php:1083 widgets/mini-cart.php:275 widgets/page-title.php:569
+#: widgets/registration.php:506 widgets/registration.php:559
+#: widgets/registration.php:679 widgets/registration.php:708
+#: widgets/search.php:405 widgets/search.php:434 widgets/search.php:551
+#: widgets/search.php:604
+msgid "Background Color"
+msgstr ""
+
+#: widgets/logo.php:310
+msgid "Border Style"
+msgstr ""
+
+#: widgets/logo.php:315
+msgid "None"
+msgstr ""
+
+#: widgets/logo.php:316
+msgid "Solid"
+msgstr ""
+
+#: widgets/logo.php:317
+msgid "Double"
+msgstr ""
+
+#: widgets/logo.php:318
+msgid "Dotted"
+msgstr ""
+
+#: widgets/logo.php:319
+msgid "Dashed"
+msgstr ""
+
+#: widgets/logo.php:329 widgets/menu.php:906 widgets/search.php:347
+msgid "Border Width"
+msgstr ""
+
+#: widgets/logo.php:351 widgets/registration.php:718 widgets/search.php:211
+#: widgets/search.php:252 widgets/search.php:444
+msgid "Border Color"
+msgstr ""
+
+#: widgets/logo.php:369 widgets/menu.php:575 widgets/menu.php:923
+#: widgets/page-title.php:587 widgets/registration.php:524
+#: widgets/registration.php:577 widgets/registration.php:750
+#: widgets/search.php:358 widgets/search.php:476 widgets/search.php:569
+#: widgets/search.php:622 widgets/secondary-bar.php:389
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/logo.php:399 widgets/logo.php:431 widgets/page-title.php:331
+msgid "Opacity"
+msgstr ""
+
+#: widgets/logo.php:448
+msgid "Transition Duration"
+msgstr ""
+
+#: widgets/logo.php:471 widgets/registration.php:731 widgets/search.php:457
+msgid "Hover Animation"
+msgstr ""
+
+#: widgets/logo.php:531 widgets/menu.php:339 widgets/menu.php:607
+#: widgets/menu.php:785 widgets/menu.php:945 widgets/mini-cart.php:242
+#: widgets/page-title.php:264 widgets/page-title.php:598
+#: widgets/registration.php:355 widgets/registration.php:420
+#: widgets/registration.php:598 widgets/registration.php:768
+#: widgets/search.php:285 widgets/search.php:494 widgets/search.php:643
+#: widgets/secondary-bar.php:329 widgets/secondary-bar.php:475
+msgid "Padding"
+msgstr ""
+
+#: widgets/logo.php:543 widgets/search.php:327 widgets/secondary-bar.php:370
+msgid "Spacing"
+msgstr ""
+
+#: widgets/menu.php:45 widgets/menu.php:134
+msgid "Menu"
+msgstr ""
+
+#: widgets/menu.php:142
+msgid "Menu Layout"
+msgstr ""
+
+#: widgets/menu.php:153
+#, php-format
+msgid ""
+"<strong>There are no menus in your site.</strong><br>Go to the <a href=\"%s"
+"\" target=\"_blank\">Menus screen</a> to create one."
+msgstr ""
+
+#: widgets/menu.php:164 widgets/menu.php:171
+msgid "Layout"
+msgstr ""
+
+#: widgets/menu.php:175
+msgid "Horizontal"
+msgstr ""
+
+#: widgets/menu.php:176
+msgid "Vertical"
+msgstr ""
+
+#: widgets/menu.php:177
+msgid "Expanded"
+msgstr ""
+
+#: widgets/menu.php:178 widgets/menu.php:938
+msgid "Flyout"
+msgstr ""
+
+#: widgets/menu.php:185
+msgid "Layout Class"
+msgstr ""
+
+#: widgets/menu.php:197
+msgid "Flyout Type"
+msgstr ""
+
+#: widgets/menu.php:201
+msgid "Slide"
+msgstr ""
+
+#: widgets/menu.php:202 widgets/secondary-bar.php:205
+msgid "Push"
+msgstr ""
+
+#: widgets/menu.php:213
+msgid "Flyout Position"
+msgstr ""
+
+#: widgets/menu.php:245
+msgid "Justify"
+msgstr ""
+
+#: widgets/menu.php:259
+msgid "Submenu Icon"
+msgstr ""
+
+#: widgets/menu.php:263
+msgid "Arrows"
+msgstr ""
+
+#: widgets/menu.php:264
+msgid "Plus Sign"
+msgstr ""
+
+#: widgets/menu.php:272
+msgid "Responsive Options"
+msgstr ""
+
+#: widgets/menu.php:283
+msgid "Mobile Menu From"
+msgstr ""
+
+#: widgets/menu.php:304
+msgid "Trigger Alignment"
+msgstr ""
+
+#: widgets/menu.php:332
+msgid "Main Menu"
+msgstr ""
+
+#: widgets/menu.php:360 widgets/menu.php:628 widgets/menu.php:803
+#: widgets/menu.php:966 widgets/page-title.php:285 widgets/page-title.php:619
+#: widgets/registration.php:441 widgets/secondary-bar.php:465
+msgid "Margin"
+msgstr ""
+
+#: widgets/menu.php:384
+msgid "Space Between"
+msgstr ""
+
+#: widgets/menu.php:405
+msgid "Row Spacing"
+msgstr ""
+
+#: widgets/menu.php:425 widgets/menu.php:649
+msgid "Menu Typography"
+msgstr ""
+
+#: widgets/menu.php:443 widgets/menu.php:667
+msgid "Menu Skin"
+msgstr ""
+
+#: widgets/menu.php:520 widgets/menu.php:744
+msgid "Active"
+msgstr ""
+
+#: widgets/menu.php:554 widgets/mini-cart.php:235
+msgid "Dropdown"
+msgstr ""
+
+#: widgets/menu.php:561
+msgid "Dropdown Styles"
+msgstr ""
+
+#: widgets/menu.php:599
+msgid "Dropdown Item Styles"
+msgstr ""
+
+#: widgets/menu.php:777
+msgid "Toggle Icon"
+msgstr ""
+
+#: widgets/menu.php:830 widgets/menu.php:861
+msgid "Color"
+msgstr ""
+
+#: widgets/menu.php:888
+msgid "Icon Size"
+msgstr ""
+
+#: widgets/menu.php:994
+msgid "Menu Top Space"
+msgstr ""
+
+#: widgets/menu.php:1021
+msgid "Flyout Icon"
+msgstr ""
+
+#: widgets/mini-cart.php:44
+msgid "Minicart"
+msgstr ""
+
+#: widgets/mini-cart.php:118 widgets/mini-cart.php:166
+#: widgets/page-title.php:257 widgets/registration.php:119
+#: widgets/registration.php:348
+msgid "General"
+msgstr ""
+
+#: widgets/mini-cart.php:125
+msgid "Cart Layout"
+msgstr ""
+
+#: widgets/mini-cart.php:130
+msgid "Layout 2"
+msgstr ""
+
+#: widgets/mini-cart.php:180
+msgid "Cart Color"
+msgstr ""
+
+#: widgets/mini-cart.php:197
+msgid "Cart Hover Color"
+msgstr ""
+
+#: widgets/mini-cart.php:209
+msgid "Count Color"
+msgstr ""
+
+#: widgets/mini-cart.php:221
+msgid "Count Background Color"
+msgstr ""
+
+#: widgets/page-title.php:45 widgets/page-title.php:95
+#: widgets/page-title.php:356
+msgid "Page Title"
+msgstr ""
+
+#: widgets/page-title.php:103
+msgid "<b>Note:</b> Archive page title will be visible on frontend."
+msgstr ""
+
+#: widgets/page-title.php:111
+msgid "Prefix Title"
+msgstr ""
+
+#: widgets/page-title.php:118
+msgid "Suffix Title"
+msgstr ""
+
+#: widgets/page-title.php:124
+msgid "Heading Tag"
+msgstr ""
+
+#: widgets/page-title.php:125
+msgid "Here you can choose the section title box title heading tag."
+msgstr ""
+
+#: widgets/page-title.php:129 widgets/registration.php:130
+msgid "h1"
+msgstr ""
+
+#: widgets/page-title.php:130 widgets/registration.php:131
+msgid "h2"
+msgstr ""
+
+#: widgets/page-title.php:131 widgets/registration.php:132
+msgid "h3"
+msgstr ""
+
+#: widgets/page-title.php:132 widgets/registration.php:133
+msgid "h4"
+msgstr ""
+
+#: widgets/page-title.php:133 widgets/registration.php:134
+msgid "h5"
+msgstr ""
+
+#: widgets/page-title.php:134 widgets/registration.php:135
+msgid "h6"
+msgstr ""
+
+#: widgets/page-title.php:135 widgets/registration.php:136
+msgid "p"
+msgstr ""
+
+#: widgets/page-title.php:136
+msgid "span"
+msgstr ""
+
+#: widgets/page-title.php:137
+msgid "div"
+msgstr ""
+
+#: widgets/page-title.php:160 widgets/page-title.php:228
+msgid "Justified"
+msgstr ""
+
+#: widgets/page-title.php:174 widgets/page-title.php:202
+#: widgets/page-title.php:386
+msgid "Breadcrumb"
+msgstr ""
+
+#: widgets/page-title.php:183
+msgid "Display Style"
+msgstr ""
+
+#: widgets/page-title.php:187
+msgid "Block"
+msgstr ""
+
+#: widgets/page-title.php:188
+msgid "Inline"
+msgstr ""
+
+#: widgets/page-title.php:242
+msgid "Separator Icon"
+msgstr ""
+
+#: widgets/page-title.php:307 widgets/registration.php:377
+#: widgets/secondary-bar.php:457
+msgid "Background"
+msgstr ""
+
+#: widgets/page-title.php:315
+msgid "Background Overlay"
+msgstr ""
+
+#: widgets/page-title.php:363
+msgid "Page Title Color"
+msgstr ""
+
+#: widgets/page-title.php:393
+msgid "Breadcrumb Text Color"
+msgstr ""
+
+#: widgets/page-title.php:418 widgets/page-title.php:435
+msgid "Breadcrumb Color"
+msgstr ""
+
+#: widgets/page-title.php:448
+msgid "Breadcrumb Typography"
+msgstr ""
+
+#: widgets/page-title.php:467
+msgid "Breadcrumb Separator"
+msgstr ""
+
+#: widgets/page-title.php:475 widgets/search.php:267
+#: widgets/secondary-bar.php:312
+msgid "Size"
+msgstr ""
+
+#: widgets/page-title.php:495
+msgid "Height"
+msgstr ""
+
+#: widgets/page-title.php:535
+msgid "Line height"
+msgstr ""
+
+#: widgets/page-title.php:697
+msgid "Home"
+msgstr ""
+
+#: widgets/page-title.php:788
+msgid "Posts by "
+msgstr ""
+
+#: widgets/page-title.php:790
+msgid "Error 404"
+msgstr ""
+
+#: widgets/page-title.php:794
+msgid "Page"
+msgstr ""
+
+#: widgets/registration.php:45 widgets/registration.php:254
+msgid "Registration"
+msgstr ""
+
+#: widgets/registration.php:126
+msgid "Form Title Heading Tag"
+msgstr ""
+
+#: widgets/registration.php:143
+msgid "Sign-in Text"
+msgstr ""
+
+#: widgets/registration.php:151
+msgid "Sign-out Text"
+msgstr ""
+
+#: widgets/registration.php:159 widgets/registration.php:242
+msgid "Registration Form"
+msgstr ""
+
+#: widgets/registration.php:167 widgets/registration.php:311
+msgid "Forget Password Form"
+msgstr ""
+
+#: widgets/registration.php:175
+msgid "Register Link Text"
+msgstr ""
+
+#: widgets/registration.php:186
+msgid "Forget Password Link Text"
+msgstr ""
+
+#: widgets/registration.php:200
+msgid "Login Form"
+msgstr ""
+
+#: widgets/registration.php:207
+msgid "Login Form Title"
+msgstr ""
+
+#: widgets/registration.php:215
+msgid "Username Label"
+msgstr ""
+
+#: widgets/registration.php:223
+msgid "Password Label"
+msgstr ""
+
+#: widgets/registration.php:231
+msgid "Login Button Text"
+msgstr ""
+
+#: widgets/registration.php:252
+msgid "Registration Form Title"
+msgstr ""
+
+#: widgets/registration.php:260
+msgid "Your Name Label"
+msgstr ""
+
+#: widgets/registration.php:268
+msgid "Your Email Label"
+msgstr ""
+
+#: widgets/registration.php:276
+msgid "Nick Name Label"
+msgstr ""
+
+#: widgets/registration.php:284
+msgid "Choose Username Label"
+msgstr ""
+
+#: widgets/registration.php:292
+msgid "Choose Password Label"
+msgstr ""
+
+#: widgets/registration.php:300
+msgid "Register Button Text"
+msgstr ""
+
+#: widgets/registration.php:321
+msgid "Forget Password Form Title"
+msgstr ""
+
+#: widgets/registration.php:323
+msgid "Forget Password"
+msgstr ""
+
+#: widgets/registration.php:329
+msgid "Username or E-mail Label"
+msgstr ""
+
+#: widgets/registration.php:337
+msgid "Forget Password Button Text"
+msgstr ""
+
+#: widgets/registration.php:388
+msgid "Form Title"
+msgstr ""
+
+#: widgets/registration.php:462
+msgid "Form Title Color"
+msgstr ""
+
+#: widgets/registration.php:482 widgets/search.php:516
+msgid "Text Box"
+msgstr ""
+
+#: widgets/registration.php:496 widgets/registration.php:549
+#: widgets/search.php:190 widgets/search.php:541 widgets/search.php:594
+#: widgets/secondary-bar.php:260
+msgid "Primary Color"
+msgstr ""
+
+#: widgets/registration.php:620
+msgid "Form Button"
+msgstr ""
+
+#: widgets/search.php:45 widgets/search.php:109
+msgid "Search"
+msgstr ""
+
+#: widgets/search.php:116
+msgid "Search Layout"
+msgstr ""
+
+#: widgets/search.php:120
+msgid "Default By Theme"
+msgstr ""
+
+#: widgets/search.php:121
+msgid "Overlay Search Form"
+msgstr ""
+
+#: widgets/search.php:122
+msgid "Inline Toggle Search"
+msgstr ""
+
+#: widgets/search.php:123
+msgid "Toggle Full Search Box"
+msgstr ""
+
+#: widgets/search.php:124
+msgid "Icon to Search Box Bottom"
+msgstr ""
+
+#: widgets/search.php:156
+msgid "Placeholder Text"
+msgstr ""
+
+#: widgets/search.php:158
+msgid "Search..."
+msgstr ""
+
+#: widgets/search.php:170 widgets/secondary-bar.php:245
+msgid "Icon"
+msgstr ""
+
+#: widgets/search.php:201
+msgid "Secondary Color"
+msgstr ""
+
+#: widgets/search.php:231 widgets/secondary-bar.php:288
+msgid "Primary Hover Color"
+msgstr ""
+
+#: widgets/search.php:242
+msgid "Secondary Hover Color"
+msgstr ""
+
+#: widgets/search.php:306 widgets/secondary-bar.php:349
+msgid "Rotate"
+msgstr ""
+
+#: widgets/search.php:372
+msgid "Button"
+msgstr ""
+
+#: widgets/search.php:523
+msgid "Placeholder Color"
+msgstr ""
+
+#: widgets/secondary-bar.php:45
+msgid "Secondary Bar"
+msgstr ""
+
+#: widgets/secondary-bar.php:110
+msgid "No sidebars were found"
+msgstr ""
+
+#: widgets/secondary-bar.php:112 widgets/secondary-bar.php:180
+msgid "Choose Sidebar"
+msgstr ""
+
+#: widgets/secondary-bar.php:126
+msgid "Trigger"
+msgstr ""
+
+#: widgets/secondary-bar.php:133
+msgid "Default Icon"
+msgstr ""
+
+#: widgets/secondary-bar.php:173
+msgid "Sidebar"
+msgstr ""
+
+#: widgets/secondary-bar.php:189
+msgid "Open From"
+msgstr ""
+
+#: widgets/secondary-bar.php:201
+msgid "Open Type"
+msgstr ""
+
+#: widgets/secondary-bar.php:204
+msgid "Overlay"
+msgstr ""
+
+#: widgets/secondary-bar.php:403
+msgid "Secodnary Area"
+msgstr ""
+
+#: widgets/secondary-bar.php:410
+msgid "Typography"
+msgstr ""
+
+#: widgets/secondary-bar.php:418
+msgid "Heading Typography"
+msgstr ""
+
+#: widgets/secondary-bar.php:426
+msgid "Font Color"
+msgstr ""

@@ -1,0 +1,4 @@
+name: wordpress
+owner: jqsafi
+package: jqsafi/wordpress
+kind: wasmer.io/App.v0

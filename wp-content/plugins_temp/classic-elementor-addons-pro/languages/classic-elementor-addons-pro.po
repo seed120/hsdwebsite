@@ -1,0 +1,6105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: classic-elementor-addons-pro\n"
+"POT-Creation-Date: 2023-05-10 11:53+0530\n"
+"PO-Revision-Date: 2023-05-10 11:54+0530\n"
+"Last-Translator: \n"
+"Language-Team: zozothemes\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/cea-config.php:5 admin/cea-settings.php:83 widgets/accordion.php:105
+#: widgets/chart.php:106 widgets/circle-progress.php:295
+#: widgets/contact-form.php:103 widgets/contact-form.php:178
+#: widgets/contact-info.php:480 widgets/content-carousel.php:105
+#: widgets/content-carousel.php:358 widgets/counter.php:337
+#: widgets/data-table.php:109 widgets/data-table.php:177
+#: widgets/day-counter.php:271 widgets/feature-box.php:135
+#: widgets/flip-box.php:93 widgets/google-map.php:243
+#: widgets/image-before-after.php:315 widgets/image-grid.php:108
+#: widgets/image-grid.php:336 widgets/offcanvas.php:106
+#: widgets/offcanvas.php:391 widgets/popover.php:106 widgets/popover.php:408
+#: widgets/popup-anything.php:433 widgets/pricing-table.php:634
+#: widgets/recent-popular.php:119 widgets/recent-popular.php:563
+#: widgets/section-title.php:342 widgets/social-links.php:260
+#: widgets/switcher-content.php:104 widgets/switcher-content.php:199
+#: widgets/tab.php:105 widgets/timeline-slide.php:105 widgets/timeline.php:333
+#: widgets/toggle-content.php:320
+msgid "General"
+msgstr ""
+
+#: admin/cea-config.php:11
+msgid "Google Map API"
+msgstr ""
+
+#: admin/cea-config.php:12
+msgid "Enter google map api."
+msgstr ""
+
+#: admin/cea-config.php:12
+msgid "Get google map api key here."
+msgstr ""
+
+#: admin/cea-config.php:18
+msgid "Mailchimp API"
+msgstr ""
+
+#: admin/cea-config.php:19
+msgid "Enter mailchimp api."
+msgstr ""
+
+#: admin/cea-config.php:19
+msgid "Get mailchimp api key here."
+msgstr ""
+
+#: admin/cea-config.php:27 admin/cea-config.php:33
+msgid "Social Share"
+msgstr ""
+
+#: admin/cea-config.php:34
+msgid "Needed social items drag from disabled and put enabled part."
+msgstr ""
+
+#: admin/cea-config.php:37
+msgid "Facebook"
+msgstr ""
+
+#: admin/cea-config.php:38
+msgid "Twitter"
+msgstr ""
+
+#: admin/cea-config.php:39
+msgid "Linkedin"
+msgstr ""
+
+#: admin/cea-config.php:40
+msgid "Pinterest"
+msgstr ""
+
+#: admin/cea-options.php:68 admin/metabox-settings/meta_box.php:23
+#: admin/metabox-settings/meta_box.php:178 inc/function.php:306
+#: widgets/chart.php:215 widgets/section-title.php:561 widgets/tab.php:146
+#: widgets/timeline.php:212
+msgid "None"
+msgstr ""
+
+#: admin/cea-settings.php:5 admin/cea-settings.php:6 inc/cea-addon.php:124
+msgid "Classic Addons"
+msgstr ""
+
+#: admin/cea-settings.php:15 admin/cea-settings.php:16
+msgid "Plugin Options"
+msgstr ""
+
+#: admin/cea-settings.php:26
+msgid "Addon Settings"
+msgstr ""
+
+#: admin/cea-settings.php:74 admin/cea-settings.php:321
+msgid "Classic Elementor Addon"
+msgstr ""
+
+#: admin/cea-settings.php:77 admin/cea-settings.php:324
+msgid "Save settings"
+msgstr ""
+
+#: admin/cea-settings.php:84
+msgid "Widgets"
+msgstr ""
+
+#: admin/cea-settings.php:85
+msgid "Go Premium"
+msgstr ""
+
+#: admin/cea-settings.php:103
+msgid "Requirements"
+msgstr ""
+
+#: admin/cea-settings.php:114
+msgid "Core"
+msgstr ""
+
+#: admin/cea-settings.php:115
+msgid "Required"
+msgstr ""
+
+#: admin/cea-settings.php:116
+msgid "Status"
+msgstr ""
+
+#: admin/cea-settings.php:121 index.php:177 widgets/chart.php:261
+msgid "PHP"
+msgstr ""
+
+#: admin/cea-settings.php:126 widgets/chart.php:266
+msgid "WordPress"
+msgstr ""
+
+#: admin/cea-settings.php:133 admin/cea-settings.php:147
+msgid "Go Here"
+msgstr ""
+
+#: admin/cea-settings.php:143
+msgid "Documention"
+msgstr ""
+
+#: admin/cea-settings.php:145
+msgid ""
+"Get started by spending some time with the documentation to get familiar "
+"with Classic Elementor Addons. Build awesome websites for you or your "
+"clients with ease."
+msgstr ""
+
+#: admin/cea-settings.php:157
+msgid "Need Help?"
+msgstr ""
+
+#: admin/cea-settings.php:159
+msgid ""
+"Stuck with something? Get help from the community on WordPress.org Forum "
+"initiate a live chat at Classic Elementor Addons website and get support."
+msgstr ""
+
+#: admin/cea-settings.php:161
+msgid "Get Support"
+msgstr ""
+
+#: admin/cea-settings.php:181
+msgid "Live Updates"
+msgstr ""
+
+#: admin/cea-settings.php:183 admin/cea-settings.php:294
+msgid "Go Pro"
+msgstr ""
+
+#: admin/cea-settings.php:197
+msgid "Supported Themes"
+msgstr ""
+
+#: admin/cea-settings.php:229
+msgid "Enable/Disable all the widget here."
+msgstr ""
+
+#: admin/cea-settings.php:230
+msgid "Check/Uncheck All"
+msgstr ""
+
+#: admin/cea-settings.php:289
+msgid "Classic Addons Pro"
+msgstr ""
+
+#: admin/cea-settings.php:291
+msgid ""
+"Get started by spending some time with the documentation to get familiar "
+"with Classic Elementor Addons."
+msgstr ""
+
+#: admin/cea-settings.php:292
+msgid "Build awesome websites for you or your clients with ease."
+msgstr ""
+
+#: admin/class.zozo-api.php:43 admin/class.zozo-api.php:47
+msgid "An unknown API error occurred."
+msgstr ""
+
+#: admin/metabox-settings/meta_box.php:133
+#: admin/metabox-settings/meta_box.php:168
+msgid "px"
+msgstr ""
+
+#: admin/metabox-settings/meta_box.php:134
+#: admin/metabox-settings/meta_box.php:169
+msgid "em"
+msgstr ""
+
+#: admin/metabox-settings/meta_box.php:174 widgets/icon-list.php:251
+#: widgets/section-title.php:303 widgets/timeline.php:132
+msgid "Solid"
+msgstr ""
+
+#: admin/metabox-settings/meta_box.php:175 widgets/icon-list.php:254
+#: widgets/section-title.php:306 widgets/timeline.php:134
+msgid "Dashed"
+msgstr ""
+
+#: admin/metabox-settings/meta_box.php:176 widgets/icon-list.php:253
+#: widgets/section-title.php:305 widgets/timeline.php:133
+msgid "Dotted"
+msgstr ""
+
+#: admin/metabox-settings/meta_box.php:177 widgets/icon-list.php:252
+#: widgets/section-title.php:304
+msgid "Double"
+msgstr ""
+
+#: admin/metabox-settings/meta_box.php:199
+msgid "Regular"
+msgstr ""
+
+#: admin/metabox-settings/meta_box.php:200 widgets/accordion.php:453
+#: widgets/accordion.php:586 widgets/animated-text.php:280
+#: widgets/animated-text.php:415 widgets/button.php:329
+#: widgets/circle-progress.php:391 widgets/circle-progress.php:548
+#: widgets/contact-form.php:257 widgets/contact-info.php:559
+#: widgets/contact-info.php:707 widgets/contact-info.php:978
+#: widgets/content-carousel.php:454 widgets/content-carousel.php:554
+#: widgets/counter.php:433 widgets/counter.php:556 widgets/counter.php:667
+#: widgets/counter.php:795 widgets/counter.php:1009 widgets/day-counter.php:330
+#: widgets/day-counter.php:507 widgets/feature-box.php:777
+#: widgets/feature-box.php:915 widgets/feature-box.php:1043
+#: widgets/feature-box.php:1257 widgets/feature-box.php:1421
+#: widgets/feature-box.php:1596 widgets/icon.php:249 widgets/mailchimp.php:321
+#: widgets/mailchimp.php:505 widgets/mailchimp.php:675
+#: widgets/modal-popup.php:550 widgets/modal-popup.php:759
+#: widgets/modal-popup.php:923 widgets/modal-popup.php:1082
+#: widgets/offcanvas.php:478 widgets/offcanvas.php:531
+#: widgets/offcanvas.php:679 widgets/offcanvas.php:800 widgets/popover.php:181
+#: widgets/popover.php:494 widgets/popover.php:547 widgets/popover.php:695
+#: widgets/popover.php:816 widgets/popup-anything.php:490
+#: widgets/popup-anything.php:588 widgets/popup-anything.php:796
+#: widgets/popup-anything.php:960 widgets/popup-anything.php:1119
+#: widgets/posts.php:882 widgets/posts.php:998 widgets/posts.php:1125
+#: widgets/posts.php:1171 widgets/posts.php:1217 widgets/posts.php:1264
+#: widgets/posts.php:1454 widgets/posts.php:1649 widgets/posts.php:1783
+#: widgets/pricing-table.php:752 widgets/pricing-table.php:869
+#: widgets/pricing-table.php:996 widgets/pricing-table.php:1104
+#: widgets/pricing-table.php:1231 widgets/pricing-table.php:1444
+#: widgets/pricing-table.php:1605 widgets/pricing-table.php:1751
+#: widgets/pricing-table.php:1871 widgets/recent-popular.php:704
+#: widgets/recent-popular.php:820 widgets/recent-popular.php:947
+#: widgets/recent-popular.php:993 widgets/recent-popular.php:1039
+#: widgets/recent-popular.php:1085 widgets/recent-popular.php:1275
+#: widgets/recent-popular.php:1470 widgets/recent-popular.php:1604
+#: widgets/section-title.php:1381 widgets/social-links.php:365
+#: widgets/tab.php:556 widgets/tab.php:632 widgets/timeline.php:473
+#: widgets/timeline.php:573 widgets/toggle-content.php:416
+#: widgets/toggle-content.php:532
+msgid "Hover"
+msgstr ""
+
+#: admin/metabox-settings/meta_box.php:201 widgets/recent-popular.php:608
+#: widgets/switcher-content.php:336
+msgid "Active"
+msgstr ""
+
+#: admin/metabox-settings/meta_box.php:480
+msgid "Enabled Items"
+msgstr ""
+
+#: admin/metabox-settings/meta_box.php:482
+msgid "Disabled Items"
+msgstr ""
+
+#: controls/bootstrap-icon.php:94 controls/bootstrap-icon.php:95
+#: controls/fontawesome-icon.php:93 controls/themify-icon.php:95
+#: controls/themify-icon.php:96
+msgid "Select Icon"
+msgstr ""
+
+#: controls/cea-box-shadow.php:53 controls/cea-box-shadow.php:92
+msgctxt "Box Shadow Control"
+msgid "Box Shadow"
+msgstr ""
+
+#: controls/cea-box-shadow.php:62
+msgctxt "Box Shadow Control"
+msgid "Position"
+msgstr ""
+
+#: controls/cea-box-shadow.php:65
+msgctxt "Box Shadow Control"
+msgid "Outline"
+msgstr ""
+
+#: controls/cea-box-shadow.php:66
+msgctxt "Box Shadow Control"
+msgid "Inset"
+msgstr ""
+
+#: inc/cea-addon.php:152
+msgid "Themify Icons"
+msgstr ""
+
+#: inc/cea-addon.php:164
+msgid "Bootstrap Icons"
+msgstr ""
+
+#: inc/cea-addon.php:248
+msgid "Elementor AnimateText Widget"
+msgstr ""
+
+#: inc/cea-addon.php:249
+msgid "Elementor Popover"
+msgstr ""
+
+#: inc/cea-addon.php:250
+msgid "Elementor Contact Info Widget"
+msgstr ""
+
+#: inc/cea-addon.php:251
+msgid "Elementor Google Map Widget"
+msgstr ""
+
+#: inc/cea-addon.php:252
+msgid "Elementor Recent Popular Widget"
+msgstr ""
+
+#: inc/cea-addon.php:253
+msgid "Elementor Button Widget"
+msgstr ""
+
+#: inc/cea-addon.php:254
+msgid "Elementor Icon List Widget"
+msgstr ""
+
+#: inc/cea-addon.php:255
+msgid "Elementor Icon Widget"
+msgstr ""
+
+#: inc/cea-addon.php:256
+msgid "Elementor Feature Box Widget"
+msgstr ""
+
+#: inc/cea-addon.php:257
+msgid "Elementor Flip Box Widget"
+msgstr ""
+
+#: inc/cea-addon.php:258
+msgid "Elementor Section Title Widget"
+msgstr ""
+
+#: inc/cea-addon.php:259
+msgid "Elementor Chart Widget"
+msgstr ""
+
+#: inc/cea-addon.php:260
+msgid "Elementor Circle Progress Widget"
+msgstr ""
+
+#: inc/cea-addon.php:261
+msgid "Elementor Counter Widget"
+msgstr ""
+
+#: inc/cea-addon.php:262
+msgid "Elementor Day Counter Widget"
+msgstr ""
+
+#: inc/cea-addon.php:263
+msgid "Elementor Pricing Table Widget"
+msgstr ""
+
+#: inc/cea-addon.php:264
+msgid "Elementor Timeline Widget"
+msgstr ""
+
+#: inc/cea-addon.php:265
+msgid "Elementor Timeline Slide Widget"
+msgstr ""
+
+#: inc/cea-addon.php:266
+msgid "Elementor Offcanvas Widget"
+msgstr ""
+
+#: inc/cea-addon.php:267
+msgid "Elementor Image Grid Widget"
+msgstr ""
+
+#: inc/cea-addon.php:268
+msgid "Elementor Social Links Widget"
+msgstr ""
+
+#: inc/cea-addon.php:269
+msgid "Elementor Modal Popup Widget"
+msgstr ""
+
+#: inc/cea-addon.php:270
+msgid "Elementor Mailchimp Widget"
+msgstr ""
+
+#: inc/cea-addon.php:271
+msgid "Elementor Image Before After Widget"
+msgstr ""
+
+#: inc/cea-addon.php:274
+msgid "Elementor Accordion Widget"
+msgstr ""
+
+#: inc/cea-addon.php:275
+msgid "Elementor Tab Widget"
+msgstr ""
+
+#: inc/cea-addon.php:276
+msgid "Elementor Popup Anything"
+msgstr ""
+
+#: inc/cea-addon.php:277
+msgid "Elementor Content Carousel Widget"
+msgstr ""
+
+#: inc/cea-addon.php:278
+msgid "Elementor Switcher Content Widget"
+msgstr ""
+
+#: inc/cea-addon.php:279
+msgid "Elementor Toggle Content Widget"
+msgstr ""
+
+#: inc/cea-addon.php:280
+msgid "Elementor Table Widget"
+msgstr ""
+
+#: inc/cea-addon.php:283
+msgid "Elementor Contact Form Widget"
+msgstr ""
+
+#: inc/cea-addon.php:286
+msgid "Elementor Posts Widget"
+msgstr ""
+
+#: inc/cea-class.php:12 inc/cea-class.php:73
+msgid "First"
+msgstr ""
+
+#: inc/cea-class.php:13
+msgid "Prev"
+msgstr ""
+
+#: inc/cea-class.php:14
+msgid "Next"
+msgstr ""
+
+#: inc/cea-class.php:15 inc/cea-class.php:94
+msgid "Last"
+msgstr ""
+
+#: inc/cea-class.php:75
+msgid "previous"
+msgstr ""
+
+#: inc/cea-class.php:90
+msgid "next"
+msgstr ""
+
+#: inc/class.cea-ajax-calls.php:19
+msgid "Busted"
+msgstr ""
+
+#: inc/class.cea-pro-module.php:27
+msgid "CEA Custom CSS"
+msgstr ""
+
+#: inc/class.cea-pro-module.php:35
+msgid "Add your own custom CSS here"
+msgstr ""
+
+#: inc/class.cea-pro-module.php:44
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/function.php:38
+msgid "Are you sure want to save?"
+msgstr ""
+
+#: inc/function.php:146
+msgid "Rain Drops Settings"
+msgstr ""
+
+#: inc/function.php:153
+msgid "Enable/Disable Rain Drops"
+msgstr ""
+
+#: inc/function.php:155 inc/function.php:237 inc/function.php:360
+#: widgets/icon-list.php:236 widgets/image-before-after.php:221
+#: widgets/image-before-after.php:257
+msgid "Off"
+msgstr ""
+
+#: inc/function.php:156 inc/function.php:238 inc/function.php:361
+#: widgets/icon-list.php:237 widgets/image-before-after.php:220
+#: widgets/image-before-after.php:256
+msgid "On"
+msgstr ""
+
+#: inc/function.php:163
+msgid "Canvas Color"
+msgstr ""
+
+#: inc/function.php:165
+msgid "Here you can define rain drop canvas color. Example #333333"
+msgstr ""
+
+#: inc/function.php:173
+msgid "Canvas Height"
+msgstr ""
+
+#: inc/function.php:175
+msgid "Here you can define rain drop canvas height. Example 100"
+msgstr ""
+
+#: inc/function.php:183
+msgid "Rain Drop Speed"
+msgstr ""
+
+#: inc/function.php:185
+msgid "Here you can define rain drop speed. Example 0.01"
+msgstr ""
+
+#: inc/function.php:193
+msgid "Rain Drop Frequency"
+msgstr ""
+
+#: inc/function.php:195
+msgid "Here you can define rain drop frequency. Example 1"
+msgstr ""
+
+#: inc/function.php:203
+msgid "Rain Drop Density"
+msgstr ""
+
+#: inc/function.php:205
+msgid "Here you can define rain drop density. Example 0"
+msgstr ""
+
+#: inc/function.php:213
+msgid "Rain Drop Canvas Position"
+msgstr ""
+
+#: inc/function.php:217 widgets/chart.php:216 widgets/popover.php:154
+#: widgets/section-title.php:504 widgets/tab.php:300
+msgid "Top"
+msgstr ""
+
+#: inc/function.php:218 widgets/popover.php:158 widgets/section-title.php:503
+#: widgets/tab.php:304
+msgid "Bottom"
+msgstr ""
+
+#: inc/function.php:228
+msgid "Float Image Settings"
+msgstr ""
+
+#: inc/function.php:235
+msgid "Float Image Option"
+msgstr ""
+
+#: inc/function.php:247
+msgid "Float Image Title"
+msgstr ""
+
+#: inc/function.php:248
+msgid "Float image title."
+msgstr ""
+
+#: inc/function.php:256 inc/function.php:333
+msgid "Floating Image"
+msgstr ""
+
+#: inc/function.php:257
+msgid "Choose float image."
+msgstr ""
+
+#: inc/function.php:267
+msgid "Float Width"
+msgstr ""
+
+#: inc/function.php:268
+msgid "Mention here float image width. Example 30"
+msgstr ""
+
+#: inc/function.php:276
+msgid "Left Position"
+msgstr ""
+
+#: inc/function.php:277
+msgid "Float image left position. Example 80"
+msgstr ""
+
+#: inc/function.php:285
+msgid "Top Position"
+msgstr ""
+
+#: inc/function.php:286
+msgid "Float image top position. Example 300"
+msgstr ""
+
+#: inc/function.php:294
+msgid "Float Distance"
+msgstr ""
+
+#: inc/function.php:295
+msgid ""
+"Float image float distance. This option only use for when you active "
+"mousemove animation Example 100"
+msgstr ""
+
+#: inc/function.php:302
+msgid "Float Animation"
+msgstr ""
+
+#: inc/function.php:307
+msgid "Bounce"
+msgstr ""
+
+#: inc/function.php:308
+msgid "Slow Rotate"
+msgstr ""
+
+#: inc/function.php:309
+msgid "Speed Rotate"
+msgstr ""
+
+#: inc/function.php:316
+msgid "Mouse Animation"
+msgstr ""
+
+#: inc/function.php:320
+msgid "Disable"
+msgstr ""
+
+#: inc/function.php:321
+msgid "Enable"
+msgstr ""
+
+#: inc/function.php:329
+msgid "Floating Details"
+msgstr ""
+
+#: inc/function.php:352
+msgid "Parallax Settings"
+msgstr ""
+
+#: inc/function.php:359
+msgid "Enable/Disable Parallax"
+msgstr ""
+
+#: inc/function.php:368
+msgid "Parallax Speed"
+msgstr ""
+
+#: inc/function.php:370
+msgid "Here you can define parallax factor ratio. Example 2"
+msgstr ""
+
+#: index.php:126
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: index.php:127 index.php:151 index.php:176
+msgid "Classic Elementor Addons"
+msgstr ""
+
+#: index.php:128 index.php:152
+msgid "Elementor"
+msgstr ""
+
+#: index.php:150 index.php:175
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: index.php:197 widgets/animated-text.php:46 widgets/animated-text.php:130
+#: widgets/animated-text.php:142 widgets/animated-text.php:390
+msgid "Animated Text"
+msgstr ""
+
+#: index.php:198 widgets/button.php:44 widgets/button.php:125
+#: widgets/button.php:283 widgets/feature-box.php:280
+#: widgets/feature-box.php:306 widgets/feature-box.php:501
+#: widgets/feature-box.php:1550 widgets/flip-box.php:208
+#: widgets/flip-box.php:235 widgets/flip-box.php:439 widgets/flip-box.php:1675
+#: widgets/mailchimp.php:459 widgets/modal-popup.php:125
+#: widgets/modal-popup.php:256 widgets/offcanvas.php:123
+#: widgets/offcanvas.php:248 widgets/offcanvas.php:630 widgets/popover.php:131
+#: widgets/popover.php:247 widgets/popover.php:646
+#: widgets/popup-anything.php:123 widgets/popup-anything.php:263
+#: widgets/popup-anything.php:911 widgets/pricing-table.php:107
+#: widgets/pricing-table.php:386 widgets/pricing-table.php:1559
+#: widgets/pricing-table.php:2010 widgets/section-title.php:705
+#: widgets/section-title.php:1332 widgets/toggle-content.php:135
+#: widgets/toggle-content.php:488
+msgid "Button"
+msgstr ""
+
+#: index.php:199 widgets/circle-progress.php:46
+msgid "Circle Progress"
+msgstr ""
+
+#: index.php:200 widgets/contact-form.php:46 widgets/contact-form.php:112
+#: widgets/contact-form.php:359 widgets/contact-info.php:315
+msgid "Contact Form"
+msgstr ""
+
+#: index.php:201 widgets/contact-info.php:46 widgets/contact-info.php:127
+msgid "Contact Info"
+msgstr ""
+
+#: index.php:202 widgets/content-carousel.php:44
+msgid "Content Carousel"
+msgstr ""
+
+#: index.php:203 widgets/counter.php:47 widgets/counter.php:107
+#: widgets/counter.php:118 widgets/counter.php:637
+msgid "Counter"
+msgstr ""
+
+#: index.php:204 widgets/day-counter.php:47 widgets/day-counter.php:107
+#: widgets/day-counter.php:376
+msgid "Day Counter"
+msgstr ""
+
+#: index.php:205 widgets/feature-box.php:54 widgets/feature-box.php:698
+msgid "Feature Box"
+msgstr ""
+
+#: index.php:206 widgets/flip-box.php:47 widgets/flip-box.php:902
+msgid "Flip Box"
+msgstr ""
+
+#: index.php:207 widgets/google-map.php:44
+msgid "Google Map"
+msgstr ""
+
+#: index.php:208 widgets/accordion.php:235 widgets/button.php:218
+#: widgets/contact-info.php:359 widgets/contact-info.php:902
+#: widgets/counter.php:240 widgets/counter.php:253 widgets/counter.php:259
+#: widgets/counter.php:727 widgets/feature-box.php:274
+#: widgets/feature-box.php:298 widgets/feature-box.php:393
+#: widgets/feature-box.php:400 widgets/feature-box.php:594
+#: widgets/feature-box.php:975 widgets/feature-box.php:1943
+#: widgets/feature-box.php:1950 widgets/flip-box.php:203
+#: widgets/flip-box.php:230 widgets/flip-box.php:328 widgets/flip-box.php:538
+#: widgets/flip-box.php:692 widgets/flip-box.php:1214 widgets/flip-box.php:2034
+#: widgets/icon-list.php:134 widgets/icon-list.php:360 widgets/icon.php:44
+#: widgets/icon.php:89 widgets/icon.php:96 widgets/icon.php:181
+#: widgets/mailchimp.php:221 widgets/mailchimp.php:277
+#: widgets/modal-popup.php:124 widgets/modal-popup.php:166
+#: widgets/modal-popup.php:175 widgets/modal-popup.php:338
+#: widgets/offcanvas.php:119 widgets/offcanvas.php:194
+#: widgets/offcanvas.php:205 widgets/offcanvas.php:303
+#: widgets/offcanvas.php:447 widgets/popover.php:127 widgets/popover.php:193
+#: widgets/popover.php:204 widgets/popover.php:302 widgets/popover.php:447
+#: widgets/popup-anything.php:122 widgets/popup-anything.php:173
+#: widgets/popup-anything.php:182 widgets/popup-anything.php:345
+#: widgets/popup-anything.php:523 widgets/pricing-table.php:112
+#: widgets/pricing-table.php:308 widgets/pricing-table.php:479
+#: widgets/pricing-table.php:1163 widgets/section-title.php:564
+#: widgets/section-title.php:667 widgets/section-title.php:822
+#: widgets/social-links.php:139 widgets/social-links.php:289
+#: widgets/tab.php:150 widgets/tab.php:164 widgets/timeline.php:213
+#: widgets/timeline.php:222 widgets/toggle-content.php:229
+#: widgets/toggle-content.php:256
+msgid "Icon"
+msgstr ""
+
+#: index.php:209 widgets/icon-list.php:45 widgets/icon-list.php:91
+#: widgets/icon-list.php:157
+msgid "Icon List"
+msgstr ""
+
+#: index.php:210 widgets/image-grid.php:44
+msgid "Image Grid"
+msgstr ""
+
+#: index.php:211 widgets/modal-popup.php:44
+msgid "Modal Popup"
+msgstr ""
+
+#: index.php:212 widgets/pricing-table.php:44 widgets/pricing-table.php:91
+msgid "Pricing Table"
+msgstr ""
+
+#: index.php:213 widgets/section-title.php:44 widgets/section-title.php:423
+msgid "Section Title"
+msgstr ""
+
+#: index.php:214 widgets/contact-info.php:337 widgets/social-links.php:43
+msgid "Social Links"
+msgstr ""
+
+#: index.php:215 widgets/timeline-slide.php:125 widgets/timeline-slide.php:203
+#: widgets/timeline.php:44 widgets/timeline.php:147
+msgid "Timeline"
+msgstr ""
+
+#: index.php:216 widgets/timeline-slide.php:44
+msgid "Timeline Slide"
+msgstr ""
+
+#: index.php:217 widgets/chart.php:46 widgets/chart.php:280
+msgid "Chart"
+msgstr ""
+
+#: index.php:218
+msgid "Popup Anything"
+msgstr ""
+
+#: index.php:219 widgets/offcanvas.php:932 widgets/popover.php:46
+#: widgets/popover.php:1050
+msgid "Popover"
+msgstr ""
+
+#: index.php:220 widgets/recent-popular.php:47
+msgid "Recent/Popular Post"
+msgstr ""
+
+#: index.php:221 widgets/tab.php:45 widgets/tab.php:124 widgets/tab.php:327
+msgid "Tab"
+msgstr ""
+
+#: index.php:222 widgets/accordion.php:45 widgets/accordion.php:124
+#: widgets/accordion.php:323
+msgid "Accordion"
+msgstr ""
+
+#: index.php:223 widgets/offcanvas.php:46
+msgid "Offcanvas"
+msgstr ""
+
+#: index.php:224 widgets/switcher-content.php:44
+#: widgets/switcher-content.php:128 widgets/switcher-content.php:398
+msgid "Switcher Content"
+msgstr ""
+
+#: index.php:225 widgets/data-table.php:47
+msgid "Data Table"
+msgstr ""
+
+#: index.php:226 widgets/posts.php:47
+msgid "Posts"
+msgstr ""
+
+#: index.php:227 widgets/toggle-content.php:46 widgets/toggle-content.php:124
+msgid "Toggle Content"
+msgstr ""
+
+#: index.php:228 widgets/mailchimp.php:47 widgets/mailchimp.php:126
+msgid "Mailchimp"
+msgstr ""
+
+#: index.php:229
+msgid "Image Before After"
+msgstr ""
+
+#: widgets/accordion.php:107 widgets/switcher-content.php:106
+msgid "Default accordion options."
+msgstr ""
+
+#: widgets/accordion.php:114 widgets/chart.php:115 widgets/popover.php:115
+#: widgets/recent-popular.php:128 widgets/section-title.php:363
+#: widgets/tab.php:114
+msgid "Extra Class"
+msgstr ""
+
+#: widgets/accordion.php:115 widgets/chart.php:116 widgets/popover.php:116
+#: widgets/recent-popular.php:129 widgets/section-title.php:364
+#: widgets/tab.php:115
+msgid "Put extra class for some additional styles."
+msgstr ""
+
+#: widgets/accordion.php:126
+msgid "Accordion options."
+msgstr ""
+
+#: widgets/accordion.php:135 widgets/accordion.php:411
+#: widgets/animated-text.php:267 widgets/animated-text.php:288
+#: widgets/circle-progress.php:114 widgets/circle-progress.php:281
+#: widgets/circle-progress.php:520 widgets/circle-progress.php:741
+#: widgets/contact-info.php:116 widgets/contact-info.php:679
+#: widgets/content-carousel.php:114 widgets/content-carousel.php:526
+#: widgets/counter.php:116 widgets/counter.php:236 widgets/counter.php:528
+#: widgets/counter.php:1322 widgets/feature-box.php:275
+#: widgets/feature-box.php:301 widgets/feature-box.php:334
+#: widgets/feature-box.php:887 widgets/feature-box.php:1944
+#: widgets/feature-box.php:1953 widgets/flip-box.php:204
+#: widgets/flip-box.php:231 widgets/flip-box.php:249 widgets/flip-box.php:1092
+#: widgets/flip-box.php:2035 widgets/modal-popup.php:1123 widgets/posts.php:494
+#: widgets/posts.php:528 widgets/posts.php:582 widgets/posts.php:787
+#: widgets/posts.php:934 widgets/posts.php:1956 widgets/pricing-table.php:104
+#: widgets/pricing-table.php:241 widgets/pricing-table.php:1076
+#: widgets/pricing-table.php:2007 widgets/recent-popular.php:346
+#: widgets/recent-popular.php:380 widgets/recent-popular.php:434
+#: widgets/recent-popular.php:512 widgets/recent-popular.php:756
+#: widgets/recent-popular.php:1739 widgets/section-title.php:404
+#: widgets/section-title.php:900 widgets/tab.php:134
+msgid "Title"
+msgstr ""
+
+#: widgets/accordion.php:136 widgets/switcher-content.php:138
+#: widgets/switcher-content.php:168
+msgid "accordion title."
+msgstr ""
+
+#: widgets/accordion.php:142 widgets/button.php:133 widgets/feature-box.php:509
+#: widgets/flip-box.php:453 widgets/flip-box.php:607
+#: widgets/modal-popup.php:267 widgets/offcanvas.php:259
+#: widgets/popover.php:258 widgets/popup-anything.php:274
+#: widgets/pricing-table.php:394 widgets/section-title.php:722
+#: widgets/tab.php:199 widgets/toggle-content.php:143
+msgid "Type"
+msgstr ""
+
+#: widgets/accordion.php:147 widgets/offcanvas.php:161
+#: widgets/switcher-content.php:117 widgets/tab.php:204
+msgid "Text Content"
+msgstr ""
+
+#: widgets/accordion.php:151 widgets/offcanvas.php:162
+#: widgets/switcher-content.php:118 widgets/tab.php:208
+msgid "HTML Element"
+msgstr ""
+
+#: widgets/accordion.php:155 widgets/tab.php:212
+msgid "Saved Templates"
+msgstr ""
+
+#: widgets/accordion.php:165
+msgid "Accordion Content"
+msgstr ""
+
+#: widgets/accordion.php:167 widgets/switcher-content.php:157
+#: widgets/switcher-content.php:187
+msgid "You can place here accordion content."
+msgstr ""
+
+#: widgets/accordion.php:178 widgets/offcanvas.php:181 widgets/tab.php:235
+msgid "Element ID"
+msgstr ""
+
+#: widgets/accordion.php:179 widgets/switcher-content.php:146
+#: widgets/switcher-content.php:176 widgets/tab.php:236
+msgid "Enter element id"
+msgstr ""
+
+#: widgets/accordion.php:188 widgets/tab.php:245
+msgid "Choose Templates"
+msgstr ""
+
+#: widgets/accordion.php:202
+msgid "Accordion List"
+msgstr ""
+
+#: widgets/accordion.php:206 widgets/tab.php:262
+msgid "Title 1"
+msgstr ""
+
+#: widgets/accordion.php:213 widgets/tab.php:272
+msgid "Title 2"
+msgstr ""
+
+#: widgets/accordion.php:226
+msgid "Multi Open"
+msgstr ""
+
+#: widgets/accordion.php:227
+msgid "This is option for off the accordion toggle."
+msgstr ""
+
+#: widgets/accordion.php:267
+msgid "Active Icon"
+msgstr ""
+
+#: widgets/accordion.php:301 widgets/tab.php:288
+msgid "Icon Alignment"
+msgstr ""
+
+#: widgets/accordion.php:305
+msgid "Start"
+msgstr ""
+
+#: widgets/accordion.php:309
+msgid "End"
+msgstr ""
+
+#: widgets/accordion.php:330 widgets/accordion.php:502
+#: widgets/accordion.php:691 widgets/button.php:406 widgets/chart.php:287
+#: widgets/circle-progress.php:302 widgets/contact-form.php:337
+#: widgets/contact-info.php:639 widgets/contact-info.php:1047
+#: widgets/content-carousel.php:365 widgets/content-carousel.php:671
+#: widgets/counter.php:344 widgets/counter.php:873 widgets/counter.php:1103
+#: widgets/data-table.php:217 widgets/data-table.php:485
+#: widgets/day-counter.php:278 widgets/day-counter.php:403
+#: widgets/feature-box.php:1120 widgets/feature-box.php:1351
+#: widgets/feature-box.php:1673 widgets/flip-box.php:1279
+#: widgets/flip-box.php:1407 widgets/flip-box.php:1562
+#: widgets/flip-box.php:1652 widgets/flip-box.php:1737
+#: widgets/flip-box.php:1830 widgets/google-map.php:260 widgets/icon.php:336
+#: widgets/image-before-after.php:322 widgets/image-grid.php:364
+#: widgets/image-grid.php:494 widgets/mailchimp.php:372
+#: widgets/mailchimp.php:581 widgets/mailchimp.php:730
+#: widgets/modal-popup.php:623 widgets/modal-popup.php:853
+#: widgets/modal-popup.php:1000 widgets/modal-popup.php:1032
+#: widgets/modal-popup.php:1131 widgets/modal-popup.php:1181
+#: widgets/offcanvas.php:609 widgets/offcanvas.php:749 widgets/popover.php:625
+#: widgets/popover.php:765 widgets/popover.php:874
+#: widgets/popup-anything.php:440 widgets/popup-anything.php:660
+#: widgets/popup-anything.php:890 widgets/popup-anything.php:1037
+#: widgets/popup-anything.php:1069 widgets/posts.php:919 widgets/posts.php:1049
+#: widgets/posts.php:1370 widgets/posts.php:1521 widgets/posts.php:1712
+#: widgets/pricing-table.php:641 widgets/pricing-table.php:899
+#: widgets/pricing-table.php:1026 widgets/pricing-table.php:1308
+#: widgets/pricing-table.php:1538 widgets/pricing-table.php:1682
+#: widgets/pricing-table.php:1770 widgets/pricing-table.php:1820
+#: widgets/recent-popular.php:741 widgets/recent-popular.php:871
+#: widgets/recent-popular.php:1191 widgets/recent-popular.php:1342
+#: widgets/recent-popular.php:1533 widgets/section-title.php:1458
+#: widgets/social-links.php:277 widgets/social-links.php:434
+#: widgets/switcher-content.php:206 widgets/switcher-content.php:286
+#: widgets/switcher-content.php:405 widgets/tab.php:334 widgets/tab.php:468
+#: widgets/tab.php:697 widgets/timeline-slide.php:232 widgets/timeline.php:350
+#: widgets/toggle-content.php:327 widgets/toggle-content.php:601
+msgid "Padding"
+msgstr ""
+
+#: widgets/accordion.php:341 widgets/accordion.php:680 widgets/chart.php:298
+#: widgets/circle-progress.php:312 widgets/contact-form.php:327
+#: widgets/contact-info.php:629 widgets/content-carousel.php:375
+#: widgets/content-carousel.php:681 widgets/counter.php:354
+#: widgets/data-table.php:207 widgets/day-counter.php:288
+#: widgets/day-counter.php:413 widgets/google-map.php:250
+#: widgets/image-before-after.php:333 widgets/image-grid.php:354
+#: widgets/image-grid.php:394 widgets/image-grid.php:484
+#: widgets/modal-popup.php:1042 widgets/modal-popup.php:1141
+#: widgets/popup-anything.php:450 widgets/popup-anything.php:1079
+#: widgets/pricing-table.php:651 widgets/pricing-table.php:909
+#: widgets/pricing-table.php:1036 widgets/pricing-table.php:1780
+#: widgets/pricing-table.php:1830 widgets/social-links.php:267
+#: widgets/switcher-content.php:216 widgets/switcher-content.php:296
+#: widgets/switcher-content.php:415 widgets/tab.php:345 widgets/tab.php:479
+#: widgets/tab.php:686 widgets/timeline-slide.php:242 widgets/timeline.php:340
+#: widgets/toggle-content.php:337
+msgid "Margin"
+msgstr ""
+
+#: widgets/accordion.php:360 widgets/accordion.php:520 widgets/button.php:388
+#: widgets/chart.php:317 widgets/contact-info.php:966 widgets/counter.php:954
+#: widgets/feature-box.php:1201 widgets/feature-box.php:1655
+#: widgets/flip-box.php:1336 widgets/flip-box.php:1464
+#: widgets/flip-box.php:1719 widgets/flip-box.php:1812 widgets/icon.php:397
+#: widgets/mailchimp.php:445 widgets/mailchimp.php:563
+#: widgets/mailchimp.php:656 widgets/mailchimp.php:709
+#: widgets/modal-popup.php:701 widgets/modal-popup.php:982
+#: widgets/offcanvas.php:731 widgets/popover.php:747 widgets/popover.php:922
+#: widgets/popup-anything.php:738 widgets/popup-anything.php:1019
+#: widgets/posts.php:1503 widgets/pricing-table.php:698
+#: widgets/pricing-table.php:1389 widgets/pricing-table.php:1664
+#: widgets/recent-popular.php:1324 widgets/section-title.php:1440
+#: widgets/social-links.php:353 widgets/tab.php:364
+#: widgets/toggle-content.php:583
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/accordion.php:378 widgets/accordion.php:442
+#: widgets/accordion.php:469 widgets/accordion.php:641 widgets/button.php:316
+#: widgets/button.php:346 widgets/chart.php:335 widgets/circle-progress.php:340
+#: widgets/circle-progress.php:408 widgets/contact-form.php:193
+#: widgets/contact-info.php:495 widgets/content-carousel.php:403
+#: widgets/content-carousel.php:471 widgets/content-carousel.php:660
+#: widgets/counter.php:382 widgets/counter.php:450 widgets/counter.php:996
+#: widgets/data-table.php:184 widgets/data-table.php:380
+#: widgets/data-table.php:462 widgets/day-counter.php:318
+#: widgets/day-counter.php:349 widgets/day-counter.php:454
+#: widgets/day-counter.php:537 widgets/feature-box.php:713
+#: widgets/feature-box.php:1244 widgets/feature-box.php:1583
+#: widgets/feature-box.php:1613 widgets/flip-box.php:981
+#: widgets/flip-box.php:1038 widgets/flip-box.php:1228
+#: widgets/flip-box.php:1357 widgets/flip-box.php:1532
+#: widgets/flip-box.php:1622 widgets/flip-box.php:1700
+#: widgets/flip-box.php:1793 widgets/image-grid.php:343
+#: widgets/mailchimp.php:492 widgets/mailchimp.php:521
+#: widgets/mailchimp.php:638 widgets/mailchimp.php:691
+#: widgets/modal-popup.php:746 widgets/modal-popup.php:910
+#: widgets/modal-popup.php:940 widgets/modal-popup.php:1070
+#: widgets/modal-popup.php:1099 widgets/modal-popup.php:1202
+#: widgets/offcanvas.php:519 widgets/offcanvas.php:537
+#: widgets/offcanvas.php:666 widgets/offcanvas.php:696 widgets/popover.php:535
+#: widgets/popover.php:553 widgets/popover.php:682 widgets/popover.php:712
+#: widgets/popover.php:896 widgets/popup-anything.php:478
+#: widgets/popup-anything.php:507 widgets/popup-anything.php:783
+#: widgets/popup-anything.php:947 widgets/popup-anything.php:977
+#: widgets/popup-anything.php:1107 widgets/popup-anything.php:1136
+#: widgets/posts.php:1359 widgets/posts.php:1441 widgets/posts.php:1471
+#: widgets/pricing-table.php:679 widgets/pricing-table.php:769
+#: widgets/pricing-table.php:856 widgets/pricing-table.php:983
+#: widgets/pricing-table.php:1431 widgets/pricing-table.php:1592
+#: widgets/pricing-table.php:1622 widgets/pricing-table.php:1738
+#: widgets/pricing-table.php:1858 widgets/recent-popular.php:1180
+#: widgets/recent-popular.php:1262 widgets/recent-popular.php:1292
+#: widgets/section-title.php:1368 widgets/section-title.php:1398
+#: widgets/switcher-content.php:226 widgets/switcher-content.php:324
+#: widgets/switcher-content.php:353 widgets/switcher-content.php:384
+#: widgets/switcher-content.php:443 widgets/switcher-content.php:472
+#: widgets/tab.php:382 widgets/tab.php:545 widgets/tab.php:572
+#: widgets/tab.php:676 widgets/timeline-slide.php:221 widgets/timeline.php:373
+#: widgets/timeline.php:408 widgets/toggle-content.php:365
+#: widgets/toggle-content.php:433 widgets/toggle-content.php:520
+#: widgets/toggle-content.php:549
+msgid "Background Color"
+msgstr ""
+
+#: widgets/accordion.php:388
+msgid "Accordion Spacing"
+msgstr ""
+
+#: widgets/accordion.php:426 widgets/accordion.php:569
+#: widgets/animated-text.php:259 widgets/animated-text.php:382
+#: widgets/button.php:299 widgets/circle-progress.php:323
+#: widgets/circle-progress.php:528 widgets/contact-form.php:187
+#: widgets/contact-info.php:489 widgets/contact-info.php:687
+#: widgets/contact-info.php:924 widgets/content-carousel.php:386
+#: widgets/content-carousel.php:534 widgets/counter.php:365
+#: widgets/counter.php:536 widgets/counter.php:645 widgets/counter.php:737
+#: widgets/counter.php:990 widgets/day-counter.php:299
+#: widgets/day-counter.php:424 widgets/feature-box.php:196
+#: widgets/feature-box.php:707 widgets/feature-box.php:895
+#: widgets/feature-box.php:985 widgets/feature-box.php:1238
+#: widgets/feature-box.php:1381 widgets/feature-box.php:1566
+#: widgets/flip-box.php:975 widgets/icon.php:191 widgets/mailchimp.php:290
+#: widgets/mailchimp.php:475 widgets/mailchimp.php:622
+#: widgets/modal-popup.php:496 widgets/modal-popup.php:740
+#: widgets/modal-popup.php:893 widgets/modal-popup.php:1053
+#: widgets/offcanvas.php:458 widgets/offcanvas.php:513
+#: widgets/offcanvas.php:649 widgets/offcanvas.php:782 widgets/popover.php:474
+#: widgets/popover.php:529 widgets/popover.php:665 widgets/popover.php:798
+#: widgets/popup-anything.php:461 widgets/popup-anything.php:534
+#: widgets/popup-anything.php:777 widgets/popup-anything.php:930
+#: widgets/popup-anything.php:1090 widgets/posts.php:846 widgets/posts.php:960
+#: widgets/posts.php:1107 widgets/posts.php:1153 widgets/posts.php:1199
+#: widgets/posts.php:1246 widgets/posts.php:1424 widgets/posts.php:1631
+#: widgets/posts.php:1765 widgets/pricing-table.php:662
+#: widgets/pricing-table.php:839 widgets/pricing-table.php:966
+#: widgets/pricing-table.php:1084 widgets/pricing-table.php:1173
+#: widgets/pricing-table.php:1425 widgets/pricing-table.php:1575
+#: widgets/pricing-table.php:1732 widgets/pricing-table.php:1841
+#: widgets/recent-popular.php:668 widgets/recent-popular.php:782
+#: widgets/recent-popular.php:929 widgets/recent-popular.php:975
+#: widgets/recent-popular.php:1021 widgets/recent-popular.php:1067
+#: widgets/recent-popular.php:1245 widgets/recent-popular.php:1452
+#: widgets/recent-popular.php:1586 widgets/section-title.php:1351
+#: widgets/social-links.php:311 widgets/switcher-content.php:307
+#: widgets/tab.php:529 widgets/tab.php:615 widgets/timeline.php:402
+#: widgets/timeline.php:553 widgets/toggle-content.php:348
+#: widgets/toggle-content.php:503
+msgid "Normal"
+msgstr ""
+
+#: widgets/accordion.php:432 widgets/accordion.php:459
+#: widgets/accordion.php:575 widgets/accordion.php:592
+#: widgets/accordion.php:631 widgets/contact-info.php:910
+#: widgets/flip-box.php:1888 widgets/flip-box.php:1926
+#: widgets/icon-list.php:341 widgets/icon-list.php:423
+#: widgets/image-grid.php:473 widgets/offcanvas.php:464
+#: widgets/offcanvas.php:484 widgets/offcanvas.php:788
+#: widgets/offcanvas.php:806 widgets/popover.php:480 widgets/popover.php:500
+#: widgets/popover.php:804 widgets/popover.php:822 widgets/popover.php:885
+#: widgets/posts.php:852 widgets/posts.php:888 widgets/posts.php:966
+#: widgets/posts.php:1113 widgets/posts.php:1159 widgets/posts.php:1205
+#: widgets/posts.php:1252 widgets/posts.php:1637 widgets/posts.php:1655
+#: widgets/pricing-table.php:845 widgets/pricing-table.php:875
+#: widgets/pricing-table.php:972 widgets/pricing-table.php:1002
+#: widgets/pricing-table.php:1847 widgets/pricing-table.php:1877
+#: widgets/recent-popular.php:614 widgets/recent-popular.php:633
+#: widgets/recent-popular.php:674 widgets/recent-popular.php:710
+#: widgets/recent-popular.php:788 widgets/recent-popular.php:935
+#: widgets/recent-popular.php:981 widgets/recent-popular.php:1027
+#: widgets/recent-popular.php:1073 widgets/recent-popular.php:1458
+#: widgets/recent-popular.php:1476 widgets/section-title.php:1053
+#: widgets/social-links.php:297 widgets/tab.php:535 widgets/tab.php:562
+#: widgets/tab.php:621 widgets/tab.php:638 widgets/tab.php:666
+#: widgets/timeline.php:361
+msgid "Color"
+msgstr ""
+
+#: widgets/accordion.php:481 widgets/content-carousel.php:122
+msgid "Title Tag"
+msgstr ""
+
+#: widgets/accordion.php:485 widgets/animated-text.php:174
+#: widgets/circle-progress.php:263 widgets/contact-info.php:137
+#: widgets/content-carousel.php:126 widgets/counter.php:218
+#: widgets/feature-box.php:355 widgets/flip-box.php:275
+#: widgets/flip-box.php:311 widgets/modal-popup.php:439 widgets/posts.php:594
+#: widgets/pricing-table.php:262 widgets/recent-popular.php:446
+#: widgets/section-title.php:442 widgets/section-title.php:482
+#: widgets/tab.php:406
+msgid "h1"
+msgstr ""
+
+#: widgets/accordion.php:486 widgets/animated-text.php:175
+#: widgets/circle-progress.php:264 widgets/contact-info.php:138
+#: widgets/content-carousel.php:127 widgets/counter.php:219
+#: widgets/feature-box.php:356 widgets/flip-box.php:276
+#: widgets/flip-box.php:312 widgets/modal-popup.php:440 widgets/posts.php:595
+#: widgets/pricing-table.php:263 widgets/recent-popular.php:447
+#: widgets/section-title.php:443 widgets/section-title.php:483
+#: widgets/tab.php:407
+msgid "h2"
+msgstr ""
+
+#: widgets/accordion.php:487 widgets/animated-text.php:176
+#: widgets/circle-progress.php:265 widgets/contact-info.php:139
+#: widgets/content-carousel.php:128 widgets/counter.php:220
+#: widgets/feature-box.php:357 widgets/flip-box.php:277
+#: widgets/flip-box.php:313 widgets/modal-popup.php:441 widgets/posts.php:596
+#: widgets/pricing-table.php:264 widgets/recent-popular.php:448
+#: widgets/section-title.php:444 widgets/section-title.php:484
+#: widgets/tab.php:408
+msgid "h3"
+msgstr ""
+
+#: widgets/accordion.php:488 widgets/animated-text.php:177
+#: widgets/circle-progress.php:266 widgets/contact-info.php:140
+#: widgets/content-carousel.php:129 widgets/counter.php:221
+#: widgets/feature-box.php:358 widgets/flip-box.php:278
+#: widgets/flip-box.php:314 widgets/modal-popup.php:442 widgets/posts.php:597
+#: widgets/pricing-table.php:265 widgets/recent-popular.php:449
+#: widgets/section-title.php:445 widgets/section-title.php:485
+#: widgets/tab.php:409
+msgid "h4"
+msgstr ""
+
+#: widgets/accordion.php:489 widgets/animated-text.php:178
+#: widgets/circle-progress.php:267 widgets/contact-info.php:141
+#: widgets/content-carousel.php:130 widgets/counter.php:222
+#: widgets/feature-box.php:359 widgets/flip-box.php:279
+#: widgets/flip-box.php:315 widgets/modal-popup.php:443 widgets/posts.php:598
+#: widgets/pricing-table.php:266 widgets/recent-popular.php:450
+#: widgets/section-title.php:446 widgets/section-title.php:486
+#: widgets/tab.php:410
+msgid "h5"
+msgstr ""
+
+#: widgets/accordion.php:490 widgets/animated-text.php:179
+#: widgets/circle-progress.php:268 widgets/contact-info.php:142
+#: widgets/content-carousel.php:131 widgets/counter.php:223
+#: widgets/feature-box.php:360 widgets/flip-box.php:280
+#: widgets/flip-box.php:316 widgets/modal-popup.php:444 widgets/posts.php:599
+#: widgets/pricing-table.php:267 widgets/recent-popular.php:451
+#: widgets/section-title.php:447 widgets/section-title.php:487
+#: widgets/tab.php:411
+msgid "h6"
+msgstr ""
+
+#: widgets/accordion.php:491 widgets/animated-text.php:180
+#: widgets/contact-info.php:143 widgets/feature-box.php:361
+#: widgets/flip-box.php:281 widgets/pricing-table.php:268
+#: widgets/section-title.php:448 widgets/section-title.php:488
+#: widgets/section-title.php:535 widgets/tab.php:412
+msgid "p"
+msgstr ""
+
+#: widgets/accordion.php:492 widgets/animated-text.php:181
+#: widgets/contact-info.php:144 widgets/feature-box.php:362
+#: widgets/flip-box.php:282 widgets/pricing-table.php:269
+#: widgets/section-title.php:449 widgets/section-title.php:489
+#: widgets/section-title.php:536 widgets/tab.php:413
+msgid "span"
+msgstr ""
+
+#: widgets/accordion.php:493 widgets/animated-text.php:182
+#: widgets/contact-info.php:145 widgets/feature-box.php:363
+#: widgets/flip-box.php:283 widgets/pricing-table.php:270
+#: widgets/section-title.php:450 widgets/section-title.php:490
+#: widgets/section-title.php:537 widgets/tab.php:414
+msgid "div"
+msgstr ""
+
+#: widgets/accordion.php:494 widgets/contact-info.php:146
+#: widgets/feature-box.php:364 widgets/flip-box.php:284
+#: widgets/pricing-table.php:271 widgets/section-title.php:451
+#: widgets/section-title.php:491 widgets/section-title.php:538
+#: widgets/tab.php:415
+msgid "i"
+msgstr ""
+
+#: widgets/accordion.php:531 widgets/accordion.php:651
+#: widgets/animated-text.php:332 widgets/button.php:175
+#: widgets/circle-progress.php:216 widgets/contact-form.php:146
+#: widgets/contact-info.php:182 widgets/content-carousel.php:149
+#: widgets/content-carousel.php:594 widgets/counter.php:171
+#: widgets/data-table.php:254 widgets/data-table.php:413
+#: widgets/data-table.php:495 widgets/day-counter.php:154
+#: widgets/feature-box.php:551 widgets/feature-box.php:855
+#: widgets/flip-box.php:495 widgets/flip-box.php:649 widgets/flip-box.php:945
+#: widgets/icon-list.php:211 widgets/icon.php:153 widgets/image-grid.php:441
+#: widgets/modal-popup.php:134 widgets/modal-popup.php:295
+#: widgets/modal-popup.php:1213 widgets/popover.php:415
+#: widgets/popup-anything.php:141 widgets/popup-anything.php:302
+#: widgets/posts.php:250 widgets/pricing-table.php:209
+#: widgets/pricing-table.php:436 widgets/recent-popular.php:250
+#: widgets/section-title.php:370 widgets/section-title.php:773
+#: widgets/social-links.php:98 widgets/tab.php:439
+#: widgets/toggle-content.php:159
+msgid "Alignment"
+msgstr ""
+
+#: widgets/accordion.php:535 widgets/accordion.php:655
+#: widgets/animated-text.php:337 widgets/button.php:179
+#: widgets/circle-progress.php:220 widgets/contact-form.php:151
+#: widgets/contact-info.php:187 widgets/content-carousel.php:153
+#: widgets/content-carousel.php:598 widgets/counter.php:175
+#: widgets/data-table.php:258 widgets/data-table.php:417
+#: widgets/data-table.php:499 widgets/day-counter.php:158
+#: widgets/feature-box.php:215 widgets/feature-box.php:297
+#: widgets/feature-box.php:555 widgets/feature-box.php:860
+#: widgets/flip-box.php:499 widgets/flip-box.php:653 widgets/flip-box.php:950
+#: widgets/icon-list.php:215 widgets/icon-list.php:373 widgets/icon.php:157
+#: widgets/image-grid.php:446 widgets/modal-popup.php:139
+#: widgets/modal-popup.php:299 widgets/modal-popup.php:1218
+#: widgets/popover.php:162 widgets/popover.php:419
+#: widgets/popup-anything.php:146 widgets/popup-anything.php:306
+#: widgets/posts.php:255 widgets/posts.php:545 widgets/posts.php:564
+#: widgets/pricing-table.php:213 widgets/pricing-table.php:440
+#: widgets/recent-popular.php:255 widgets/recent-popular.php:397
+#: widgets/recent-popular.php:416 widgets/section-title.php:374
+#: widgets/section-title.php:777 widgets/social-links.php:103
+#: widgets/tab.php:292 widgets/tab.php:444 widgets/toggle-content.php:163
+msgid "Left"
+msgstr ""
+
+#: widgets/accordion.php:539 widgets/accordion.php:659
+#: widgets/animated-text.php:341 widgets/button.php:183
+#: widgets/circle-progress.php:224 widgets/contact-form.php:155
+#: widgets/contact-info.php:191 widgets/content-carousel.php:157
+#: widgets/content-carousel.php:602 widgets/counter.php:179
+#: widgets/data-table.php:262 widgets/data-table.php:421
+#: widgets/data-table.php:503 widgets/day-counter.php:162
+#: widgets/feature-box.php:559 widgets/feature-box.php:864
+#: widgets/flip-box.php:503 widgets/flip-box.php:657 widgets/flip-box.php:954
+#: widgets/icon-list.php:219 widgets/icon.php:161 widgets/image-grid.php:450
+#: widgets/modal-popup.php:143 widgets/modal-popup.php:303
+#: widgets/modal-popup.php:1222 widgets/popover.php:423
+#: widgets/popup-anything.php:150 widgets/popup-anything.php:310
+#: widgets/posts.php:259 widgets/pricing-table.php:217
+#: widgets/pricing-table.php:444 widgets/recent-popular.php:259
+#: widgets/section-title.php:378 widgets/section-title.php:781
+#: widgets/social-links.php:107 widgets/tab.php:448
+#: widgets/toggle-content.php:167
+msgid "Center"
+msgstr ""
+
+#: widgets/accordion.php:543 widgets/accordion.php:663
+#: widgets/animated-text.php:345 widgets/button.php:187
+#: widgets/circle-progress.php:228 widgets/contact-form.php:159
+#: widgets/contact-info.php:195 widgets/content-carousel.php:161
+#: widgets/content-carousel.php:606 widgets/counter.php:183
+#: widgets/data-table.php:266 widgets/data-table.php:425
+#: widgets/data-table.php:507 widgets/day-counter.php:166
+#: widgets/feature-box.php:219 widgets/feature-box.php:300
+#: widgets/feature-box.php:563 widgets/feature-box.php:868
+#: widgets/flip-box.php:507 widgets/flip-box.php:661 widgets/flip-box.php:958
+#: widgets/icon-list.php:223 widgets/icon-list.php:377 widgets/icon.php:165
+#: widgets/image-grid.php:454 widgets/modal-popup.php:147
+#: widgets/modal-popup.php:307 widgets/modal-popup.php:1226
+#: widgets/popover.php:166 widgets/popover.php:427
+#: widgets/popup-anything.php:154 widgets/popup-anything.php:314
+#: widgets/posts.php:263 widgets/posts.php:546 widgets/posts.php:565
+#: widgets/pricing-table.php:221 widgets/pricing-table.php:448
+#: widgets/recent-popular.php:263 widgets/recent-popular.php:398
+#: widgets/recent-popular.php:417 widgets/section-title.php:382
+#: widgets/section-title.php:785 widgets/social-links.php:111
+#: widgets/tab.php:296 widgets/tab.php:452 widgets/toggle-content.php:171
+msgid "Right"
+msgstr ""
+
+#: widgets/accordion.php:547 widgets/accordion.php:667
+#: widgets/animated-text.php:349 widgets/button.php:191
+#: widgets/circle-progress.php:232 widgets/contact-form.php:163
+#: widgets/contact-info.php:199 widgets/content-carousel.php:165
+#: widgets/content-carousel.php:610 widgets/counter.php:187
+#: widgets/data-table.php:270 widgets/data-table.php:429
+#: widgets/data-table.php:511 widgets/day-counter.php:170
+#: widgets/feature-box.php:567 widgets/feature-box.php:872
+#: widgets/flip-box.php:511 widgets/flip-box.php:665 widgets/flip-box.php:962
+#: widgets/image-grid.php:458 widgets/modal-popup.php:151
+#: widgets/modal-popup.php:311 widgets/modal-popup.php:1230
+#: widgets/popover.php:431 widgets/popup-anything.php:158
+#: widgets/popup-anything.php:318 widgets/posts.php:267
+#: widgets/pricing-table.php:225 widgets/pricing-table.php:452
+#: widgets/recent-popular.php:267 widgets/section-title.php:386
+#: widgets/section-title.php:789 widgets/social-links.php:115
+#: widgets/tab.php:456 widgets/toggle-content.php:175
+msgid "Justified"
+msgstr ""
+
+#: widgets/accordion.php:560
+msgid "Icon Styles"
+msgstr ""
+
+#: widgets/accordion.php:604
+msgid "Icon Margin"
+msgstr ""
+
+#: widgets/accordion.php:617 widgets/animated-text.php:104
+#: widgets/circle-progress.php:140 widgets/circle-progress.php:284
+#: widgets/circle-progress.php:626 widgets/content-carousel.php:195
+#: widgets/counter.php:241 widgets/counter.php:1124 widgets/feature-box.php:276
+#: widgets/feature-box.php:302 widgets/feature-box.php:679
+#: widgets/feature-box.php:687 widgets/feature-box.php:1695
+#: widgets/feature-box.php:1945 widgets/feature-box.php:1954
+#: widgets/flip-box.php:205 widgets/flip-box.php:232 widgets/flip-box.php:858
+#: widgets/flip-box.php:1873 widgets/flip-box.php:2036
+#: widgets/modal-popup.php:426 widgets/modal-popup.php:1173
+#: widgets/posts.php:1623 widgets/pricing-table.php:113
+#: widgets/pricing-table.php:564 widgets/pricing-table.php:1813
+#: widgets/recent-popular.php:1444 widgets/section-title.php:685
+#: widgets/section-title.php:694 widgets/section-title.php:1283
+#: widgets/tab.php:652 widgets/timeline-slide.php:172 widgets/timeline.php:300
+msgid "Content"
+msgstr ""
+
+#: widgets/animated-text.php:111 widgets/animated-text.php:113
+#: widgets/animated-text.php:114
+msgid "Prefix Text"
+msgstr ""
+
+#: widgets/animated-text.php:120 widgets/animated-text.php:122
+msgid "Suffix Text"
+msgstr ""
+
+#: widgets/animated-text.php:146
+msgid "Web"
+msgstr ""
+
+#: widgets/animated-text.php:149
+msgid "App"
+msgstr ""
+
+#: widgets/animated-text.php:152
+msgid "Design"
+msgstr ""
+
+#: widgets/animated-text.php:163 widgets/circle-progress.php:245
+#: widgets/feature-box.php:191 widgets/flip-box.php:184
+#: widgets/icon-list.php:100 widgets/mailchimp.php:134
+msgid "Layout"
+msgstr ""
+
+#: widgets/animated-text.php:170
+msgid "Choose heading tag"
+msgstr ""
+
+#: widgets/animated-text.php:189
+msgid "Enter type speed"
+msgstr ""
+
+#: widgets/animated-text.php:198
+msgid "Enter back speed"
+msgstr ""
+
+#: widgets/animated-text.php:207
+msgid "Enter back delay"
+msgstr ""
+
+#: widgets/animated-text.php:216
+msgid "Enter start delay"
+msgstr ""
+
+#: widgets/animated-text.php:225
+msgid "Enter cursor character"
+msgstr ""
+
+#: widgets/animated-text.php:234
+msgid "Enter animate loop"
+msgstr ""
+
+#: widgets/animated-text.php:238
+msgid "True"
+msgstr ""
+
+#: widgets/animated-text.php:239
+msgid "False"
+msgstr ""
+
+#: widgets/animated-text.php:249 widgets/icon-list.php:248
+msgid "Style"
+msgstr ""
+
+#: widgets/animated-text.php:251
+msgid "Normal style options here available."
+msgstr ""
+
+#: widgets/animated-text.php:268
+msgid "Here you can put the title color."
+msgstr ""
+
+#: widgets/animated-text.php:289
+msgid "Here you can put the title hover color."
+msgstr ""
+
+#: widgets/animated-text.php:303 widgets/circle-progress.php:568
+#: widgets/contact-info.php:727 widgets/content-carousel.php:584
+#: widgets/counter.php:576 widgets/feature-box.php:935
+#: widgets/flip-box.php:1118 widgets/flip-box.php:1173
+#: widgets/pricing-table.php:1124 widgets/section-title.php:943
+msgid "Title Margin"
+msgstr ""
+
+#: widgets/animated-text.php:313 widgets/circle-progress.php:596
+#: widgets/contact-info.php:737 widgets/content-carousel.php:623
+#: widgets/counter.php:604 widgets/feature-box.php:945
+#: widgets/flip-box.php:1128 widgets/flip-box.php:1183
+#: widgets/pricing-table.php:1134 widgets/section-title.php:963
+msgid "Title Spacing"
+msgstr ""
+
+#: widgets/animated-text.php:372
+msgid "Animated Text Style"
+msgstr ""
+
+#: widgets/animated-text.php:374
+msgid "Animated text style options here available."
+msgstr ""
+
+#: widgets/animated-text.php:391 widgets/animated-text.php:424
+msgid "Here you can put animated text color."
+msgstr ""
+
+#: widgets/animated-text.php:402
+msgid "Animated Background"
+msgstr ""
+
+#: widgets/animated-text.php:403
+msgid "Here you can put animated background color."
+msgstr ""
+
+#: widgets/animated-text.php:423
+msgid "Animated Text Hover"
+msgstr ""
+
+#: widgets/animated-text.php:435
+msgid "Animated Background Hover"
+msgstr ""
+
+#: widgets/animated-text.php:436
+msgid "Here you can put animated background hover color."
+msgstr ""
+
+#: widgets/animated-text.php:450
+msgid "Animated Text Padding"
+msgstr ""
+
+#: widgets/button.php:103 widgets/button.php:206 widgets/feature-box.php:113
+#: widgets/feature-box.php:582 widgets/flip-box.php:526
+#: widgets/flip-box.php:680 widgets/modal-popup.php:326
+#: widgets/offcanvas.php:291 widgets/popover.php:290
+#: widgets/popup-anything.php:333 widgets/pricing-table.php:467
+#: widgets/section-title.php:807 widgets/toggle-content.php:190
+msgid "Extra Small"
+msgstr ""
+
+#: widgets/button.php:104 widgets/button.php:207 widgets/feature-box.php:114
+#: widgets/feature-box.php:583 widgets/flip-box.php:527
+#: widgets/flip-box.php:681 widgets/modal-popup.php:327
+#: widgets/modal-popup.php:475 widgets/offcanvas.php:292
+#: widgets/popover.php:291 widgets/popup-anything.php:334
+#: widgets/pricing-table.php:468 widgets/section-title.php:808
+#: widgets/toggle-content.php:191
+msgid "Small"
+msgstr ""
+
+#: widgets/button.php:105 widgets/button.php:208 widgets/feature-box.php:115
+#: widgets/feature-box.php:584 widgets/flip-box.php:528
+#: widgets/flip-box.php:682 widgets/modal-popup.php:328
+#: widgets/modal-popup.php:473 widgets/offcanvas.php:293
+#: widgets/popover.php:292 widgets/popup-anything.php:335
+#: widgets/pricing-table.php:469 widgets/section-title.php:809
+#: widgets/toggle-content.php:192
+msgid "Medium"
+msgstr ""
+
+#: widgets/button.php:106 widgets/button.php:209 widgets/feature-box.php:116
+#: widgets/feature-box.php:585 widgets/flip-box.php:529
+#: widgets/flip-box.php:683 widgets/modal-popup.php:329
+#: widgets/modal-popup.php:474 widgets/offcanvas.php:294
+#: widgets/popover.php:293 widgets/popup-anything.php:336
+#: widgets/pricing-table.php:470 widgets/section-title.php:810
+#: widgets/toggle-content.php:193
+msgid "Large"
+msgstr ""
+
+#: widgets/button.php:107 widgets/button.php:210 widgets/feature-box.php:117
+#: widgets/feature-box.php:586 widgets/flip-box.php:530
+#: widgets/flip-box.php:684 widgets/modal-popup.php:330
+#: widgets/offcanvas.php:295 widgets/popover.php:294
+#: widgets/popup-anything.php:337 widgets/pricing-table.php:471
+#: widgets/section-title.php:811 widgets/toggle-content.php:194
+msgid "Extra Large"
+msgstr ""
+
+#: widgets/button.php:127 widgets/feature-box.php:503
+#: widgets/modal-popup.php:258 widgets/offcanvas.php:250
+#: widgets/popover.php:249 widgets/popup-anything.php:265
+#: widgets/pricing-table.php:388 widgets/section-title.php:707
+#: widgets/toggle-content.php:137
+msgid "Button options available here."
+msgstr ""
+
+#: widgets/button.php:137 widgets/circle-progress.php:249
+#: widgets/circle-progress.php:583 widgets/contact-form.php:136
+#: widgets/contact-info.php:158 widgets/contact-info.php:215
+#: widgets/content-carousel.php:182 widgets/counter.php:204
+#: widgets/counter.php:274 widgets/counter.php:591 widgets/day-counter.php:187
+#: widgets/feature-box.php:181 widgets/feature-box.php:377
+#: widgets/feature-box.php:416 widgets/feature-box.php:513
+#: widgets/flip-box.php:357 widgets/flip-box.php:407 widgets/flip-box.php:457
+#: widgets/flip-box.php:611 widgets/icon-list.php:105 widgets/icon.php:112
+#: widgets/mailchimp.php:137 widgets/modal-popup.php:190
+#: widgets/modal-popup.php:271 widgets/offcanvas.php:263
+#: widgets/popover.php:262 widgets/popup-anything.php:197
+#: widgets/popup-anything.php:278 widgets/posts.php:292 widgets/posts.php:946
+#: widgets/posts.php:1410 widgets/pricing-table.php:200
+#: widgets/pricing-table.php:284 widgets/pricing-table.php:323
+#: widgets/pricing-table.php:398 widgets/recent-popular.php:292
+#: widgets/recent-popular.php:768 widgets/recent-popular.php:1231
+#: widgets/section-title.php:726 widgets/tab.php:426 widgets/timeline.php:118
+#: widgets/toggle-content.php:147
+msgid "Default"
+msgstr ""
+
+#: widgets/button.php:138 widgets/contact-info.php:230
+#: widgets/contact-info.php:249 widgets/contact-info.php:767
+#: widgets/contact-info.php:1129 widgets/feature-box.php:514
+#: widgets/flip-box.php:458 widgets/flip-box.php:612
+#: widgets/modal-popup.php:272 widgets/offcanvas.php:264
+#: widgets/popover.php:263 widgets/popup-anything.php:279
+#: widgets/pricing-table.php:399 widgets/section-title.php:727
+#: widgets/toggle-content.php:148
+msgid "Info"
+msgstr ""
+
+#: widgets/button.php:139 widgets/feature-box.php:515 widgets/flip-box.php:459
+#: widgets/flip-box.php:613 widgets/modal-popup.php:273
+#: widgets/offcanvas.php:265 widgets/popover.php:264
+#: widgets/popup-anything.php:280 widgets/pricing-table.php:400
+#: widgets/section-title.php:728 widgets/toggle-content.php:149
+msgid "Success"
+msgstr ""
+
+#: widgets/button.php:140 widgets/feature-box.php:516 widgets/flip-box.php:460
+#: widgets/flip-box.php:614 widgets/modal-popup.php:274
+#: widgets/offcanvas.php:266 widgets/popover.php:265
+#: widgets/popup-anything.php:281 widgets/pricing-table.php:401
+#: widgets/section-title.php:729 widgets/toggle-content.php:150
+msgid "Warning"
+msgstr ""
+
+#: widgets/button.php:141 widgets/feature-box.php:517 widgets/flip-box.php:461
+#: widgets/flip-box.php:615 widgets/modal-popup.php:275
+#: widgets/offcanvas.php:267 widgets/popover.php:266
+#: widgets/popup-anything.php:282 widgets/pricing-table.php:402
+#: widgets/section-title.php:730 widgets/toggle-content.php:151
+msgid "Danger"
+msgstr ""
+
+#: widgets/button.php:149 widgets/feature-box.php:525 widgets/flip-box.php:469
+#: widgets/flip-box.php:623 widgets/icon-list.php:121 widgets/icon-list.php:415
+#: widgets/mailchimp.php:217 widgets/modal-popup.php:127
+#: widgets/modal-popup.php:283 widgets/modal-popup.php:403
+#: widgets/offcanvas.php:131 widgets/offcanvas.php:275
+#: widgets/offcanvas.php:368 widgets/popover.php:139 widgets/popover.php:274
+#: widgets/popover.php:367 widgets/popup-anything.php:125
+#: widgets/popup-anything.php:290 widgets/popup-anything.php:410
+#: widgets/popup-anything.php:1059 widgets/pricing-table.php:410
+#: widgets/section-title.php:741 widgets/timeline.php:215
+#: widgets/toggle-content.php:217 widgets/toggle-content.php:244
+msgid "Text"
+msgstr ""
+
+#: widgets/button.php:154 widgets/button.php:155 widgets/feature-box.php:530
+#: widgets/feature-box.php:531 widgets/flip-box.php:474
+#: widgets/flip-box.php:475 widgets/flip-box.php:628 widgets/flip-box.php:629
+#: widgets/modal-popup.php:288 widgets/modal-popup.php:289
+#: widgets/modal-popup.php:417 widgets/offcanvas.php:280
+#: widgets/offcanvas.php:281 widgets/popover.php:279 widgets/popover.php:280
+#: widgets/popup-anything.php:295 widgets/popup-anything.php:296
+#: widgets/popup-anything.php:424 widgets/pricing-table.php:415
+#: widgets/pricing-table.php:416 widgets/section-title.php:746
+#: widgets/section-title.php:747 widgets/toggle-content.php:222
+#: widgets/toggle-content.php:223 widgets/toggle-content.php:249
+#: widgets/toggle-content.php:250
+msgid "Click here"
+msgstr ""
+
+#: widgets/button.php:161 widgets/contact-info.php:434
+#: widgets/feature-box.php:152 widgets/feature-box.php:537
+#: widgets/flip-box.php:167 widgets/flip-box.php:481 widgets/flip-box.php:635
+#: widgets/icon-list.php:147 widgets/icon.php:141 widgets/pricing-table.php:422
+#: widgets/section-title.php:756 widgets/social-links.php:214
+msgid "Link"
+msgstr ""
+
+#: widgets/button.php:166 widgets/contact-info.php:442
+#: widgets/feature-box.php:160 widgets/feature-box.php:542
+#: widgets/flip-box.php:175 widgets/flip-box.php:486 widgets/flip-box.php:640
+#: widgets/icon-list.php:149 widgets/icon.php:146 widgets/pricing-table.php:427
+#: widgets/section-title.php:761 widgets/social-links.php:222
+msgid "https://your-link.com"
+msgstr ""
+
+#: widgets/button.php:202 widgets/contact-info.php:1029 widgets/counter.php:855
+#: widgets/feature-box.php:578 widgets/feature-box.php:1102
+#: widgets/flip-box.php:522 widgets/flip-box.php:676 widgets/flip-box.php:1259
+#: widgets/flip-box.php:1387 widgets/icon.php:318 widgets/mailchimp.php:354
+#: widgets/modal-popup.php:322 widgets/modal-popup.php:606
+#: widgets/offcanvas.php:287 widgets/popover.php:286 widgets/popover.php:457
+#: widgets/popup-anything.php:329 widgets/popup-anything.php:643
+#: widgets/pricing-table.php:463 widgets/pricing-table.php:1290
+#: widgets/section-title.php:803 widgets/section-title.php:1126
+#: widgets/social-links.php:416 widgets/tab.php:593
+#: widgets/toggle-content.php:186
+msgid "Size"
+msgstr ""
+
+#: widgets/button.php:226 widgets/feature-box.php:602 widgets/flip-box.php:546
+#: widgets/flip-box.php:700 widgets/icon-list.php:368
+#: widgets/modal-popup.php:346 widgets/offcanvas.php:311
+#: widgets/popover.php:310 widgets/popup-anything.php:353
+#: widgets/pricing-table.php:487 widgets/section-title.php:833
+#: widgets/toggle-content.php:266
+msgid "Icon Position"
+msgstr ""
+
+#: widgets/button.php:230 widgets/feature-box.php:606 widgets/flip-box.php:550
+#: widgets/flip-box.php:704 widgets/image-before-after.php:120
+#: widgets/image-before-after.php:267 widgets/image-before-after.php:279
+#: widgets/modal-popup.php:350 widgets/offcanvas.php:315
+#: widgets/popover.php:314 widgets/popup-anything.php:357
+#: widgets/pricing-table.php:491 widgets/section-title.php:837
+#: widgets/toggle-content.php:270
+msgid "Before"
+msgstr ""
+
+#: widgets/button.php:231 widgets/feature-box.php:607 widgets/flip-box.php:551
+#: widgets/flip-box.php:705 widgets/image-before-after.php:141
+#: widgets/image-before-after.php:289 widgets/image-before-after.php:301
+#: widgets/modal-popup.php:351 widgets/offcanvas.php:316
+#: widgets/popover.php:315 widgets/popup-anything.php:358
+#: widgets/pricing-table.php:492 widgets/section-title.php:838
+#: widgets/toggle-content.php:271
+msgid "After"
+msgstr ""
+
+#: widgets/button.php:241 widgets/feature-box.php:617 widgets/flip-box.php:561
+#: widgets/flip-box.php:715 widgets/modal-popup.php:361
+#: widgets/offcanvas.php:326 widgets/popover.php:325
+#: widgets/popup-anything.php:368 widgets/pricing-table.php:502
+#: widgets/section-title.php:849 widgets/toggle-content.php:279
+msgid "Icon Spacing"
+msgstr ""
+
+#: widgets/button.php:257 widgets/counter.php:271 widgets/feature-box.php:413
+#: widgets/feature-box.php:633 widgets/flip-box.php:577
+#: widgets/flip-box.php:731 widgets/icon.php:109 widgets/modal-popup.php:187
+#: widgets/modal-popup.php:377 widgets/offcanvas.php:342
+#: widgets/popover.php:341 widgets/popup-anything.php:194
+#: widgets/popup-anything.php:384 widgets/pricing-table.php:320
+#: widgets/pricing-table.php:518 widgets/section-title.php:868
+#: widgets/toggle-content.php:295
+msgid "View"
+msgstr ""
+
+#: widgets/button.php:265 widgets/feature-box.php:641 widgets/flip-box.php:585
+#: widgets/flip-box.php:739 widgets/modal-popup.php:385
+#: widgets/offcanvas.php:350 widgets/popover.php:349
+#: widgets/popup-anything.php:392 widgets/pricing-table.php:526
+#: widgets/section-title.php:879 widgets/toggle-content.php:303
+msgid "Button ID"
+msgstr ""
+
+#: widgets/button.php:271 widgets/feature-box.php:647 widgets/flip-box.php:591
+#: widgets/flip-box.php:745 widgets/modal-popup.php:391
+#: widgets/offcanvas.php:356 widgets/popover.php:355
+#: widgets/popup-anything.php:398 widgets/pricing-table.php:532
+#: widgets/section-title.php:885 widgets/toggle-content.php:309
+msgid "Add your custom id WITHOUT the Pound key. e.g: my-id"
+msgstr ""
+
+#: widgets/button.php:272 widgets/feature-box.php:648 widgets/flip-box.php:592
+#: widgets/flip-box.php:746 widgets/modal-popup.php:392
+#: widgets/offcanvas.php:357 widgets/popover.php:356
+#: widgets/popup-anything.php:399 widgets/pricing-table.php:533
+#: widgets/section-title.php:886 widgets/toggle-content.php:310
+msgid ""
+"Please make sure the ID is unique and not used elsewhere on the page this "
+"form is displayed. This field allows <code>A-z 0-9</code> & underscore chars "
+"without spaces."
+msgstr ""
+
+#: widgets/button.php:305 widgets/button.php:335 widgets/feature-box.php:1572
+#: widgets/feature-box.php:1602 widgets/flip-box.php:1689
+#: widgets/flip-box.php:1782 widgets/mailchimp.php:481
+#: widgets/mailchimp.php:511 widgets/modal-popup.php:899
+#: widgets/modal-popup.php:929 widgets/offcanvas.php:655
+#: widgets/offcanvas.php:685 widgets/popover.php:671 widgets/popover.php:701
+#: widgets/popup-anything.php:936 widgets/popup-anything.php:966
+#: widgets/posts.php:1430 widgets/posts.php:1460 widgets/pricing-table.php:1581
+#: widgets/pricing-table.php:1611 widgets/recent-popular.php:1251
+#: widgets/recent-popular.php:1281 widgets/section-title.php:1357
+#: widgets/section-title.php:1387 widgets/toggle-content.php:509
+#: widgets/toggle-content.php:538
+msgid "Text Color"
+msgstr ""
+
+#: widgets/button.php:356 widgets/contact-info.php:1012 widgets/counter.php:776
+#: widgets/counter.php:834 widgets/feature-box.php:1024
+#: widgets/feature-box.php:1082 widgets/feature-box.php:1623
+#: widgets/icon.php:230 widgets/icon.php:289 widgets/mailchimp.php:308
+#: widgets/mailchimp.php:339 widgets/mailchimp.php:531
+#: widgets/modal-popup.php:533 widgets/modal-popup.php:587
+#: widgets/modal-popup.php:950 widgets/offcanvas.php:548
+#: widgets/offcanvas.php:706 widgets/popover.php:564 widgets/popover.php:722
+#: widgets/popup-anything.php:571 widgets/popup-anything.php:625
+#: widgets/popup-anything.php:987 widgets/posts.php:1481
+#: widgets/pricing-table.php:1212 widgets/pricing-table.php:1270
+#: widgets/pricing-table.php:1632 widgets/recent-popular.php:1302
+#: widgets/section-title.php:1408 widgets/social-links.php:399
+#: widgets/timeline.php:654 widgets/toggle-content.php:559
+msgid "Border Color"
+msgstr ""
+
+#: widgets/button.php:369 widgets/counter.php:1026 widgets/feature-box.php:1274
+#: widgets/feature-box.php:1636 widgets/icon.php:306 widgets/mailchimp.php:544
+#: widgets/modal-popup.php:776 widgets/modal-popup.php:963
+#: widgets/popup-anything.php:813 widgets/popup-anything.php:1000
+#: widgets/pricing-table.php:1461 widgets/pricing-table.php:1645
+#: widgets/section-title.php:1421
+msgid "Hover Animation"
+msgstr ""
+
+#: widgets/chart.php:108
+msgid "Default chart options."
+msgstr ""
+
+#: widgets/chart.php:123
+msgid "Chart Width"
+msgstr ""
+
+#: widgets/chart.php:124
+msgid "Here you can specify chart width. Example 800"
+msgstr ""
+
+#: widgets/chart.php:132
+msgid "Chart Height"
+msgstr ""
+
+#: widgets/chart.php:133
+msgid "Here you can specify chart height. Example 300"
+msgstr ""
+
+#: widgets/chart.php:140
+msgid "Chart Type"
+msgstr ""
+
+#: widgets/chart.php:144
+msgid "Pie Chart"
+msgstr ""
+
+#: widgets/chart.php:145
+msgid "Doughnut Chart"
+msgstr ""
+
+#: widgets/chart.php:146
+msgid "Bar Chart"
+msgstr ""
+
+#: widgets/chart.php:147
+msgid "Line Chart"
+msgstr ""
+
+#: widgets/chart.php:154
+msgid "Y-Axis Zero Beginning"
+msgstr ""
+
+#: widgets/chart.php:155
+msgid "This is option for set y-axis zero value beginning."
+msgstr ""
+
+#: widgets/chart.php:167
+msgid "Dots Color"
+msgstr ""
+
+#: widgets/chart.php:168
+msgid "Here you can specify chart dots color. Example #1555bd"
+msgstr ""
+
+#: widgets/chart.php:179 widgets/timeline-slide.php:267
+msgid "Line Color"
+msgstr ""
+
+#: widgets/chart.php:180
+msgid "Here you can specify chart ,line color. Example #4580e0"
+msgstr ""
+
+#: widgets/chart.php:190
+msgid "Chart Fill"
+msgstr ""
+
+#: widgets/chart.php:191
+msgid "This is option for fill chart."
+msgstr ""
+
+#: widgets/chart.php:202
+msgid "Chart Responsive"
+msgstr ""
+
+#: widgets/chart.php:203
+msgid "This is option for responsive chart."
+msgstr ""
+
+#: widgets/chart.php:211
+msgid "Chart Legend Position"
+msgstr ""
+
+#: widgets/chart.php:227
+msgid "Chart Label"
+msgstr ""
+
+#: widgets/chart.php:228
+msgid "Chart item label."
+msgstr ""
+
+#: widgets/chart.php:235
+msgid "Chart Value"
+msgstr ""
+
+#: widgets/chart.php:236
+msgid "Chart item value."
+msgstr ""
+
+#: widgets/chart.php:243
+msgid "Chart Color"
+msgstr ""
+
+#: widgets/chart.php:244
+msgid "Chart item color."
+msgstr ""
+
+#: widgets/chart.php:250
+msgid "Chart Details"
+msgstr ""
+
+#: widgets/chart.php:251
+msgid "This is options for put chart item labels and values."
+msgstr ""
+
+#: widgets/chart.php:256
+msgid "HTML"
+msgstr ""
+
+#: widgets/circle-progress.php:105 widgets/circle-progress.php:116
+#: widgets/circle-progress.php:463
+msgid "Progress"
+msgstr ""
+
+#: widgets/circle-progress.php:107 widgets/content-carousel.php:107
+#: widgets/recent-popular.php:121
+msgid "Default blog options."
+msgstr ""
+
+#: widgets/circle-progress.php:115 widgets/content-carousel.php:115
+msgid "Here you put the circle progress title."
+msgstr ""
+
+#: widgets/circle-progress.php:122
+msgid "Progress %"
+msgstr ""
+
+#: widgets/circle-progress.php:123
+msgid ""
+"Here you can place progress value. This value must be in 1 to 100. Example 70"
+msgstr ""
+
+#: widgets/circle-progress.php:141
+msgid "Here you put the progress content."
+msgstr ""
+
+#: widgets/circle-progress.php:148
+msgid "Progress Size"
+msgstr ""
+
+#: widgets/circle-progress.php:149
+msgid "Here you can set circle progress size. Example 200."
+msgstr ""
+
+#: widgets/circle-progress.php:167
+msgid "Progress Thickness"
+msgstr ""
+
+#: widgets/circle-progress.php:168
+msgid "Here you can set circle progress thickness. Example 10."
+msgstr ""
+
+#: widgets/circle-progress.php:186
+msgid "Progress Duration"
+msgstr ""
+
+#: widgets/circle-progress.php:187
+msgid "Here you can set circle progress animation duration. Example 1500."
+msgstr ""
+
+#: widgets/circle-progress.php:208 widgets/contact-form.php:124
+#: widgets/contact-info.php:174 widgets/content-carousel.php:141
+#: widgets/counter.php:163 widgets/day-counter.php:146
+#: widgets/feature-box.php:169 widgets/posts.php:242
+#: widgets/pricing-table.php:187 widgets/recent-popular.php:242
+#: widgets/social-links.php:90 widgets/timeline.php:91
+msgid "Layouts"
+msgstr ""
+
+#: widgets/circle-progress.php:210 widgets/contact-form.php:126
+#: widgets/content-carousel.php:143
+msgid "Circle progress layout options here available."
+msgstr ""
+
+#: widgets/circle-progress.php:250 widgets/contact-form.php:137
+#: widgets/contact-info.php:216 widgets/content-carousel.php:183
+#: widgets/counter.php:205 widgets/day-counter.php:188
+#: widgets/feature-box.php:182 widgets/posts.php:293
+#: widgets/pricing-table.php:201 widgets/recent-popular.php:293
+msgid "Classic"
+msgstr ""
+
+#: widgets/circle-progress.php:251 widgets/contact-form.php:138
+#: widgets/contact-info.php:217 widgets/content-carousel.php:184
+#: widgets/counter.php:206 widgets/day-counter.php:189
+#: widgets/feature-box.php:183 widgets/posts.php:294
+#: widgets/pricing-table.php:202 widgets/recent-popular.php:294
+msgid "Modern"
+msgstr ""
+
+#: widgets/circle-progress.php:252 widgets/contact-form.php:139
+#: widgets/contact-info.php:218 widgets/day-counter.php:190
+#: widgets/feature-box.php:184 widgets/posts.php:295
+#: widgets/recent-popular.php:295
+msgid "Classic Pro"
+msgstr ""
+
+#: widgets/circle-progress.php:259 widgets/counter.php:214
+#: widgets/posts.php:590 widgets/recent-popular.php:442
+msgid "Post Heading Tag"
+msgstr ""
+
+#: widgets/circle-progress.php:276
+msgid ""
+"This is settings for Circle Progress custom layout. here you can set your "
+"own layout. Drag and drop needed Circle Progress items to Enabled part."
+msgstr ""
+
+#: widgets/circle-progress.php:280 widgets/circle-progress.php:740
+#: widgets/counter.php:288 widgets/day-counter.php:205
+#: widgets/feature-box.php:431 widgets/flip-box.php:371
+#: widgets/flip-box.php:421 widgets/icon.php:127 widgets/modal-popup.php:204
+#: widgets/popup-anything.php:211 widgets/pricing-table.php:337
+#: widgets/timeline.php:193
+msgid "Circle"
+msgstr ""
+
+#: widgets/circle-progress.php:329 widgets/circle-progress.php:397
+#: widgets/contact-form.php:205 widgets/contact-info.php:507
+#: widgets/content-carousel.php:392 widgets/content-carousel.php:460
+#: widgets/counter.php:371 widgets/counter.php:439 widgets/data-table.php:196
+#: widgets/data-table.php:392 widgets/data-table.php:474
+#: widgets/day-counter.php:305 widgets/day-counter.php:336
+#: widgets/day-counter.php:441 widgets/day-counter.php:524
+#: widgets/feature-box.php:725 widgets/modal-popup.php:1059
+#: widgets/modal-popup.php:1088 widgets/modal-popup.php:1151
+#: widgets/modal-popup.php:1191 widgets/popup-anything.php:467
+#: widgets/popup-anything.php:496 widgets/popup-anything.php:1096
+#: widgets/popup-anything.php:1125 widgets/pricing-table.php:668
+#: widgets/pricing-table.php:758 widgets/switcher-content.php:313
+#: widgets/switcher-content.php:342 widgets/switcher-content.php:432
+#: widgets/switcher-content.php:461 widgets/timeline.php:421
+#: widgets/timeline.php:560 widgets/toggle-content.php:354
+#: widgets/toggle-content.php:422
+msgid "Font Color"
+msgstr ""
+
+#: widgets/circle-progress.php:351 widgets/circle-progress.php:419
+#: widgets/contact-form.php:216 widgets/contact-form.php:285
+#: widgets/contact-info.php:518 widgets/contact-info.php:587
+#: widgets/content-carousel.php:414 widgets/content-carousel.php:482
+#: widgets/content-carousel.php:691 widgets/counter.php:393
+#: widgets/counter.php:461 widgets/day-counter.php:467
+#: widgets/day-counter.php:550 widgets/feature-box.php:736
+#: widgets/feature-box.php:805 widgets/flip-box.php:992
+#: widgets/flip-box.php:1049 widgets/pricing-table.php:712
+#: widgets/pricing-table.php:780 widgets/switcher-content.php:237
+#: widgets/timeline.php:432 widgets/timeline.php:502
+#: widgets/toggle-content.php:376 widgets/toggle-content.php:444
+msgid "Box Shadow Enable"
+msgstr ""
+
+#: widgets/circle-progress.php:352 widgets/circle-progress.php:361
+#: widgets/circle-progress.php:420 widgets/circle-progress.php:429
+msgid "This is option for show box shadow on progress box hover."
+msgstr ""
+
+#: widgets/circle-progress.php:360 widgets/contact-form.php:225
+#: widgets/contact-info.php:527 widgets/content-carousel.php:423
+#: widgets/content-carousel.php:700 widgets/counter.php:402
+#: widgets/day-counter.php:476 widgets/feature-box.php:745
+#: widgets/flip-box.php:1001 widgets/flip-box.php:1058
+#: widgets/pricing-table.php:721 widgets/switcher-content.php:246
+#: widgets/timeline.php:441 widgets/toggle-content.php:385
+msgid "Box Shadow"
+msgstr ""
+
+#: widgets/circle-progress.php:374 widgets/circle-progress.php:442
+#: widgets/contact-form.php:239 widgets/contact-form.php:308
+#: widgets/contact-info.php:541 widgets/contact-info.php:610
+#: widgets/content-carousel.php:437 widgets/content-carousel.php:505
+#: widgets/content-carousel.php:714 widgets/counter.php:416
+#: widgets/counter.php:484 widgets/day-counter.php:490
+#: widgets/day-counter.php:573 widgets/feature-box.php:759
+#: widgets/feature-box.php:828 widgets/flip-box.php:1014
+#: widgets/flip-box.php:1071 widgets/pricing-table.php:735
+#: widgets/pricing-table.php:803 widgets/switcher-content.php:260
+#: widgets/timeline.php:455 widgets/timeline.php:525
+#: widgets/toggle-content.php:399 widgets/toggle-content.php:467
+msgid "Box Shadow Position"
+msgstr ""
+
+#: widgets/circle-progress.php:377 widgets/circle-progress.php:445
+#: widgets/contact-form.php:242 widgets/contact-form.php:311
+#: widgets/contact-info.php:544 widgets/contact-info.php:613
+#: widgets/content-carousel.php:440 widgets/content-carousel.php:508
+#: widgets/content-carousel.php:717 widgets/counter.php:419
+#: widgets/counter.php:487 widgets/day-counter.php:493
+#: widgets/day-counter.php:576 widgets/feature-box.php:762
+#: widgets/feature-box.php:831 widgets/flip-box.php:1017
+#: widgets/flip-box.php:1074 widgets/pricing-table.php:738
+#: widgets/pricing-table.php:806 widgets/switcher-content.php:263
+#: widgets/timeline.php:458 widgets/timeline.php:528
+#: widgets/toggle-content.php:402 widgets/toggle-content.php:470
+msgid "Outline"
+msgstr ""
+
+#: widgets/circle-progress.php:378 widgets/circle-progress.php:446
+#: widgets/contact-form.php:243 widgets/contact-form.php:312
+#: widgets/contact-info.php:545 widgets/contact-info.php:614
+#: widgets/content-carousel.php:441 widgets/content-carousel.php:509
+#: widgets/content-carousel.php:718 widgets/counter.php:420
+#: widgets/counter.php:488 widgets/day-counter.php:494
+#: widgets/day-counter.php:577 widgets/feature-box.php:763
+#: widgets/feature-box.php:832 widgets/flip-box.php:1018
+#: widgets/flip-box.php:1075 widgets/pricing-table.php:739
+#: widgets/pricing-table.php:807 widgets/switcher-content.php:264
+#: widgets/timeline.php:459 widgets/timeline.php:529
+#: widgets/toggle-content.php:403 widgets/toggle-content.php:471
+msgid "Inset"
+msgstr ""
+
+#: widgets/circle-progress.php:428 widgets/contact-form.php:294
+#: widgets/contact-info.php:596 widgets/content-carousel.php:491
+#: widgets/counter.php:470 widgets/day-counter.php:559
+#: widgets/feature-box.php:814 widgets/pricing-table.php:789
+#: widgets/timeline.php:511 widgets/toggle-content.php:453
+msgid "Hover Box Shadow"
+msgstr ""
+
+#: widgets/circle-progress.php:471
+msgid "Circle Empty Fill Color"
+msgstr ""
+
+#: widgets/circle-progress.php:472
+msgid "Here you can put the circle empty fill color."
+msgstr ""
+
+#: widgets/circle-progress.php:480
+msgid "Circle Start Color"
+msgstr ""
+
+#: widgets/circle-progress.php:481
+msgid "Here you can put the circle fill start color."
+msgstr ""
+
+#: widgets/circle-progress.php:489
+msgid "Circle End Color"
+msgstr ""
+
+#: widgets/circle-progress.php:490
+msgid ""
+"Here you can put the circle fill end color. If you not giving end color, "
+"then circle take start color for end color."
+msgstr ""
+
+#: widgets/circle-progress.php:497
+msgid "Progress Bar Spacing"
+msgstr ""
+
+#: widgets/circle-progress.php:535 widgets/contact-info.php:694
+#: widgets/content-carousel.php:541 widgets/counter.php:543
+#: widgets/feature-box.php:902 widgets/flip-box.php:1107
+#: widgets/flip-box.php:1162 widgets/pricing-table.php:1091
+#: widgets/section-title.php:920
+msgid "Title Color"
+msgstr ""
+
+#: widgets/circle-progress.php:536 widgets/circle-progress.php:556
+#: widgets/contact-form.php:206 widgets/contact-info.php:508
+#: widgets/contact-info.php:695 widgets/contact-info.php:715
+#: widgets/content-carousel.php:542 widgets/content-carousel.php:562
+#: widgets/counter.php:544 widgets/counter.php:564 widgets/counter.php:675
+#: widgets/data-table.php:197 widgets/feature-box.php:726
+#: widgets/feature-box.php:903 widgets/feature-box.php:923
+#: widgets/flip-box.php:1163 widgets/pricing-table.php:1092
+#: widgets/pricing-table.php:1112 widgets/timeline.php:422
+#: widgets/timeline.php:561
+msgid "Here you can put the font color."
+msgstr ""
+
+#: widgets/circle-progress.php:555 widgets/contact-info.php:714
+#: widgets/content-carousel.php:561 widgets/counter.php:563
+#: widgets/counter.php:674 widgets/feature-box.php:922
+#: widgets/pricing-table.php:1111
+msgid "Title Hover Color"
+msgstr ""
+
+#: widgets/circle-progress.php:578 widgets/contact-info.php:153
+#: widgets/counter.php:586 widgets/feature-box.php:372 widgets/posts.php:941
+#: widgets/pricing-table.php:279 widgets/recent-popular.php:763
+#: widgets/tab.php:422
+msgid "Title Transform"
+msgstr ""
+
+#: widgets/circle-progress.php:580 widgets/contact-info.php:155
+#: widgets/counter.php:588 widgets/feature-box.php:374 widgets/posts.php:943
+#: widgets/pricing-table.php:281 widgets/recent-popular.php:765
+msgid "Set title text-transform property."
+msgstr ""
+
+#: widgets/circle-progress.php:584 widgets/contact-info.php:159
+#: widgets/counter.php:592 widgets/feature-box.php:378 widgets/posts.php:947
+#: widgets/posts.php:1411 widgets/pricing-table.php:285
+#: widgets/recent-popular.php:769 widgets/recent-popular.php:1232
+#: widgets/tab.php:427
+msgid "Capitalized"
+msgstr ""
+
+#: widgets/circle-progress.php:585 widgets/contact-info.php:160
+#: widgets/counter.php:593 widgets/feature-box.php:379 widgets/posts.php:948
+#: widgets/posts.php:1412 widgets/pricing-table.php:286
+#: widgets/recent-popular.php:770 widgets/recent-popular.php:1233
+#: widgets/tab.php:428
+msgid "Upper Case"
+msgstr ""
+
+#: widgets/circle-progress.php:586 widgets/contact-info.php:161
+#: widgets/counter.php:594 widgets/feature-box.php:380 widgets/posts.php:949
+#: widgets/posts.php:1413 widgets/pricing-table.php:287
+#: widgets/recent-popular.php:771 widgets/recent-popular.php:1234
+#: widgets/tab.php:429
+msgid "Lower Case"
+msgstr ""
+
+#: widgets/circle-progress.php:633 widgets/counter.php:1131
+#: widgets/feature-box.php:1702 widgets/pricing-table.php:1901
+msgid "Description Spacing"
+msgstr ""
+
+#: widgets/contact-form.php:105
+msgid "Default contact form options."
+msgstr ""
+
+#: widgets/contact-form.php:113 widgets/contact-info.php:316
+msgid "Choose one contact form from given contact forms."
+msgstr ""
+
+#: widgets/contact-form.php:132
+msgid "Contact Form Layout"
+msgstr ""
+
+#: widgets/contact-form.php:217 widgets/contact-form.php:226
+#: widgets/contact-form.php:286 widgets/contact-form.php:295
+#: widgets/contact-info.php:519 widgets/contact-info.php:528
+#: widgets/contact-info.php:588 widgets/contact-info.php:597
+#: widgets/feature-box.php:737 widgets/feature-box.php:746
+#: widgets/feature-box.php:806 widgets/feature-box.php:815
+msgid "This is option for show box shadow on feature box hover."
+msgstr ""
+
+#: widgets/contact-form.php:263 widgets/contact-info.php:565
+#: widgets/counter.php:1015 widgets/feature-box.php:783
+#: widgets/feature-box.php:1263 widgets/modal-popup.php:765
+#: widgets/popup-anything.php:802 widgets/pricing-table.php:886
+#: widgets/pricing-table.php:1013 widgets/pricing-table.php:1450
+#: widgets/pricing-table.php:1757 widgets/pricing-table.php:1888
+#: widgets/timeline.php:479
+msgid "Hover Background Color"
+msgstr ""
+
+#: widgets/contact-form.php:275 widgets/contact-info.php:577
+#: widgets/feature-box.php:795 widgets/timeline.php:492
+#: widgets/timeline.php:580
+msgid "Hover Font Color"
+msgstr ""
+
+#: widgets/contact-form.php:367 widgets/contact-info.php:326
+msgid "Contact Form 7"
+msgstr ""
+
+#: widgets/contact-info.php:118 widgets/feature-box.php:336
+#: widgets/pricing-table.php:243 widgets/section-title.php:406
+msgid "Title options available here."
+msgstr ""
+
+#: widgets/contact-info.php:125
+msgid "Contact Widget Title"
+msgstr ""
+
+#: widgets/contact-info.php:126
+msgid "Enter contact widget title here. If no need title, leave it blank."
+msgstr ""
+
+#: widgets/contact-info.php:133 widgets/feature-box.php:351
+#: widgets/pricing-table.php:258 widgets/tab.php:402
+msgid "Title Heading Tag"
+msgstr ""
+
+#: widgets/contact-info.php:176
+msgid "Contact widgets layout options here available."
+msgstr ""
+
+#: widgets/contact-info.php:211
+msgid "Contact Info Layout"
+msgstr ""
+
+#: widgets/contact-info.php:226
+msgid ""
+"This is settings for contact info custom layout. here you can set your own "
+"layout. Drag and drop needed contact items to Enabled part."
+msgstr ""
+
+#: widgets/contact-info.php:229 widgets/counter.php:234
+#: widgets/day-counter.php:128 widgets/posts.php:521
+#: widgets/recent-popular.php:373
+msgid "Enabled"
+msgstr ""
+
+#: widgets/contact-info.php:231 widgets/contact-info.php:1130
+msgid "Mail ID"
+msgstr ""
+
+#: widgets/contact-info.php:232 widgets/contact-info.php:1131
+msgid "Phone"
+msgstr ""
+
+#: widgets/contact-info.php:234 widgets/counter.php:239
+#: widgets/day-counter.php:134 widgets/feature-box.php:304
+#: widgets/posts.php:522 widgets/posts.php:547 widgets/posts.php:566
+#: widgets/recent-popular.php:374 widgets/recent-popular.php:399
+#: widgets/recent-popular.php:418
+msgid "disabled"
+msgstr ""
+
+#: widgets/contact-info.php:235
+msgid "Social"
+msgstr ""
+
+#: widgets/contact-info.php:236
+msgid "Address"
+msgstr ""
+
+#: widgets/contact-info.php:237 widgets/contact-info.php:305
+msgid "Form"
+msgstr ""
+
+#: widgets/contact-info.php:238
+msgid "Timing"
+msgstr ""
+
+#: widgets/contact-info.php:251
+msgid "Contact info tab."
+msgstr ""
+
+#: widgets/contact-info.php:258
+msgid "Contact Information or Description"
+msgstr ""
+
+#: widgets/contact-info.php:259
+msgid "Enter contact informaion or description here."
+msgstr ""
+
+#: widgets/contact-info.php:260
+msgid "About your company."
+msgstr ""
+
+#: widgets/contact-info.php:267
+msgid "Contact Address"
+msgstr ""
+
+#: widgets/contact-info.php:268
+msgid "Enter contact address here."
+msgstr ""
+
+#: widgets/contact-info.php:269
+msgid "#123 Your address"
+msgstr ""
+
+#: widgets/contact-info.php:276
+msgid "Email Id"
+msgstr ""
+
+#: widgets/contact-info.php:277
+msgid ""
+"Enter email id. If you enter multiple email id means, seperate with comma(,)."
+msgstr ""
+
+#: widgets/contact-info.php:278
+msgid "username@email.com"
+msgstr ""
+
+#: widgets/contact-info.php:285
+msgid "Contact Number"
+msgstr ""
+
+#: widgets/contact-info.php:286
+msgid ""
+"Enter contact number. If you enter multiple contact number means, seperate "
+"with comma(,)."
+msgstr ""
+
+#: widgets/contact-info.php:294
+msgid "Contact Timing"
+msgstr ""
+
+#: widgets/contact-info.php:295
+msgid "Enter contact timing here."
+msgstr ""
+
+#: widgets/contact-info.php:307
+msgid "Contact form tab."
+msgstr ""
+
+#: widgets/contact-info.php:339
+msgid "Contact info social links tab."
+msgstr ""
+
+#: widgets/contact-info.php:346
+msgid "Social Iocns Type"
+msgstr ""
+
+#: widgets/contact-info.php:349 widgets/counter.php:1041
+#: widgets/feature-box.php:1289 widgets/flip-box.php:792
+#: widgets/flip-box.php:836 widgets/modal-popup.php:791
+#: widgets/offcanvas.php:566 widgets/popover.php:582
+#: widgets/popup-anything.php:828 widgets/posts.php:1298
+#: widgets/pricing-table.php:1476 widgets/recent-popular.php:1119
+msgid "Squared"
+msgstr ""
+
+#: widgets/contact-info.php:350 widgets/counter.php:1042
+#: widgets/feature-box.php:1290 widgets/flip-box.php:793
+#: widgets/flip-box.php:837 widgets/modal-popup.php:792
+#: widgets/offcanvas.php:567 widgets/popover.php:583
+#: widgets/popup-anything.php:829 widgets/posts.php:1299
+#: widgets/pricing-table.php:1477 widgets/recent-popular.php:1120
+#: widgets/timeline.php:192
+msgid "Rounded"
+msgstr ""
+
+#: widgets/contact-info.php:351 widgets/counter.php:1043
+#: widgets/feature-box.php:1291 widgets/flip-box.php:794
+#: widgets/flip-box.php:838 widgets/modal-popup.php:793
+#: widgets/offcanvas.php:568 widgets/popover.php:584
+#: widgets/popup-anything.php:830 widgets/posts.php:1300
+#: widgets/pricing-table.php:1478 widgets/recent-popular.php:1121
+msgid "Circled"
+msgstr ""
+
+#: widgets/contact-info.php:448 widgets/social-links.php:228
+msgid "Social Icons"
+msgstr ""
+
+#: widgets/contact-info.php:658
+msgid "Absolute Icon Color"
+msgstr ""
+
+#: widgets/contact-info.php:774
+msgid "Description Styles"
+msgstr ""
+
+#: widgets/contact-info.php:782
+msgid "Description Margin"
+msgstr ""
+
+#: widgets/contact-info.php:792
+msgid "Address Styles"
+msgstr ""
+
+#: widgets/contact-info.php:800
+msgid "Address Margin"
+msgstr ""
+
+#: widgets/contact-info.php:810
+msgid "Email Styles"
+msgstr ""
+
+#: widgets/contact-info.php:818
+msgid "Email Margin"
+msgstr ""
+
+#: widgets/contact-info.php:828
+msgid "Phone Styles"
+msgstr ""
+
+#: widgets/contact-info.php:836
+msgid "Phone Margin"
+msgstr ""
+
+#: widgets/contact-info.php:846
+msgid "Timing Styles"
+msgstr ""
+
+#: widgets/contact-info.php:854
+msgid "Timing Margin"
+msgstr ""
+
+#: widgets/contact-info.php:864
+msgid "Form Styles"
+msgstr ""
+
+#: widgets/contact-info.php:872
+msgid "Form Margin"
+msgstr ""
+
+#: widgets/contact-info.php:882
+msgid "Social Icons Styles"
+msgstr ""
+
+#: widgets/contact-info.php:890
+msgid "Social Icons Margin"
+msgstr ""
+
+#: widgets/contact-info.php:914 widgets/social-links.php:301
+msgid "Official Color"
+msgstr ""
+
+#: widgets/contact-info.php:915 widgets/google-map.php:215
+#: widgets/social-links.php:302
+msgid "Custom"
+msgstr ""
+
+#: widgets/contact-info.php:930 widgets/contact-info.php:984
+#: widgets/counter.php:744 widgets/feature-box.php:992 widgets/icon.php:198
+#: widgets/icon.php:256 widgets/mailchimp.php:297 widgets/mailchimp.php:628
+#: widgets/mailchimp.php:681 widgets/modal-popup.php:502
+#: widgets/popup-anything.php:540 widgets/pricing-table.php:1180
+#: widgets/social-links.php:317 widgets/social-links.php:371
+msgid "Primary Color"
+msgstr ""
+
+#: widgets/contact-info.php:944 widgets/contact-info.php:998
+#: widgets/counter.php:759 widgets/feature-box.php:1007 widgets/icon.php:213
+#: widgets/icon.php:271 widgets/modal-popup.php:516
+#: widgets/popup-anything.php:554 widgets/pricing-table.php:1195
+#: widgets/social-links.php:331 widgets/social-links.php:385
+msgid "Secondary Color"
+msgstr ""
+
+#: widgets/contact-info.php:1073 widgets/counter.php:919
+#: widgets/feature-box.php:1166 widgets/flip-box.php:1899
+#: widgets/flip-box.php:1937 widgets/mailchimp.php:414
+#: widgets/modal-popup.php:668 widgets/popup-anything.php:705
+#: widgets/posts.php:1061 widgets/posts.php:1565 widgets/posts.php:1600
+#: widgets/posts.php:1675 widgets/pricing-table.php:935
+#: widgets/pricing-table.php:1053 widgets/pricing-table.php:1354
+#: widgets/pricing-table.php:1694 widgets/pricing-table.php:1790
+#: widgets/recent-popular.php:883 widgets/recent-popular.php:1386
+#: widgets/recent-popular.php:1421 widgets/recent-popular.php:1496
+#: widgets/social-links.php:460 widgets/tab.php:490
+msgid "Spacing"
+msgstr ""
+
+#: widgets/contact-info.php:1094 widgets/social-links.php:481
+msgid "Rows Gap"
+msgstr ""
+
+#: widgets/content-carousel.php:178
+msgid "Carousel Style Layout"
+msgstr ""
+
+#: widgets/content-carousel.php:185 widgets/counter.php:207
+#: widgets/feature-box.php:200 widgets/icon-list.php:184 widgets/posts.php:296
+#: widgets/recent-popular.php:296
+msgid "List"
+msgstr ""
+
+#: widgets/content-carousel.php:197
+msgid "Content carousel inner shortcodes."
+msgstr ""
+
+#: widgets/content-carousel.php:206
+msgid "Inner Content"
+msgstr ""
+
+#: widgets/content-carousel.php:207
+msgid "This is option to set content carousel inner content."
+msgstr ""
+
+#: widgets/content-carousel.php:214
+msgid "Inner Contents"
+msgstr ""
+
+#: widgets/content-carousel.php:219
+msgid "Click edit button to change this text. You can place here shortcodes."
+msgstr ""
+
+#: widgets/content-carousel.php:230 widgets/image-grid.php:208
+#: widgets/posts.php:628
+msgid "Slide"
+msgstr ""
+
+#: widgets/content-carousel.php:232
+msgid "Content slide options here available."
+msgstr ""
+
+#: widgets/content-carousel.php:238 widgets/image-grid.php:216
+#: widgets/posts.php:636
+msgid "Slide Option"
+msgstr ""
+
+#: widgets/content-carousel.php:239
+msgid "This is option for content slider option."
+msgstr ""
+
+#: widgets/content-carousel.php:248 widgets/image-grid.php:226
+#: widgets/posts.php:646
+msgid "Slide Items"
+msgstr ""
+
+#: widgets/content-carousel.php:249
+msgid "This is option for content slide items shown on large devices."
+msgstr ""
+
+#: widgets/content-carousel.php:257 widgets/image-grid.php:235
+#: widgets/posts.php:655
+msgid "Items on Tab"
+msgstr ""
+
+#: widgets/content-carousel.php:258
+msgid "This is option for content slide items shown on tab."
+msgstr ""
+
+#: widgets/content-carousel.php:266 widgets/image-grid.php:244
+#: widgets/posts.php:664
+msgid "Items on Mobile"
+msgstr ""
+
+#: widgets/content-carousel.php:267
+msgid "This is option for content slide items shown on mobile."
+msgstr ""
+
+#: widgets/content-carousel.php:274 widgets/image-grid.php:252
+#: widgets/posts.php:672
+msgid "Auto Play"
+msgstr ""
+
+#: widgets/content-carousel.php:275
+msgid "This is option for content slider auto play."
+msgstr ""
+
+#: widgets/content-carousel.php:283 widgets/image-grid.php:261
+#: widgets/posts.php:681
+msgid "Loop"
+msgstr ""
+
+#: widgets/content-carousel.php:284
+msgid "This is option for content slider loop."
+msgstr ""
+
+#: widgets/content-carousel.php:292 widgets/image-grid.php:270
+#: widgets/posts.php:690
+msgid "Items Center"
+msgstr ""
+
+#: widgets/content-carousel.php:293
+msgid ""
+"This is option for content slider center, for this option must active loop "
+"and minimum items 2."
+msgstr ""
+
+#: widgets/content-carousel.php:301 widgets/image-grid.php:279
+#: widgets/posts.php:699
+msgid "Navigation"
+msgstr ""
+
+#: widgets/content-carousel.php:302
+msgid "This is option for content slider navigation."
+msgstr ""
+
+#: widgets/content-carousel.php:310 widgets/image-grid.php:288
+#: widgets/posts.php:708
+msgid "Pagination"
+msgstr ""
+
+#: widgets/content-carousel.php:311
+msgid "This is option for content slider pagination."
+msgstr ""
+
+#: widgets/content-carousel.php:320 widgets/image-grid.php:298
+#: widgets/posts.php:718
+msgid "Items Margin"
+msgstr ""
+
+#: widgets/content-carousel.php:321
+msgid "This is option for content slider margin space."
+msgstr ""
+
+#: widgets/content-carousel.php:329 widgets/image-grid.php:307
+#: widgets/posts.php:727
+msgid "Items Duration"
+msgstr ""
+
+#: widgets/content-carousel.php:330
+msgid "This is option for content slider duration."
+msgstr ""
+
+#: widgets/content-carousel.php:338 widgets/image-grid.php:316
+#: widgets/posts.php:736
+msgid "Items Smart Speed"
+msgstr ""
+
+#: widgets/content-carousel.php:339
+msgid "This is option for content slider smart speed."
+msgstr ""
+
+#: widgets/content-carousel.php:347 widgets/image-grid.php:325
+#: widgets/posts.php:745
+msgid "Items Slideby"
+msgstr ""
+
+#: widgets/content-carousel.php:348
+msgid "This is option for content slider scroll by."
+msgstr ""
+
+#: widgets/content-carousel.php:415 widgets/content-carousel.php:424
+#: widgets/content-carousel.php:483 widgets/content-carousel.php:492
+msgid "This is option for show box shadow on carousel box hover."
+msgstr ""
+
+#: widgets/content-carousel.php:574 widgets/section-title.php:953
+msgid "Title Padding"
+msgstr ""
+
+#: widgets/content-carousel.php:653
+msgid "Carousel Item"
+msgstr ""
+
+#: widgets/content-carousel.php:692
+msgid "This is option for show/hide box shadow on carousel item."
+msgstr ""
+
+#: widgets/content-carousel.php:701
+msgid "This is option for set box shadow on carousel item."
+msgstr ""
+
+#: widgets/counter.php:109 widgets/feature-box.php:137 widgets/popover.php:108
+msgid "Default counter options."
+msgstr ""
+
+#: widgets/counter.php:117
+msgid "Here you put the counter title."
+msgstr ""
+
+#: widgets/counter.php:125
+msgid "Counter Value"
+msgstr ""
+
+#: widgets/counter.php:126
+msgid "Here you can place counter value. Example 200"
+msgstr ""
+
+#: widgets/counter.php:134
+msgid "Counter Suffix"
+msgstr ""
+
+#: widgets/counter.php:135
+msgid "Here you can place counter suffix value. Example +"
+msgstr ""
+
+#: widgets/counter.php:143
+msgid "Counter Content"
+msgstr ""
+
+#: widgets/counter.php:144
+msgid "Here you put the counter content."
+msgstr ""
+
+#: widgets/counter.php:152
+msgid "Counter Duration"
+msgstr ""
+
+#: widgets/counter.php:153
+msgid "Here you can set counter count duration. Example 2000"
+msgstr ""
+
+#: widgets/counter.php:165
+msgid "Counter options available here."
+msgstr ""
+
+#: widgets/counter.php:200
+msgid "Counter Layout"
+msgstr ""
+
+#: widgets/counter.php:231
+msgid ""
+"This is settings for counter custom layout. here you can set your own "
+"layout. Drag and drop needed counter items to Enabled part."
+msgstr ""
+
+#: widgets/counter.php:235 widgets/counter.php:1321
+msgid "Count Value"
+msgstr ""
+
+#: widgets/counter.php:242 widgets/counter.php:304 widgets/counter.php:313
+#: widgets/counter.php:981 widgets/feature-box.php:279
+#: widgets/feature-box.php:305 widgets/feature-box.php:448
+#: widgets/feature-box.php:1229 widgets/flip-box.php:209
+#: widgets/flip-box.php:236 widgets/flip-box.php:759 widgets/flip-box.php:1483
+#: widgets/image-before-after.php:111 widgets/image-before-after.php:127
+#: widgets/image-before-after.php:148 widgets/image-grid.php:148
+#: widgets/image-grid.php:377 widgets/image-grid.php:660
+#: widgets/modal-popup.php:126 widgets/modal-popup.php:220
+#: widgets/modal-popup.php:232 widgets/offcanvas.php:127
+#: widgets/offcanvas.php:220 widgets/offcanvas.php:502 widgets/popover.php:135
+#: widgets/popover.php:219 widgets/popover.php:518
+#: widgets/popup-anything.php:124 widgets/popup-anything.php:227
+#: widgets/popup-anything.php:239 widgets/popup-anything.php:765
+#: widgets/posts.php:609 widgets/posts.php:763 widgets/posts.php:1286
+#: widgets/pricing-table.php:110 widgets/pricing-table.php:353
+#: widgets/pricing-table.php:362 widgets/pricing-table.php:1416
+#: widgets/recent-popular.php:461 widgets/recent-popular.php:488
+#: widgets/recent-popular.php:1107 widgets/section-title.php:563
+#: widgets/section-title.php:654 widgets/tab.php:154 widgets/timeline.php:214
+msgid "Image"
+msgstr ""
+
+#: widgets/counter.php:275 widgets/feature-box.php:417 widgets/flip-box.php:358
+#: widgets/flip-box.php:408 widgets/icon.php:113 widgets/modal-popup.php:191
+#: widgets/popup-anything.php:198 widgets/pricing-table.php:324
+msgid "Stacked"
+msgstr ""
+
+#: widgets/counter.php:276 widgets/feature-box.php:418 widgets/flip-box.php:359
+#: widgets/flip-box.php:409 widgets/icon.php:114 widgets/modal-popup.php:192
+#: widgets/popup-anything.php:199 widgets/pricing-table.php:325
+msgid "Framed"
+msgstr ""
+
+#: widgets/counter.php:285 widgets/feature-box.php:428 widgets/icon.php:124
+#: widgets/modal-popup.php:201 widgets/popup-anything.php:208
+#: widgets/pricing-table.php:334
+msgid "Shape"
+msgstr ""
+
+#: widgets/counter.php:289 widgets/day-counter.php:203
+#: widgets/feature-box.php:432 widgets/flip-box.php:372
+#: widgets/flip-box.php:422 widgets/icon.php:128 widgets/modal-popup.php:205
+#: widgets/popup-anything.php:212 widgets/pricing-table.php:338
+#: widgets/timeline.php:191
+msgid "Square"
+msgstr ""
+
+#: widgets/counter.php:306
+msgid "Counter image options available here."
+msgstr ""
+
+#: widgets/counter.php:314
+msgid "Choose counter image."
+msgstr ""
+
+#: widgets/counter.php:394 widgets/counter.php:403 widgets/counter.php:462
+#: widgets/counter.php:471 widgets/day-counter.php:468
+#: widgets/switcher-content.php:238 widgets/switcher-content.php:247
+#: widgets/toggle-content.php:377 widgets/toggle-content.php:386
+#: widgets/toggle-content.php:445 widgets/toggle-content.php:454
+msgid "This is option for show box shadow on counter box hover."
+msgstr ""
+
+#: widgets/counter.php:502
+msgid "List Right Space"
+msgstr ""
+
+#: widgets/counter.php:652
+msgid "Counter Color"
+msgstr ""
+
+#: widgets/counter.php:653
+msgid "Here you can put the counter value font color."
+msgstr ""
+
+#: widgets/counter.php:687
+msgid "Counter Margin"
+msgstr ""
+
+#: widgets/counter.php:697
+msgid "Counter Spacing"
+msgstr ""
+
+#: widgets/counter.php:802 widgets/feature-box.php:1050
+#: widgets/mailchimp.php:328 widgets/modal-popup.php:556
+#: widgets/popup-anything.php:594 widgets/pricing-table.php:1238
+msgid "Primary Hover Color"
+msgstr ""
+
+#: widgets/counter.php:817 widgets/feature-box.php:1065
+#: widgets/modal-popup.php:570 widgets/popup-anything.php:608
+#: widgets/pricing-table.php:1253
+msgid "Secondary Hover Color"
+msgstr ""
+
+#: widgets/counter.php:898 widgets/feature-box.php:1145
+#: widgets/flip-box.php:1302 widgets/flip-box.php:1430 widgets/icon.php:361
+#: widgets/mailchimp.php:393 widgets/modal-popup.php:647
+#: widgets/popup-anything.php:684 widgets/pricing-table.php:1333
+msgid "Rotate"
+msgstr ""
+
+#: widgets/counter.php:940 widgets/feature-box.php:1187
+#: widgets/flip-box.php:1323 widgets/flip-box.php:1451 widgets/icon.php:383
+#: widgets/mailchimp.php:434 widgets/modal-popup.php:688
+#: widgets/popup-anything.php:725 widgets/pricing-table.php:1375
+msgid "Border Width"
+msgstr ""
+
+#: widgets/counter.php:968 widgets/feature-box.php:1215
+#: widgets/modal-popup.php:715 widgets/popup-anything.php:752
+#: widgets/pricing-table.php:1403
+msgid "Icon Animation"
+msgstr ""
+
+#: widgets/counter.php:1036 widgets/feature-box.php:1284
+#: widgets/flip-box.php:787 widgets/flip-box.php:831
+#: widgets/modal-popup.php:786 widgets/offcanvas.php:561
+#: widgets/popover.php:577 widgets/popup-anything.php:823
+#: widgets/posts.php:1293 widgets/pricing-table.php:1471
+#: widgets/recent-popular.php:1114
+msgid "Image Style"
+msgstr ""
+
+#: widgets/counter.php:1038 widgets/feature-box.php:1286
+#: widgets/flip-box.php:789 widgets/flip-box.php:833
+#: widgets/modal-popup.php:788 widgets/offcanvas.php:563
+#: widgets/popover.php:579 widgets/popup-anything.php:825
+#: widgets/posts.php:1295 widgets/pricing-table.php:1473
+#: widgets/recent-popular.php:1116
+msgid "Choose image style."
+msgstr ""
+
+#: widgets/counter.php:1050 widgets/feature-box.php:1298
+#: widgets/flip-box.php:1498 widgets/flip-box.php:1588
+#: widgets/modal-popup.php:800 widgets/offcanvas.php:575
+#: widgets/popover.php:591 widgets/popup-anything.php:837
+#: widgets/posts.php:1307 widgets/pricing-table.php:1485
+#: widgets/recent-popular.php:1128
+msgid "Resize Option"
+msgstr ""
+
+#: widgets/counter.php:1051 widgets/feature-box.php:1299
+#: widgets/flip-box.php:1499 widgets/flip-box.php:1589
+#: widgets/modal-popup.php:801 widgets/offcanvas.php:576
+#: widgets/popover.php:592 widgets/popup-anything.php:838
+#: widgets/posts.php:1308 widgets/pricing-table.php:1486
+#: widgets/recent-popular.php:1129
+msgid "Enable resize option."
+msgstr ""
+
+#: widgets/counter.php:1059 widgets/feature-box.php:1307
+#: widgets/flip-box.php:1507 widgets/flip-box.php:1597
+#: widgets/modal-popup.php:809 widgets/offcanvas.php:584
+#: widgets/popover.php:600 widgets/popup-anything.php:846
+#: widgets/posts.php:1316 widgets/pricing-table.php:1494
+#: widgets/recent-popular.php:1137 widgets/section-title.php:1187
+msgid "Image Size"
+msgstr ""
+
+#: widgets/counter.php:1084 widgets/feature-box.php:1332
+#: widgets/flip-box.php:1543 widgets/flip-box.php:1633
+#: widgets/modal-popup.php:834 widgets/popup-anything.php:871
+#: widgets/posts.php:1340 widgets/pricing-table.php:1519
+#: widgets/recent-popular.php:1161
+msgid "Image Spacing"
+msgstr ""
+
+#: widgets/counter.php:1114 widgets/feature-box.php:1362
+#: widgets/flip-box.php:1573 widgets/flip-box.php:1663
+#: widgets/image-grid.php:405 widgets/modal-popup.php:864
+#: widgets/offcanvas.php:620 widgets/popover.php:636
+#: widgets/popup-anything.php:901 widgets/posts.php:1381
+#: widgets/pricing-table.php:691 widgets/pricing-table.php:1549
+#: widgets/recent-popular.php:1202
+msgid "Border"
+msgstr ""
+
+#: widgets/counter.php:1161 widgets/feature-box.php:1725
+#: widgets/image-grid.php:514
+msgid "Tilt"
+msgstr ""
+
+#: widgets/counter.php:1168 widgets/feature-box.php:1732
+#: widgets/image-grid.php:521
+msgid "Tilt Option"
+msgstr ""
+
+#: widgets/counter.php:1169 widgets/feature-box.php:1733
+#: widgets/image-grid.php:522
+msgid "This is option for enable tilt animation option."
+msgstr ""
+
+#: widgets/counter.php:1177 widgets/feature-box.php:1741
+#: widgets/image-grid.php:530
+msgid "maxTilt"
+msgstr ""
+
+#: widgets/counter.php:1185 widgets/feature-box.php:1749
+#: widgets/image-grid.php:538
+msgid "Perspective"
+msgstr ""
+
+#: widgets/counter.php:1193 widgets/feature-box.php:1757
+#: widgets/image-grid.php:546 widgets/posts.php:977 widgets/posts.php:1015
+#: widgets/recent-popular.php:799 widgets/recent-popular.php:837
+msgid "Scale"
+msgstr ""
+
+#: widgets/counter.php:1201 widgets/feature-box.php:1765
+#: widgets/image-grid.php:554
+msgid "Speed"
+msgstr ""
+
+#: widgets/counter.php:1209 widgets/feature-box.php:1773
+#: widgets/image-grid.php:562
+msgid "Tilt Transition"
+msgstr ""
+
+#: widgets/counter.php:1210 widgets/feature-box.php:1774
+#: widgets/image-grid.php:563
+msgid "This is option for tilt transition."
+msgstr ""
+
+#: widgets/data-table.php:123
+msgid "Table Sorting"
+msgstr ""
+
+#: widgets/data-table.php:124 widgets/data-table.php:284
+msgid "This is option for enable or disable table column sorting."
+msgstr ""
+
+#: widgets/data-table.php:132
+msgid "Table Search"
+msgstr ""
+
+#: widgets/data-table.php:133
+msgid "This is option for enable or disable table search by column data."
+msgstr ""
+
+#: widgets/data-table.php:142
+msgid "Search Placeholder"
+msgstr ""
+
+#: widgets/data-table.php:143
+msgid "Here you can enter table search box placeholder here."
+msgstr ""
+
+#: widgets/data-table.php:144
+msgid "Search.."
+msgstr ""
+
+#: widgets/data-table.php:153
+msgid "Table Pagination"
+msgstr ""
+
+#: widgets/data-table.php:154
+msgid "This is option for enable or disable table pagination."
+msgstr ""
+
+#: widgets/data-table.php:163
+msgid "Rows Per Page"
+msgstr ""
+
+#: widgets/data-table.php:164
+msgid "Here you can set the number of rows show in table pagination"
+msgstr ""
+
+#: widgets/data-table.php:230
+msgid "Table"
+msgstr ""
+
+#: widgets/data-table.php:237 widgets/data-table.php:403
+msgid "Row Padding"
+msgstr ""
+
+#: widgets/data-table.php:283
+msgid "Row Odd Even Style"
+msgstr ""
+
+#: widgets/data-table.php:293
+msgid "Odd Row Bg Color"
+msgstr ""
+
+#: widgets/data-table.php:294 widgets/data-table.php:324
+msgid "Here you can put the odd row background color."
+msgstr ""
+
+#: widgets/data-table.php:308
+msgid "Odd Row Font Color"
+msgstr ""
+
+#: widgets/data-table.php:309 widgets/data-table.php:339
+msgid "Here you can put the odd row font color."
+msgstr ""
+
+#: widgets/data-table.php:323
+msgid "Even Row Bg Color"
+msgstr ""
+
+#: widgets/data-table.php:338
+msgid "Even Row Font Color"
+msgstr ""
+
+#: widgets/data-table.php:365
+msgid "Table Row Heading"
+msgstr ""
+
+#: widgets/data-table.php:393
+msgid "Here you can put the table head font color."
+msgstr ""
+
+#: widgets/data-table.php:455
+msgid "Table Column Heading"
+msgstr ""
+
+#: widgets/data-table.php:475
+msgid "Here you can put the table column head font color."
+msgstr ""
+
+#: widgets/day-counter.php:109
+msgid "Default day counter options."
+msgstr ""
+
+#: widgets/day-counter.php:116 widgets/posts.php:526 widgets/posts.php:551
+#: widgets/posts.php:570 widgets/recent-popular.php:378
+#: widgets/recent-popular.php:403 widgets/recent-popular.php:422
+msgid "Date"
+msgstr ""
+
+#: widgets/day-counter.php:117
+msgid ""
+"Here you put the day counter date. Date format should be YYYY-mm-dd HH:ii"
+msgstr ""
+
+#: widgets/day-counter.php:125
+msgid ""
+"This is settings for day counter custom layout. here you can set your own "
+"layout. Drag and drop needed services items to Enabled part."
+msgstr ""
+
+#: widgets/day-counter.php:129 widgets/day-counter.php:226
+#: widgets/day-counter.php:642 widgets/day-counter.php:691
+msgid "Days"
+msgstr ""
+
+#: widgets/day-counter.php:130 widgets/day-counter.php:235
+#: widgets/day-counter.php:643 widgets/day-counter.php:692
+msgid "Hours"
+msgstr ""
+
+#: widgets/day-counter.php:131 widgets/day-counter.php:244
+#: widgets/day-counter.php:644 widgets/day-counter.php:693
+msgid "Minutes"
+msgstr ""
+
+#: widgets/day-counter.php:132 widgets/day-counter.php:253
+#: widgets/day-counter.php:645 widgets/day-counter.php:694
+msgid "Seconds"
+msgstr ""
+
+#: widgets/day-counter.php:135 widgets/day-counter.php:262
+msgid "Weeks"
+msgstr ""
+
+#: widgets/day-counter.php:148
+msgid "Day day counter options available here."
+msgstr ""
+
+#: widgets/day-counter.php:183
+msgid "Day Counter Layout"
+msgstr ""
+
+#: widgets/day-counter.php:198
+msgid "Day Counter Shape"
+msgstr ""
+
+#: widgets/day-counter.php:200
+msgid "This is option for counter shape."
+msgstr ""
+
+#: widgets/day-counter.php:204
+msgid "Round"
+msgstr ""
+
+#: widgets/day-counter.php:215
+msgid "Labels"
+msgstr ""
+
+#: widgets/day-counter.php:217
+msgid "Labels section."
+msgstr ""
+
+#: widgets/day-counter.php:224
+msgid "Days Label"
+msgstr ""
+
+#: widgets/day-counter.php:225
+msgid "Here you set the days label for counter date."
+msgstr ""
+
+#: widgets/day-counter.php:233
+msgid "Hours Label"
+msgstr ""
+
+#: widgets/day-counter.php:234
+msgid "Here you set the hours label for counter date."
+msgstr ""
+
+#: widgets/day-counter.php:242
+msgid "Minutes Label"
+msgstr ""
+
+#: widgets/day-counter.php:243
+msgid "Here you set the minutes label for counter date."
+msgstr ""
+
+#: widgets/day-counter.php:251
+msgid "Seconds Label"
+msgstr ""
+
+#: widgets/day-counter.php:252
+msgid "Here you set the seconds label for counter date."
+msgstr ""
+
+#: widgets/day-counter.php:260
+msgid "Weeks Label"
+msgstr ""
+
+#: widgets/day-counter.php:261
+msgid "Here you set the weeks label for counter date."
+msgstr ""
+
+#: widgets/day-counter.php:362
+msgid "Typography"
+msgstr ""
+
+#: widgets/day-counter.php:383
+msgid "Box Size"
+msgstr ""
+
+#: widgets/day-counter.php:430 widgets/day-counter.php:513
+msgid "Timer Color"
+msgstr ""
+
+#: widgets/day-counter.php:477 widgets/day-counter.php:551
+msgid "This is option for show box shadow on day counter box hover."
+msgstr ""
+
+#: widgets/day-counter.php:560
+msgid "This is option for show box shadow on dat counter box hover."
+msgstr ""
+
+#: widgets/day-counter.php:592
+msgid "Timer Typography"
+msgstr ""
+
+#: widgets/feature-box.php:143
+msgid "Feature Box Redirect"
+msgstr ""
+
+#: widgets/feature-box.php:144
+msgid "This is option for when click the feature box redirect to some link."
+msgstr ""
+
+#: widgets/feature-box.php:171 widgets/pricing-table.php:189
+#: widgets/social-links.php:92 widgets/timeline.php:93
+msgid "Layouts options available here."
+msgstr ""
+
+#: widgets/feature-box.php:177
+msgid "Feature Box Layout"
+msgstr ""
+
+#: widgets/feature-box.php:210
+msgid "List Head Position"
+msgstr ""
+
+#: widgets/feature-box.php:233
+msgid "Full Width Content"
+msgstr ""
+
+#: widgets/feature-box.php:234
+msgid ""
+"This is option for enable or disable feature content full width for list "
+"style."
+msgstr ""
+
+#: widgets/feature-box.php:245
+msgid "Content Self Center"
+msgstr ""
+
+#: widgets/feature-box.php:246
+msgid ""
+"This is option for feature box list style right side content set vertically "
+"middle."
+msgstr ""
+
+#: widgets/feature-box.php:257
+msgid "Icon Self Center"
+msgstr ""
+
+#: widgets/feature-box.php:258
+msgid ""
+"This is option for feature box list style icon/image set vertically middle."
+msgstr ""
+
+#: widgets/feature-box.php:270
+msgid ""
+"This is settings for feature box custom layout. here you can set your own "
+"layout. Drag and drop needed feature items to Enabled part."
+msgstr ""
+
+#: widgets/feature-box.php:281 widgets/feature-box.php:307
+#: widgets/feature-box.php:659 widgets/pricing-table.php:111
+#: widgets/pricing-table.php:544
+msgid "Video"
+msgstr ""
+
+#: widgets/feature-box.php:282 widgets/feature-box.php:308
+msgid "Text or Number"
+msgstr ""
+
+#: widgets/feature-box.php:294
+msgid ""
+"This is settings for feature box custom list layout. here you can set your "
+"own layout. Drag and drop needed feature items to Left and Right part."
+msgstr ""
+
+#: widgets/feature-box.php:320
+msgid "Ribbon Values"
+msgstr ""
+
+#: widgets/feature-box.php:321
+msgid ""
+"This is option for corner rounded number like ribbon. This option working "
+"only when active feature box layout 'Classic Pro'."
+msgstr ""
+
+#: widgets/feature-box.php:343
+msgid "Feature Box Title"
+msgstr ""
+
+#: widgets/feature-box.php:344
+msgid "Input feature box title here."
+msgstr ""
+
+#: widgets/feature-box.php:345
+msgid "Feature Title"
+msgstr ""
+
+#: widgets/feature-box.php:450 widgets/image-grid.php:150
+#: widgets/offcanvas.php:222 widgets/popover.php:221
+msgid "Image options available here."
+msgstr ""
+
+#: widgets/feature-box.php:457
+msgid "Feature Box Image"
+msgstr ""
+
+#: widgets/feature-box.php:458
+msgid "Choose feature box image."
+msgstr ""
+
+#: widgets/feature-box.php:481 widgets/feature-box.php:1372
+msgid "Number"
+msgstr ""
+
+#: widgets/feature-box.php:483
+msgid "Number options available here."
+msgstr ""
+
+#: widgets/feature-box.php:490
+msgid "Feature Box Number"
+msgstr ""
+
+#: widgets/feature-box.php:491
+msgid "Enter feature box number. Example 01"
+msgstr ""
+
+#: widgets/feature-box.php:661
+msgid "Video options available here."
+msgstr ""
+
+#: widgets/feature-box.php:668
+msgid "Feature Box Video"
+msgstr ""
+
+#: widgets/feature-box.php:669
+msgid ""
+"Choose feature box video. This url maybe youtube or vimeo video. Example "
+"https://www.youtube.com/embed/qAHRvrrfGC4"
+msgstr ""
+
+#: widgets/feature-box.php:688 widgets/timeline-slide.php:173
+#: widgets/timeline.php:301
+msgid "You can give the feature box content here. HTML allowed here."
+msgstr ""
+
+#: widgets/feature-box.php:689
+msgid "Feature box content."
+msgstr ""
+
+#: widgets/feature-box.php:1388
+msgid "Number Color"
+msgstr ""
+
+#: widgets/feature-box.php:1389
+msgid "Choose feature box number color."
+msgstr ""
+
+#: widgets/feature-box.php:1399
+msgid "Opacity"
+msgstr ""
+
+#: widgets/feature-box.php:1428
+msgid "Hover Number Color"
+msgstr ""
+
+#: widgets/feature-box.php:1429
+msgid "Choose feature box hover number color."
+msgstr ""
+
+#: widgets/feature-box.php:1439
+msgid "Hover Opacity"
+msgstr ""
+
+#: widgets/feature-box.php:1469
+msgid "Floating Number Enable"
+msgstr ""
+
+#: widgets/feature-box.php:1470
+msgid "This is option for enable number floating."
+msgstr ""
+
+#: widgets/feature-box.php:1478 widgets/posts.php:1724
+#: widgets/recent-popular.php:1545
+msgid "Position Top"
+msgstr ""
+
+#: widgets/feature-box.php:1501 widgets/posts.php:1744
+#: widgets/recent-popular.php:1565
+msgid "Position Left"
+msgstr ""
+
+#: widgets/feature-box.php:1524
+msgid "Number Spacing"
+msgstr ""
+
+#: widgets/flip-box.php:95
+msgid "Default flip box options."
+msgstr ""
+
+#: widgets/flip-box.php:102
+msgid "Flip Box Hover Styles"
+msgstr ""
+
+#: widgets/flip-box.php:103
+msgid "This is option for hover animation style flip box."
+msgstr ""
+
+#: widgets/flip-box.php:106
+msgid "Fade"
+msgstr ""
+
+#: widgets/flip-box.php:107
+msgid "Push Up"
+msgstr ""
+
+#: widgets/flip-box.php:108
+msgid "Push Down"
+msgstr ""
+
+#: widgets/flip-box.php:109
+msgid "Push Left"
+msgstr ""
+
+#: widgets/flip-box.php:110
+msgid "Push Right"
+msgstr ""
+
+#: widgets/flip-box.php:111
+msgid "Slide Up"
+msgstr ""
+
+#: widgets/flip-box.php:112
+msgid "Slide Down"
+msgstr ""
+
+#: widgets/flip-box.php:113
+msgid "Slide Left"
+msgstr ""
+
+#: widgets/flip-box.php:114
+msgid "Slide Right"
+msgstr ""
+
+#: widgets/flip-box.php:115
+msgid "Reveal Up"
+msgstr ""
+
+#: widgets/flip-box.php:116
+msgid "Reveal Down"
+msgstr ""
+
+#: widgets/flip-box.php:117
+msgid "Reveal Left"
+msgstr ""
+
+#: widgets/flip-box.php:118
+msgid "Reveal Right"
+msgstr ""
+
+#: widgets/flip-box.php:119
+msgid "Hinge Up"
+msgstr ""
+
+#: widgets/flip-box.php:120
+msgid "Hinge Down"
+msgstr ""
+
+#: widgets/flip-box.php:121
+msgid "Hinge Left"
+msgstr ""
+
+#: widgets/flip-box.php:122
+msgid "Hinge Right"
+msgstr ""
+
+#: widgets/flip-box.php:123
+msgid "Flip Horizontal"
+msgstr ""
+
+#: widgets/flip-box.php:124
+msgid "Flip Vertical"
+msgstr ""
+
+#: widgets/flip-box.php:125
+msgid "Diagonal 1"
+msgstr ""
+
+#: widgets/flip-box.php:126
+msgid "Diagonal 2"
+msgstr ""
+
+#: widgets/flip-box.php:127
+msgid "Flip 3D Horizontal"
+msgstr ""
+
+#: widgets/flip-box.php:128
+msgid "Flip 3D Vertical"
+msgstr ""
+
+#: widgets/flip-box.php:129
+msgid "Shutter Out Horizontal"
+msgstr ""
+
+#: widgets/flip-box.php:130
+msgid "Shutter Out Vertical"
+msgstr ""
+
+#: widgets/flip-box.php:131
+msgid "Shutter Out Diagonal 1"
+msgstr ""
+
+#: widgets/flip-box.php:132
+msgid "Shutter Out Diagonal 2"
+msgstr ""
+
+#: widgets/flip-box.php:133
+msgid "Shutter In Horizontal"
+msgstr ""
+
+#: widgets/flip-box.php:134
+msgid "Shutter In Vertical"
+msgstr ""
+
+#: widgets/flip-box.php:135
+msgid "Shutter In Out Horizontal"
+msgstr ""
+
+#: widgets/flip-box.php:136
+msgid "Shutter In Out Vertical"
+msgstr ""
+
+#: widgets/flip-box.php:137
+msgid "Shutter In Out Diagonal 1"
+msgstr ""
+
+#: widgets/flip-box.php:138
+msgid "Shutter In Out Diagonal 2"
+msgstr ""
+
+#: widgets/flip-box.php:139
+msgid "Fold Up"
+msgstr ""
+
+#: widgets/flip-box.php:140
+msgid "Fold Down"
+msgstr ""
+
+#: widgets/flip-box.php:141
+msgid "Fold Left"
+msgstr ""
+
+#: widgets/flip-box.php:142
+msgid "Fold Right"
+msgstr ""
+
+#: widgets/flip-box.php:143
+msgid "Zoom In"
+msgstr ""
+
+#: widgets/flip-box.php:144
+msgid "Zoom Out"
+msgstr ""
+
+#: widgets/flip-box.php:145
+msgid "Zoom Out Up"
+msgstr ""
+
+#: widgets/flip-box.php:146
+msgid "Zoom Out Down"
+msgstr ""
+
+#: widgets/flip-box.php:147
+msgid "Zoom Out Left"
+msgstr ""
+
+#: widgets/flip-box.php:148
+msgid "Zoom Out Right"
+msgstr ""
+
+#: widgets/flip-box.php:149
+msgid "Zoom Out Flip Horizontal"
+msgstr ""
+
+#: widgets/flip-box.php:150
+msgid "Zoom Out Flip Vertical"
+msgstr ""
+
+#: widgets/flip-box.php:151
+msgid "Blur"
+msgstr ""
+
+#: widgets/flip-box.php:158
+msgid "Flip Box Redirect"
+msgstr ""
+
+#: widgets/flip-box.php:159
+msgid "This is option for when click the flip box redirect to some link."
+msgstr ""
+
+#: widgets/flip-box.php:192 widgets/flip-box.php:257 widgets/flip-box.php:336
+#: widgets/flip-box.php:447 widgets/flip-box.php:767 widgets/flip-box.php:866
+#: widgets/flip-box.php:1100 widgets/flip-box.php:1222
+#: widgets/flip-box.php:1492 widgets/flip-box.php:1683
+#: widgets/flip-box.php:1882
+msgid "Front"
+msgstr ""
+
+#: widgets/flip-box.php:199 widgets/flip-box.php:226
+msgid ""
+"This is settings for primary box custom layout. here you can set your own "
+"layout. Drag and drop needed flip items to enabled part."
+msgstr ""
+
+#: widgets/flip-box.php:219 widgets/flip-box.php:293 widgets/flip-box.php:386
+#: widgets/flip-box.php:601 widgets/flip-box.php:811 widgets/flip-box.php:882
+#: widgets/flip-box.php:1032 widgets/flip-box.php:1155
+#: widgets/flip-box.php:1351 widgets/flip-box.php:1582
+#: widgets/flip-box.php:1776 widgets/flip-box.php:1920
+msgid "Back"
+msgstr ""
+
+#: widgets/flip-box.php:264 widgets/switcher-content.php:137
+msgid "Primary Title"
+msgstr ""
+
+#: widgets/flip-box.php:265
+msgid "Front Title"
+msgstr ""
+
+#: widgets/flip-box.php:271
+msgid "Primary Title Tag"
+msgstr ""
+
+#: widgets/flip-box.php:300 widgets/switcher-content.php:167
+msgid "Secondary Title"
+msgstr ""
+
+#: widgets/flip-box.php:301
+msgid "Back Title"
+msgstr ""
+
+#: widgets/flip-box.php:307
+msgid "Secondary Title Tag"
+msgstr ""
+
+#: widgets/flip-box.php:342
+msgid "Primary Icon"
+msgstr ""
+
+#: widgets/flip-box.php:354
+msgid "Primary Icon View"
+msgstr ""
+
+#: widgets/flip-box.php:368
+msgid "Primary Icon Shape"
+msgstr ""
+
+#: widgets/flip-box.php:392
+msgid "Secondary Icon"
+msgstr ""
+
+#: widgets/flip-box.php:404
+msgid "Secondary Icon View"
+msgstr ""
+
+#: widgets/flip-box.php:418
+msgid "Secondary Icon Shape"
+msgstr ""
+
+#: widgets/flip-box.php:774
+msgid "Primary Image"
+msgstr ""
+
+#: widgets/flip-box.php:775
+msgid "Choose primary image."
+msgstr ""
+
+#: widgets/flip-box.php:818
+msgid "Secondary Image"
+msgstr ""
+
+#: widgets/flip-box.php:819
+msgid "Choose secondary image."
+msgstr ""
+
+#: widgets/flip-box.php:873 widgets/switcher-content.php:155
+msgid "Primary Content"
+msgstr ""
+
+#: widgets/flip-box.php:874
+msgid "You can give the flip box primary content here."
+msgstr ""
+
+#: widgets/flip-box.php:875
+msgid "Flip box primary content."
+msgstr ""
+
+#: widgets/flip-box.php:889 widgets/switcher-content.php:185
+msgid "Secondary Content"
+msgstr ""
+
+#: widgets/flip-box.php:890
+msgid "You can give the flip box secondary content here."
+msgstr ""
+
+#: widgets/flip-box.php:891
+msgid "Flip box secondary content."
+msgstr ""
+
+#: widgets/flip-box.php:909 widgets/icon-list.php:312
+msgid "Height"
+msgstr ""
+
+#: widgets/flip-box.php:928
+msgid "Flip Box Padding"
+msgstr ""
+
+#: widgets/flip-box.php:993
+msgid "This is option for enable box shadow on flip box front."
+msgstr ""
+
+#: widgets/flip-box.php:1050
+msgid "This is option for enable box shadow on flip box back."
+msgstr ""
+
+#: widgets/flip-box.php:1108
+msgid "Here you can put the front title color."
+msgstr ""
+
+#: widgets/flip-box.php:1244 widgets/flip-box.php:1373
+msgid "Fore Color"
+msgstr ""
+
+#: widgets/flip-box.php:1749 widgets/flip-box.php:1842
+msgid "Button Spacing"
+msgstr ""
+
+#: widgets/google-map.php:105
+msgid "Map"
+msgstr ""
+
+#: widgets/google-map.php:107
+msgid "Map options available here."
+msgstr ""
+
+#: widgets/google-map.php:117
+msgid "Map Latitude"
+msgstr ""
+
+#: widgets/google-map.php:118
+msgid "This is set option for google map latitude. Example -25.363"
+msgstr ""
+
+#: widgets/google-map.php:126
+msgid "Map Longitude"
+msgstr ""
+
+#: widgets/google-map.php:127
+msgid "This is set option for google map longitude. Example 131.044"
+msgstr ""
+
+#: widgets/google-map.php:134
+msgid "Map Marker"
+msgstr ""
+
+#: widgets/google-map.php:135
+msgid "Choose map marker image."
+msgstr ""
+
+#: widgets/google-map.php:145
+msgid "Map Info Window Option"
+msgstr ""
+
+#: widgets/google-map.php:146
+msgid "This is option for map info window enable or disable."
+msgstr ""
+
+#: widgets/google-map.php:155
+msgid "Map Info Window Title"
+msgstr ""
+
+#: widgets/google-map.php:156
+msgid "This is field for map info window title."
+msgstr ""
+
+#: widgets/google-map.php:167
+msgid "Map Info Window Address"
+msgstr ""
+
+#: widgets/google-map.php:168
+msgid "This is field for map info window address. No HTML allowed here."
+msgstr ""
+
+#: widgets/google-map.php:178
+msgid "Map Details"
+msgstr ""
+
+#: widgets/google-map.php:179
+msgid "This is options for google map latitude, longtitude etc.."
+msgstr ""
+
+#: widgets/google-map.php:196
+msgid "Map Height"
+msgstr ""
+
+#: widgets/google-map.php:197
+msgid "This is set option for google map height."
+msgstr ""
+
+#: widgets/google-map.php:204
+msgid "Map Style"
+msgstr ""
+
+#: widgets/google-map.php:206
+msgid ""
+"This is option for map style. If you want custom map style, then choose "
+"custom and set map colors to 'Custom Color' tab."
+msgstr ""
+
+#: widgets/google-map.php:209
+msgid "Standard"
+msgstr ""
+
+#: widgets/google-map.php:210
+msgid "Aubergine"
+msgstr ""
+
+#: widgets/google-map.php:211
+msgid "Silver"
+msgstr ""
+
+#: widgets/google-map.php:212
+msgid "Retro"
+msgstr ""
+
+#: widgets/google-map.php:213 widgets/posts.php:481
+#: widgets/recent-popular.php:333
+msgid "Dark"
+msgstr ""
+
+#: widgets/google-map.php:214
+msgid "Night"
+msgstr ""
+
+#: widgets/google-map.php:223
+msgid "Map Zoom"
+msgstr ""
+
+#: widgets/google-map.php:224
+msgid "This is set option for google map zoom level. Default value is 14"
+msgstr ""
+
+#: widgets/google-map.php:231
+msgid "Map Scroll Wheel"
+msgstr ""
+
+#: widgets/google-map.php:232
+msgid ""
+"This is option for google map zoom on scroll at position of mouse on map."
+msgstr ""
+
+#: widgets/google-map.php:271
+msgid "Map Background Color"
+msgstr ""
+
+#: widgets/google-map.php:272
+msgid "This is color option for map background color."
+msgstr ""
+
+#: widgets/google-map.php:282
+msgid "Custom Color"
+msgstr ""
+
+#: widgets/google-map.php:284
+msgid "Map custom color options available here."
+msgstr ""
+
+#: widgets/google-map.php:291
+msgid "Map Color"
+msgstr ""
+
+#: widgets/google-map.php:292
+msgid "This is color option for general map."
+msgstr ""
+
+#: widgets/google-map.php:300
+msgid "Map Text Stroke Color"
+msgstr ""
+
+#: widgets/google-map.php:301
+msgid "This is color option for general map text stroke."
+msgstr ""
+
+#: widgets/google-map.php:309
+msgid "Map Text Fill Color"
+msgstr ""
+
+#: widgets/google-map.php:310
+msgid "This is color option for general map text fill."
+msgstr ""
+
+#: widgets/google-map.php:318
+msgid "Administrative Text Fill Color"
+msgstr ""
+
+#: widgets/google-map.php:319
+msgid "This is color option for administrative text fill."
+msgstr ""
+
+#: widgets/google-map.php:327
+msgid "POI Text Fill Color"
+msgstr ""
+
+#: widgets/google-map.php:328
+msgid "This is color option for POI text fill."
+msgstr ""
+
+#: widgets/google-map.php:336
+msgid "POI Park Color"
+msgstr ""
+
+#: widgets/google-map.php:337
+msgid "This is color option for POI park."
+msgstr ""
+
+#: widgets/google-map.php:345
+msgid "POI Park Text Fill Color"
+msgstr ""
+
+#: widgets/google-map.php:346
+msgid "This is color option for POI park text fill."
+msgstr ""
+
+#: widgets/google-map.php:354
+msgid "Road Color"
+msgstr ""
+
+#: widgets/google-map.php:355
+msgid "This is color option for road."
+msgstr ""
+
+#: widgets/google-map.php:363
+msgid "Road Stroke Color"
+msgstr ""
+
+#: widgets/google-map.php:364
+msgid "This is color option for road stroke."
+msgstr ""
+
+#: widgets/google-map.php:372
+msgid "Road Text Fill Color"
+msgstr ""
+
+#: widgets/google-map.php:373
+msgid "This is color option for road text fill."
+msgstr ""
+
+#: widgets/google-map.php:381
+msgid "Road Highway Color"
+msgstr ""
+
+#: widgets/google-map.php:382
+msgid "This is color option for road highway."
+msgstr ""
+
+#: widgets/google-map.php:390
+msgid "Road Highway Stroke Color"
+msgstr ""
+
+#: widgets/google-map.php:391
+msgid "This is color option for road highway stroke."
+msgstr ""
+
+#: widgets/google-map.php:399
+msgid "Road Highway Text Fill Color"
+msgstr ""
+
+#: widgets/google-map.php:400
+msgid "This is color option for road highway text fill."
+msgstr ""
+
+#: widgets/google-map.php:408
+msgid "Transit Color"
+msgstr ""
+
+#: widgets/google-map.php:409
+msgid "This is color option for transit."
+msgstr ""
+
+#: widgets/google-map.php:417
+msgid "Transit Station Text Fill Color"
+msgstr ""
+
+#: widgets/google-map.php:418
+msgid "This is color option for transit station text fill."
+msgstr ""
+
+#: widgets/google-map.php:426
+msgid "Water Color"
+msgstr ""
+
+#: widgets/google-map.php:427
+msgid "This is color option for water."
+msgstr ""
+
+#: widgets/google-map.php:435
+msgid "Water Text Fill Color"
+msgstr ""
+
+#: widgets/google-map.php:436
+msgid "This is color option for water text fill."
+msgstr ""
+
+#: widgets/google-map.php:444
+msgid "Water Text Stroke Color"
+msgstr ""
+
+#: widgets/google-map.php:445
+msgid "This is color option for water text stroke."
+msgstr ""
+
+#: widgets/icon-list.php:93
+msgid "Icon list options available here."
+msgstr ""
+
+#: widgets/icon-list.php:109 widgets/mailchimp.php:138
+msgid "Inline"
+msgstr ""
+
+#: widgets/icon-list.php:124
+msgid "List Item"
+msgstr ""
+
+#: widgets/icon-list.php:161
+msgid "List Item 1"
+msgstr ""
+
+#: widgets/icon-list.php:168
+msgid "List Item 2"
+msgstr ""
+
+#: widgets/icon-list.php:192
+msgid "Space Between"
+msgstr ""
+
+#: widgets/icon-list.php:234
+msgid "Divider"
+msgstr ""
+
+#: widgets/icon-list.php:270 widgets/section-title.php:1099
+msgid "Weight"
+msgstr ""
+
+#: widgets/icon-list.php:294 widgets/section-title.php:625
+msgid "Width"
+msgstr ""
+
+#: widgets/icon-list.php:387
+msgid "Icon Color"
+msgstr ""
+
+#: widgets/icon-list.php:400 widgets/icon-list.php:435 widgets/posts.php:1004
+#: widgets/posts.php:1131 widgets/posts.php:1177 widgets/posts.php:1223
+#: widgets/posts.php:1270 widgets/recent-popular.php:826
+#: widgets/recent-popular.php:953 widgets/recent-popular.php:999
+#: widgets/recent-popular.php:1045 widgets/recent-popular.php:1091
+msgid "Hover Color"
+msgstr ""
+
+#: widgets/icon-list.php:447
+msgid "Text Indent"
+msgstr ""
+
+#: widgets/image-before-after.php:32
+msgid "Before After Image"
+msgstr ""
+
+#: widgets/image-before-after.php:113 widgets/image-before-after.php:176
+msgid "Default image options."
+msgstr ""
+
+#: widgets/image-before-after.php:128
+msgid "Choose before image."
+msgstr ""
+
+#: widgets/image-before-after.php:149
+msgid "Choose after image."
+msgstr ""
+
+#: widgets/image-before-after.php:174
+msgid "Options"
+msgstr ""
+
+#: widgets/image-before-after.php:182
+msgid "Orientation"
+msgstr ""
+
+#: widgets/image-before-after.php:187
+msgid "Horizontal"
+msgstr ""
+
+#: widgets/image-before-after.php:191
+msgid "Vertical"
+msgstr ""
+
+#: widgets/image-before-after.php:201
+msgid "Default Offset"
+msgstr ""
+
+#: widgets/image-before-after.php:219
+msgid "On mouse hover slide move?"
+msgstr ""
+
+#: widgets/image-before-after.php:222
+msgid "This is option for enable or disable move slide on mouse hover."
+msgstr ""
+
+#: widgets/image-before-after.php:231
+msgid "Allow a user to swipe"
+msgstr ""
+
+#: widgets/image-before-after.php:232 widgets/image-before-after.php:244
+msgid "Yes"
+msgstr ""
+
+#: widgets/image-before-after.php:233 widgets/image-before-after.php:245
+msgid "No"
+msgstr ""
+
+#: widgets/image-before-after.php:234
+msgid "Allow a user to swipe anywhere on the image to control slider movement."
+msgstr ""
+
+#: widgets/image-before-after.php:243
+msgid "Anywhere move"
+msgstr ""
+
+#: widgets/image-before-after.php:246
+msgid ""
+"Allow a user to click (or tap) anywhere on the image to move the slider to "
+"that location."
+msgstr ""
+
+#: widgets/image-before-after.php:255 widgets/posts.php:1698
+#: widgets/recent-popular.php:1519
+msgid "Overlay"
+msgstr ""
+
+#: widgets/image-before-after.php:258
+msgid "This is option to disaplay overlay things like before after text."
+msgstr ""
+
+#: widgets/image-before-after.php:277
+msgid "Before Text"
+msgstr ""
+
+#: widgets/image-before-after.php:278
+msgid "This is option set before text. Leave it blank for off."
+msgstr ""
+
+#: widgets/image-before-after.php:299
+msgid "After Text"
+msgstr ""
+
+#: widgets/image-before-after.php:300
+msgid "This is option set after text. Leave it blank for off."
+msgstr ""
+
+#: widgets/image-grid.php:110 widgets/section-title.php:344
+#: widgets/timeline-slide.php:107
+msgid "Default icon list options."
+msgstr ""
+
+#: widgets/image-grid.php:116
+msgid "Image Grid Columns"
+msgstr ""
+
+#: widgets/image-grid.php:118
+msgid ""
+"This grid option using to divide columns as per given numbers. This option "
+"active only when slide inactive otherwise slide columns only focus to divide."
+msgstr ""
+
+#: widgets/image-grid.php:121 widgets/posts.php:311
+#: widgets/recent-popular.php:311
+msgid "1 Column"
+msgstr ""
+
+#: widgets/image-grid.php:122 widgets/posts.php:310
+#: widgets/recent-popular.php:310
+msgid "2 Columns"
+msgstr ""
+
+#: widgets/image-grid.php:123 widgets/posts.php:309
+#: widgets/recent-popular.php:309
+msgid "3 Columns"
+msgstr ""
+
+#: widgets/image-grid.php:124 widgets/posts.php:308
+#: widgets/recent-popular.php:308
+msgid "4 Columns"
+msgstr ""
+
+#: widgets/image-grid.php:131
+msgid "Image Grid Style"
+msgstr ""
+
+#: widgets/image-grid.php:133
+msgid "Choose image grid style."
+msgstr ""
+
+#: widgets/image-grid.php:136 widgets/timeline.php:104
+msgid "Style 1"
+msgstr ""
+
+#: widgets/image-grid.php:137 widgets/timeline.php:105
+msgid "Style 2"
+msgstr ""
+
+#: widgets/image-grid.php:138 widgets/timeline.php:106
+msgid "Style 3"
+msgstr ""
+
+#: widgets/image-grid.php:156
+msgid "Add Images"
+msgstr ""
+
+#: widgets/image-grid.php:196
+msgid "Image Light Box"
+msgstr ""
+
+#: widgets/image-grid.php:197
+msgid "This is option for active/inactive image light box."
+msgstr ""
+
+#: widgets/image-grid.php:210
+msgid "Blog slide options here available."
+msgstr ""
+
+#: widgets/image-grid.php:217 widgets/posts.php:637
+msgid "This is option for blog slider option."
+msgstr ""
+
+#: widgets/image-grid.php:227 widgets/posts.php:647
+msgid "This is option for blog slide items shown on large devices."
+msgstr ""
+
+#: widgets/image-grid.php:236 widgets/posts.php:656
+msgid "This is option for blog slide items shown on tab."
+msgstr ""
+
+#: widgets/image-grid.php:245 widgets/posts.php:665
+msgid "This is option for blog slide items shown on mobile."
+msgstr ""
+
+#: widgets/image-grid.php:253 widgets/posts.php:673
+msgid "This is option for blog slider auto play."
+msgstr ""
+
+#: widgets/image-grid.php:262 widgets/posts.php:682
+msgid "This is option for blog slider loop."
+msgstr ""
+
+#: widgets/image-grid.php:271 widgets/posts.php:691
+msgid ""
+"This is option for blog slider center, for this option must active loop and "
+"minimum items 2."
+msgstr ""
+
+#: widgets/image-grid.php:280 widgets/posts.php:700
+msgid "This is option for blog slider navigation."
+msgstr ""
+
+#: widgets/image-grid.php:289 widgets/posts.php:709
+msgid "This is option for blog slider pagination."
+msgstr ""
+
+#: widgets/image-grid.php:299 widgets/posts.php:719
+msgid "This is option for blog slider margin space."
+msgstr ""
+
+#: widgets/image-grid.php:308 widgets/posts.php:728
+msgid "This is option for blog slider duration."
+msgstr ""
+
+#: widgets/image-grid.php:317 widgets/posts.php:737
+msgid "This is option for blog slider smart speed."
+msgstr ""
+
+#: widgets/image-grid.php:326 widgets/posts.php:746
+msgid "This is option for blog slider scroll by."
+msgstr ""
+
+#: widgets/image-grid.php:384
+msgid "Outer Spacing"
+msgstr ""
+
+#: widgets/image-grid.php:412
+msgid "Radius"
+msgstr ""
+
+#: widgets/image-grid.php:425
+msgid "Caption"
+msgstr ""
+
+#: widgets/image-grid.php:432
+msgid "Image Caption Option"
+msgstr ""
+
+#: widgets/image-grid.php:433
+msgid "This is option for show image caption if exists."
+msgstr ""
+
+#: widgets/mailchimp.php:105
+msgid "Select List"
+msgstr ""
+
+#: widgets/mailchimp.php:128
+msgid "Default mailchimp options."
+msgstr ""
+
+#: widgets/mailchimp.php:146
+msgid "Enable First Name"
+msgstr ""
+
+#: widgets/mailchimp.php:155
+msgid "First Name Label/Placeholder"
+msgstr ""
+
+#: widgets/mailchimp.php:156
+msgid "First Name"
+msgstr ""
+
+#: widgets/mailchimp.php:165
+msgid "Enable Last Name"
+msgstr ""
+
+#: widgets/mailchimp.php:174
+msgid "Last Name Label/Placeholder"
+msgstr ""
+
+#: widgets/mailchimp.php:175
+msgid "Last Name"
+msgstr ""
+
+#: widgets/mailchimp.php:185
+msgid "Email Label/Placeholder"
+msgstr ""
+
+#: widgets/mailchimp.php:186 widgets/mailchimp.php:233
+#: widgets/mailchimp.php:267
+msgid "Subscribe"
+msgstr ""
+
+#: widgets/mailchimp.php:193
+msgid "Select List ID"
+msgstr ""
+
+#: widgets/mailchimp.php:204
+msgid ""
+"<b>Note:</b> You may forget to put mailchimp API on Classic Elementor Addon -"
+"> Plugin Options -> General -> Mailchimp API"
+msgstr ""
+
+#: widgets/mailchimp.php:212 widgets/mailchimp.php:232
+msgid "Button Label"
+msgstr ""
+
+#: widgets/mailchimp.php:242
+msgid "Button Icon"
+msgstr ""
+
+#: widgets/mailchimp.php:258
+msgid "Success Message"
+msgstr ""
+
+#: widgets/mailchimp.php:259
+msgid "Email added successfully."
+msgstr ""
+
+#: widgets/mailchimp.php:266
+msgid "Failure Message"
+msgstr ""
+
+#: widgets/mailchimp.php:268
+msgid "Email added process failed."
+msgstr ""
+
+#: widgets/mailchimp.php:603
+msgid "Text Box"
+msgstr ""
+
+#: widgets/mailchimp.php:610
+msgid "Placeholder Color"
+msgstr ""
+
+#: widgets/modal-popup.php:111 widgets/modal-popup.php:1325
+#: widgets/popup-anything.php:109 widgets/popup-anything.php:1276
+msgid "Popup"
+msgstr ""
+
+#: widgets/modal-popup.php:113 widgets/popup-anything.php:111
+msgid "Default popup options."
+msgstr ""
+
+#: widgets/modal-popup.php:120 widgets/popup-anything.php:118
+msgid "Popup Type"
+msgstr ""
+
+#: widgets/modal-popup.php:121 widgets/popup-anything.php:119
+msgid "This is option for popup type."
+msgstr ""
+
+#: widgets/modal-popup.php:222 widgets/popup-anything.php:229
+msgid "Popup trigger image options available here."
+msgstr ""
+
+#: widgets/modal-popup.php:233 widgets/popup-anything.php:240
+msgid "Choose popup trigger image."
+msgstr ""
+
+#: widgets/modal-popup.php:405 widgets/popup-anything.php:412
+msgid "Popup trigger text."
+msgstr ""
+
+#: widgets/modal-popup.php:415 widgets/popup-anything.php:422
+msgid "Popup Trigger Text"
+msgstr ""
+
+#: widgets/modal-popup.php:416 widgets/popup-anything.php:423
+msgid "Example: Click here"
+msgstr ""
+
+#: widgets/modal-popup.php:428
+msgid "Modal content options available here."
+msgstr ""
+
+#: widgets/modal-popup.php:434
+msgid "Modal Title Tag"
+msgstr ""
+
+#: widgets/modal-popup.php:435
+msgid "Here you can choose the modal popup box title heading tag."
+msgstr ""
+
+#: widgets/modal-popup.php:452
+msgid "Modal Title"
+msgstr ""
+
+#: widgets/modal-popup.php:453
+msgid "Here you can put the modal popup box title."
+msgstr ""
+
+#: widgets/modal-popup.php:459
+msgid "Modal Content"
+msgstr ""
+
+#: widgets/modal-popup.php:461
+msgid "You can place here modal popup content."
+msgstr ""
+
+#: widgets/modal-popup.php:462
+msgid "Type modal content here."
+msgstr ""
+
+#: widgets/modal-popup.php:469
+msgid "Modal Popup Size"
+msgstr ""
+
+#: widgets/modal-popup.php:470
+msgid "This is option for modal popup window size."
+msgstr ""
+
+#: widgets/modal-popup.php:485
+msgid "Trigger Icon"
+msgstr ""
+
+#: widgets/modal-popup.php:728
+msgid "Trigger Image"
+msgstr ""
+
+#: widgets/modal-popup.php:874
+msgid "Trigger Button"
+msgstr ""
+
+#: widgets/modal-popup.php:1022 widgets/offcanvas.php:771
+#: widgets/popover.php:787
+msgid "Trigger Text"
+msgstr ""
+
+#: widgets/modal-popup.php:1112 widgets/popup-anything.php:1149
+msgid "Trigger Text Typo"
+msgstr ""
+
+#: widgets/modal-popup.php:1124
+msgid "This is option for modal popup title."
+msgstr ""
+
+#: widgets/modal-popup.php:1162
+msgid "Title Typography"
+msgstr ""
+
+#: widgets/modal-popup.php:1174
+msgid "This is option for modal popup content."
+msgstr ""
+
+#: widgets/modal-popup.php:1242
+msgid "Content Typography"
+msgstr ""
+
+#: widgets/offcanvas.php:108
+msgid "Default offcanvas options."
+msgstr ""
+
+#: widgets/offcanvas.php:114 widgets/popover.php:122
+msgid "Popover Trigger Type"
+msgstr ""
+
+#: widgets/offcanvas.php:142
+msgid "Offcanvas Animation"
+msgstr ""
+
+#: widgets/offcanvas.php:143
+msgid "Choose offcanvas animation type."
+msgstr ""
+
+#: widgets/offcanvas.php:146
+msgid "Right Overlay"
+msgstr ""
+
+#: widgets/offcanvas.php:147
+msgid "Left Overlay"
+msgstr ""
+
+#: widgets/offcanvas.php:148
+msgid "Right Push"
+msgstr ""
+
+#: widgets/offcanvas.php:149
+msgid "Left Push"
+msgstr ""
+
+#: widgets/offcanvas.php:157
+msgid "Offcanvas Type"
+msgstr ""
+
+#: widgets/offcanvas.php:158
+msgid ""
+"This is option for offcanvas type either text content or html element. If "
+"choose HTML element, then have to put element ID into the each offcanvas "
+"element box"
+msgstr ""
+
+#: widgets/offcanvas.php:169
+msgid "Offcanvas Content"
+msgstr ""
+
+#: widgets/offcanvas.php:171
+msgid "You can place here offcanvas content."
+msgstr ""
+
+#: widgets/offcanvas.php:182
+msgid "Enter element id to get the content from the element to offcanvas part."
+msgstr ""
+
+#: widgets/offcanvas.php:196 widgets/popover.php:195
+msgid "Icon options available here."
+msgstr ""
+
+#: widgets/offcanvas.php:232 widgets/popover.php:231
+msgid "Popover Trigger Image"
+msgstr ""
+
+#: widgets/offcanvas.php:233
+msgid "Choose offcanvas trigger image."
+msgstr ""
+
+#: widgets/offcanvas.php:370 widgets/popover.php:369
+msgid "Text options available here."
+msgstr ""
+
+#: widgets/offcanvas.php:380 widgets/popover.php:379
+msgid "Popover Text"
+msgstr ""
+
+#: widgets/offcanvas.php:381
+msgid "Choose offcanvas custom text here."
+msgstr ""
+
+#: widgets/offcanvas.php:382 widgets/popover.php:381
+msgid "Popover me"
+msgstr ""
+
+#: widgets/offcanvas.php:398
+msgid "Offcanvas Font Color"
+msgstr ""
+
+#: widgets/offcanvas.php:410
+msgid "Link Color"
+msgstr ""
+
+#: widgets/offcanvas.php:411
+msgid "Here you can put the link color."
+msgstr ""
+
+#: widgets/offcanvas.php:422
+msgid "Link Hover Color"
+msgstr ""
+
+#: widgets/offcanvas.php:423
+msgid "Here you can put the link hover color."
+msgstr ""
+
+#: widgets/offcanvas.php:433
+msgid "Offcanvas Background Color"
+msgstr ""
+
+#: widgets/popover.php:149
+msgid "Popover Position"
+msgstr ""
+
+#: widgets/popover.php:177
+msgid "Select Event"
+msgstr ""
+
+#: widgets/popover.php:178
+msgid "This is option for popover shown by click or hover."
+msgstr ""
+
+#: widgets/popover.php:182
+msgid "Click"
+msgstr ""
+
+#: widgets/popover.php:232
+msgid "Choose popover trigger image."
+msgstr ""
+
+#: widgets/popover.php:380
+msgid "Choose popover custom text here."
+msgstr ""
+
+#: widgets/popover.php:390 widgets/popover.php:398 widgets/popover.php:845
+msgid "Popover Content"
+msgstr ""
+
+#: widgets/popover.php:852
+msgid "Popover Width"
+msgstr ""
+
+#: widgets/popup-anything.php:46
+msgid "Video Popup"
+msgstr ""
+
+#: widgets/popup-anything.php:133
+msgid "Popup URL"
+msgstr ""
+
+#: widgets/popup-anything.php:134
+msgid "Enter popup url. Example https://www.youtube.com/watch?v=tvDH4JM_gME"
+msgstr ""
+
+#: widgets/posts.php:126 widgets/recent-popular.php:138
+msgid "Query"
+msgstr ""
+
+#: widgets/posts.php:128
+msgid "Posts query options."
+msgstr ""
+
+#: widgets/posts.php:135 widgets/posts.php:501 widgets/posts.php:524
+#: widgets/posts.php:549 widgets/posts.php:568 widgets/recent-popular.php:156
+#: widgets/recent-popular.php:353 widgets/recent-popular.php:376
+#: widgets/recent-popular.php:401 widgets/recent-popular.php:420
+msgid "Author"
+msgstr ""
+
+#: widgets/posts.php:136 widgets/recent-popular.php:157
+msgid "This is filter author posts."
+msgstr ""
+
+#: widgets/posts.php:148 widgets/recent-popular.php:168
+msgid "Categories"
+msgstr ""
+
+#: widgets/posts.php:149 widgets/recent-popular.php:169
+msgid ""
+"This is filter categories. Enter and select which categories you want. If "
+"you don't want top filter, then leave this empty."
+msgstr ""
+
+#: widgets/posts.php:160 widgets/recent-popular.php:180
+msgid "Exclude Categories"
+msgstr ""
+
+#: widgets/posts.php:161 widgets/recent-popular.php:181
+msgid "Here you can mention unwanted categories"
+msgstr ""
+
+#: widgets/posts.php:172 widgets/recent-popular.php:192
+msgid "Tags"
+msgstr ""
+
+#: widgets/posts.php:173 widgets/recent-popular.php:193
+msgid "This is filter tags. Enter and select which tags you want."
+msgstr ""
+
+#: widgets/posts.php:184
+msgid "Include"
+msgstr ""
+
+#: widgets/posts.php:195
+msgid "Exclude"
+msgstr ""
+
+#: widgets/posts.php:207 widgets/recent-popular.php:147
+msgid "Post Per Page"
+msgstr ""
+
+#: widgets/posts.php:208 widgets/recent-popular.php:148
+msgid "Here you can define post limits per page. Example 10"
+msgstr ""
+
+#: widgets/posts.php:216
+msgid "Order By"
+msgstr ""
+
+#: widgets/posts.php:226 widgets/recent-popular.php:226
+msgid "Order"
+msgstr ""
+
+#: widgets/posts.php:244 widgets/recent-popular.php:244
+msgid "Post layout options here available."
+msgstr ""
+
+#: widgets/posts.php:280 widgets/recent-popular.php:280
+msgid "Excerpt Length"
+msgstr ""
+
+#: widgets/posts.php:281 widgets/recent-popular.php:281
+msgid "Here you can define post excerpt length. Example 10"
+msgstr ""
+
+#: widgets/posts.php:288 widgets/recent-popular.php:288
+msgid "Post Layout"
+msgstr ""
+
+#: widgets/posts.php:304 widgets/recent-popular.php:304
+msgid "Post Columns"
+msgstr ""
+
+#: widgets/posts.php:305 widgets/recent-popular.php:305
+msgid "This is option for blog columns."
+msgstr ""
+
+#: widgets/posts.php:319 widgets/recent-popular.php:319
+msgid "Read More Text"
+msgstr ""
+
+#: widgets/posts.php:320 widgets/recent-popular.php:320
+msgid "Here you can enter read more text instead of default text."
+msgstr ""
+
+#: widgets/posts.php:321 widgets/posts.php:525 widgets/posts.php:550
+#: widgets/posts.php:569 widgets/posts.php:811 widgets/recent-popular.php:321
+#: widgets/recent-popular.php:377 widgets/recent-popular.php:402
+#: widgets/recent-popular.php:421 widgets/recent-popular.php:536
+msgid "Read More"
+msgstr ""
+
+#: widgets/posts.php:327
+msgid "Post Masonry"
+msgstr ""
+
+#: widgets/posts.php:328
+msgid "This is option for blog masonry or normal."
+msgstr ""
+
+#: widgets/posts.php:340
+msgid "Post Masonry Gutter"
+msgstr ""
+
+#: widgets/posts.php:341
+msgid "Here you can mention blog masonry gutter size. Example 30"
+msgstr ""
+
+#: widgets/posts.php:352
+msgid "Lazy Load"
+msgstr ""
+
+#: widgets/posts.php:353
+msgid "Enabel lazy load option for load isotope grids lazy with animation."
+msgstr ""
+
+#: widgets/posts.php:365
+msgid "Isotope Filter"
+msgstr ""
+
+#: widgets/posts.php:366
+msgid "Enabel to show blog filter by category."
+msgstr ""
+
+#: widgets/posts.php:379
+msgid "Filter All Text"
+msgstr ""
+
+#: widgets/posts.php:380
+msgid "Here you can mention blog's first filter text."
+msgstr ""
+
+#: widgets/posts.php:381 widgets/posts.php:1917
+msgid "All"
+msgstr ""
+
+#: widgets/posts.php:391
+msgid "Masonry Layout"
+msgstr ""
+
+#: widgets/posts.php:395
+msgid "Masonry"
+msgstr ""
+
+#: widgets/posts.php:396
+msgid "Fit Rows"
+msgstr ""
+
+#: widgets/posts.php:407
+msgid "Post Masonry Infinite"
+msgstr ""
+
+#: widgets/posts.php:408
+msgid "This is option for blog masonry infinite scroll."
+msgstr ""
+
+#: widgets/posts.php:421
+msgid "Infinite Loading Message"
+msgstr ""
+
+#: widgets/posts.php:422
+msgid "Here you can mention infinite loading post message."
+msgstr ""
+
+#: widgets/posts.php:423
+msgid "Loading posts.."
+msgstr ""
+
+#: widgets/posts.php:434
+msgid "Infinite Ending Message"
+msgstr ""
+
+#: widgets/posts.php:435
+msgid "Here you can mention infinite loading ending message."
+msgstr ""
+
+#: widgets/posts.php:436
+msgid "No more post."
+msgstr ""
+
+#: widgets/posts.php:446
+msgid "Infinite Loader Image URL"
+msgstr ""
+
+#: widgets/posts.php:447
+msgid "Here you can choose infinite loader image."
+msgstr ""
+
+#: widgets/posts.php:464
+msgid "Post Pagination"
+msgstr ""
+
+#: widgets/posts.php:476 widgets/recent-popular.php:328
+msgid "Post Variation"
+msgstr ""
+
+#: widgets/posts.php:477 widgets/recent-popular.php:329
+msgid "This is option for blog variatoin either dark or light."
+msgstr ""
+
+#: widgets/posts.php:480 widgets/recent-popular.php:332
+msgid "Light"
+msgstr ""
+
+#: widgets/posts.php:489 widgets/recent-popular.php:341
+msgid ""
+"This is settings for blog custom layout. here you can set your own layout. "
+"Drag and drop needed blog items to Enabled part."
+msgstr ""
+
+#: widgets/posts.php:493 widgets/posts.php:1955 widgets/recent-popular.php:345
+#: widgets/recent-popular.php:1738
+msgid "Feature Image"
+msgstr ""
+
+#: widgets/posts.php:495 widgets/posts.php:1957 widgets/recent-popular.php:347
+#: widgets/recent-popular.php:1740
+msgid "Excerpt"
+msgstr ""
+
+#: widgets/posts.php:498 widgets/posts.php:529 widgets/posts.php:1550
+#: widgets/recent-popular.php:350 widgets/recent-popular.php:381
+#: widgets/recent-popular.php:1371
+msgid "Top Meta"
+msgstr ""
+
+#: widgets/posts.php:499 widgets/posts.php:530 widgets/posts.php:1585
+#: widgets/recent-popular.php:351 widgets/recent-popular.php:382
+#: widgets/recent-popular.php:1406
+msgid "Bottom Meta"
+msgstr ""
+
+#: widgets/posts.php:500 widgets/posts.php:523 widgets/posts.php:548
+#: widgets/posts.php:567 widgets/recent-popular.php:352
+#: widgets/recent-popular.php:375 widgets/recent-popular.php:400
+#: widgets/recent-popular.php:419
+msgid "Category"
+msgstr ""
+
+#: widgets/posts.php:509 widgets/recent-popular.php:361
+msgid "Post Overlay Items Options"
+msgstr ""
+
+#: widgets/posts.php:518 widgets/recent-popular.php:370
+msgid "This is settings for blog shortcode post overlay items."
+msgstr ""
+
+#: widgets/posts.php:527 widgets/posts.php:552 widgets/posts.php:571
+#: widgets/recent-popular.php:379 widgets/recent-popular.php:404
+#: widgets/recent-popular.php:423
+msgid "Comment"
+msgstr ""
+
+#: widgets/posts.php:542 widgets/recent-popular.php:394
+msgid "This is settings for blog shortcode post top meta."
+msgstr ""
+
+#: widgets/posts.php:561 widgets/recent-popular.php:413
+msgid "This is settings for blog shortcode post bottom meta."
+msgstr ""
+
+#: widgets/posts.php:584 widgets/recent-popular.php:436
+msgid "Title options here available."
+msgstr ""
+
+#: widgets/posts.php:611 widgets/recent-popular.php:463
+msgid "Image options here available."
+msgstr ""
+
+#: widgets/posts.php:630
+msgid "Posts slide options here available."
+msgstr ""
+
+#: widgets/posts.php:756 widgets/posts.php:1091 widgets/recent-popular.php:481
+#: widgets/recent-popular.php:913 widgets/social-links.php:130
+msgid "Links"
+msgstr ""
+
+#: widgets/posts.php:771 widgets/posts.php:795 widgets/posts.php:819
+#: widgets/recent-popular.php:496 widgets/recent-popular.php:520
+#: widgets/recent-popular.php:544
+msgid "Target Blank"
+msgstr ""
+
+#: widgets/posts.php:779 widgets/posts.php:803 widgets/posts.php:827
+#: widgets/recent-popular.php:504 widgets/recent-popular.php:528
+#: widgets/recent-popular.php:552
+msgid "No Follow"
+msgstr ""
+
+#: widgets/posts.php:838 widgets/recent-popular.php:660
+msgid "Post Grid"
+msgstr ""
+
+#: widgets/posts.php:863 widgets/posts.php:899 widgets/posts.php:1771
+#: widgets/posts.php:1789 widgets/recent-popular.php:685
+#: widgets/recent-popular.php:721 widgets/recent-popular.php:1592
+#: widgets/recent-popular.php:1610
+msgid "Background"
+msgstr ""
+
+#: widgets/posts.php:1037 widgets/recent-popular.php:859
+msgid "margin"
+msgstr ""
+
+#: widgets/posts.php:1098 widgets/recent-popular.php:920
+msgid "Default Post Links"
+msgstr ""
+
+#: widgets/posts.php:1144 widgets/recent-popular.php:966
+msgid "Top Meta Links"
+msgstr ""
+
+#: widgets/posts.php:1190 widgets/recent-popular.php:1012
+msgid "Bottom Meta Links"
+msgstr ""
+
+#: widgets/posts.php:1237 widgets/recent-popular.php:1058
+msgid "Overlay Links"
+msgstr ""
+
+#: widgets/posts.php:1391 widgets/recent-popular.php:1212
+msgid "Read More Button"
+msgstr ""
+
+#: widgets/posts.php:1405 widgets/recent-popular.php:1226
+msgid "Transform"
+msgstr ""
+
+#: widgets/posts.php:1407 widgets/recent-popular.php:1228
+msgid "Set read more button text-transform property."
+msgstr ""
+
+#: widgets/posts.php:1543 widgets/recent-popular.php:1364
+msgid "Meta"
+msgstr ""
+
+#: widgets/posts.php:2063
+msgid "Loading.."
+msgstr ""
+
+#: widgets/posts.php:2064
+msgid "No more posts.."
+msgstr ""
+
+#: widgets/posts.php:2256 widgets/recent-popular.php:1982
+msgid "Read more"
+msgstr ""
+
+#: widgets/pricing-table.php:93
+msgid "General pricing table options."
+msgstr ""
+
+#: widgets/pricing-table.php:100
+msgid ""
+"This is settings for pricing table custom layout. here you can set your own "
+"layout. Drag and drop needed pricing items to Enabled part."
+msgstr ""
+
+#: widgets/pricing-table.php:105 widgets/pricing-table.php:2008
+msgid "Price Info"
+msgstr ""
+
+#: widgets/pricing-table.php:106 widgets/pricing-table.php:2009
+msgid "Features List"
+msgstr ""
+
+#: widgets/pricing-table.php:122
+msgid "Price Before Text"
+msgstr ""
+
+#: widgets/pricing-table.php:123
+msgid "This is before text field for price."
+msgstr ""
+
+#: widgets/pricing-table.php:124
+msgid "Free member"
+msgstr ""
+
+#: widgets/pricing-table.php:131
+msgid "Price"
+msgstr ""
+
+#: widgets/pricing-table.php:132
+msgid "This is field for price."
+msgstr ""
+
+#: widgets/pricing-table.php:140
+msgid "Price After Text"
+msgstr ""
+
+#: widgets/pricing-table.php:141
+msgid "This is after text field for price."
+msgstr ""
+
+#: widgets/pricing-table.php:142
+msgid "per year"
+msgstr ""
+
+#: widgets/pricing-table.php:148
+msgid "Active/Inactive"
+msgstr ""
+
+#: widgets/pricing-table.php:149
+msgid "This is option for set title status active or inactive."
+msgstr ""
+
+#: widgets/pricing-table.php:160
+msgid "Pricing Feature"
+msgstr ""
+
+#: widgets/pricing-table.php:161
+msgid "Pricing Features Name"
+msgstr ""
+
+#: widgets/pricing-table.php:162 widgets/pricing-table.php:174
+msgid "Feature"
+msgstr ""
+
+#: widgets/pricing-table.php:168
+msgid "Price Features List"
+msgstr ""
+
+#: widgets/pricing-table.php:169
+msgid "This is options for price features list."
+msgstr ""
+
+#: widgets/pricing-table.php:195
+msgid "Pricing Table Layout"
+msgstr ""
+
+#: widgets/pricing-table.php:196
+msgid "Here you can choose the pricing table layout."
+msgstr ""
+
+#: widgets/pricing-table.php:250 widgets/pricing-table.php:252
+msgid "Pricing Title"
+msgstr ""
+
+#: widgets/pricing-table.php:251
+msgid "Input pricing table title here."
+msgstr ""
+
+#: widgets/pricing-table.php:300
+msgid "Icons"
+msgstr ""
+
+#: widgets/pricing-table.php:302
+msgid "Icons options available here."
+msgstr ""
+
+#: widgets/pricing-table.php:355
+msgid "Pricing image options available here."
+msgstr ""
+
+#: widgets/pricing-table.php:363
+msgid "Choose pricing image."
+msgstr ""
+
+#: widgets/pricing-table.php:546
+msgid "Pricing video options available here."
+msgstr ""
+
+#: widgets/pricing-table.php:553 widgets/pricing-table.php:1724
+msgid "Pricing Video"
+msgstr ""
+
+#: widgets/pricing-table.php:554
+msgid ""
+"Choose pricing video. This url maybe youtube or vimeo video. Example https://"
+"www.youtube.com/embed/qAHRvrrfGC4"
+msgstr ""
+
+#: widgets/pricing-table.php:566
+msgid "Pricing content options available here."
+msgstr ""
+
+#: widgets/pricing-table.php:573
+msgid "Pricing Content"
+msgstr ""
+
+#: widgets/pricing-table.php:574
+msgid "This is option for pricing content."
+msgstr ""
+
+#: widgets/pricing-table.php:584
+msgid "Ribbon"
+msgstr ""
+
+#: widgets/pricing-table.php:586
+msgid "Ribbon options available here."
+msgstr ""
+
+#: widgets/pricing-table.php:592
+msgid "Ribbon Option"
+msgstr ""
+
+#: widgets/pricing-table.php:593
+msgid ""
+"This is option for pricing table ribbon. If you enable this option, then "
+"it's showing ribbon settings i.e color, text, etc."
+msgstr ""
+
+#: widgets/pricing-table.php:602
+msgid "Ribbon Text"
+msgstr ""
+
+#: widgets/pricing-table.php:603
+msgid "This is option for ribbon text field for price."
+msgstr ""
+
+#: widgets/pricing-table.php:614
+msgid "Choose Ribbon Position"
+msgstr ""
+
+#: widgets/pricing-table.php:615
+msgid "Choose ribbon position for change pricing table ribbon layout."
+msgstr ""
+
+#: widgets/pricing-table.php:618
+msgid "Top Left"
+msgstr ""
+
+#: widgets/pricing-table.php:619
+msgid "Top Right"
+msgstr ""
+
+#: widgets/pricing-table.php:620
+msgid "Bottom Left"
+msgstr ""
+
+#: widgets/pricing-table.php:621
+msgid "Bottom Right"
+msgstr ""
+
+#: widgets/pricing-table.php:713 widgets/pricing-table.php:722
+#: widgets/pricing-table.php:781 widgets/pricing-table.php:790
+msgid "This is option for show box shadow on pricing box hover."
+msgstr ""
+
+#: widgets/pricing-table.php:831
+msgid "Pricing Header"
+msgstr ""
+
+#: widgets/pricing-table.php:919
+msgid "Header Typo"
+msgstr ""
+
+#: widgets/pricing-table.php:927
+msgid "Price Typo"
+msgstr ""
+
+#: widgets/pricing-table.php:958
+msgid "Pricing Features"
+msgstr ""
+
+#: widgets/recent-popular.php:140
+msgid "Blog query options."
+msgstr ""
+
+#: widgets/recent-popular.php:204
+msgid "Include Posts"
+msgstr ""
+
+#: widgets/recent-popular.php:215
+msgid "Exclude Posts"
+msgstr ""
+
+#: widgets/recent-popular.php:570
+msgid "Outer Margin"
+msgstr ""
+
+#: widgets/recent-popular.php:581
+msgid "Outer Padding"
+msgstr ""
+
+#: widgets/recent-popular.php:592
+msgid "Toggle Title Styles"
+msgstr ""
+
+#: widgets/recent-popular.php:627
+msgid "Inactive"
+msgstr ""
+
+#: widgets/recent-popular.php:646
+msgid "Toggle Title Margin"
+msgstr ""
+
+#: widgets/recent-popular.php:1761
+msgid "Recent Posts"
+msgstr ""
+
+#: widgets/recent-popular.php:1766
+msgid "Popular Posts"
+msgstr ""
+
+#: widgets/section-title.php:101
+msgctxt "shapes"
+msgid "Curly"
+msgstr ""
+
+#: widgets/section-title.php:109
+msgctxt "shapes"
+msgid "Curved"
+msgstr ""
+
+#: widgets/section-title.php:117
+msgctxt "shapes"
+msgid "Multiple"
+msgstr ""
+
+#: widgets/section-title.php:125
+msgctxt "shapes"
+msgid "Slashes"
+msgstr ""
+
+#: widgets/section-title.php:134
+msgctxt "shapes"
+msgid "Squared"
+msgstr ""
+
+#: widgets/section-title.php:142
+msgctxt "shapes"
+msgid "Wavy"
+msgstr ""
+
+#: widgets/section-title.php:150 widgets/section-title.php:280
+msgctxt "shapes"
+msgid "Zigzag"
+msgstr ""
+
+#: widgets/section-title.php:158
+msgctxt "shapes"
+msgid "Arrows"
+msgstr ""
+
+#: widgets/section-title.php:166
+msgctxt "shapes"
+msgid "Pluses"
+msgstr ""
+
+#: widgets/section-title.php:174
+msgctxt "shapes"
+msgid "Rhombus"
+msgstr ""
+
+#: widgets/section-title.php:182
+msgctxt "shapes"
+msgid "Parallelogram"
+msgstr ""
+
+#: widgets/section-title.php:190
+msgctxt "shapes"
+msgid "Rectangles"
+msgstr ""
+
+#: widgets/section-title.php:199
+msgctxt "shapes"
+msgid "Dots"
+msgstr ""
+
+#: widgets/section-title.php:208
+msgctxt "shapes"
+msgid "Fir Tree"
+msgstr ""
+
+#: widgets/section-title.php:217
+msgctxt "shapes"
+msgid "Half Rounds"
+msgstr ""
+
+#: widgets/section-title.php:226
+msgctxt "shapes"
+msgid "Leaves"
+msgstr ""
+
+#: widgets/section-title.php:235
+msgctxt "shapes"
+msgid "Stripes"
+msgstr ""
+
+#: widgets/section-title.php:244
+msgctxt "shapes"
+msgid "Squares"
+msgstr ""
+
+#: widgets/section-title.php:253
+msgctxt "shapes"
+msgid "Trees"
+msgstr ""
+
+#: widgets/section-title.php:262
+msgctxt "shapes"
+msgid "Tribal"
+msgstr ""
+
+#: widgets/section-title.php:271
+msgctxt "shapes"
+msgid "X"
+msgstr ""
+
+#: widgets/section-title.php:301
+msgid "Line"
+msgstr ""
+
+#: widgets/section-title.php:413
+msgid "Prefix Title"
+msgstr ""
+
+#: widgets/section-title.php:414
+msgid ""
+"Enter section title prefix. If no need title prefix, then leave this box "
+"blank."
+msgstr ""
+
+#: widgets/section-title.php:421
+msgid "Main Title"
+msgstr ""
+
+#: widgets/section-title.php:422
+msgid "Enter section title here."
+msgstr ""
+
+#: widgets/section-title.php:430
+msgid "Suffix Title"
+msgstr ""
+
+#: widgets/section-title.php:431
+msgid ""
+"Enter section title suffix. If no need title suffix, then leave this box "
+"blank."
+msgstr ""
+
+#: widgets/section-title.php:437
+msgid "Modal Box Title Heading Tag"
+msgstr ""
+
+#: widgets/section-title.php:438
+msgid "Here you can choose the section title box title heading tag."
+msgstr ""
+
+#: widgets/section-title.php:461 widgets/section-title.php:470
+#: widgets/section-title.php:993
+msgid "Sub Title"
+msgstr ""
+
+#: widgets/section-title.php:463
+msgid "Sub title options available here."
+msgstr ""
+
+#: widgets/section-title.php:471
+msgid ""
+"Enter section title here. If no need sub title, then leave this box blank."
+msgstr ""
+
+#: widgets/section-title.php:477 widgets/section-title.php:530
+msgid "Sub Title Heading Tag"
+msgstr ""
+
+#: widgets/section-title.php:478 widgets/section-title.php:531
+msgid "Here you can choose the section sub title heading tag."
+msgstr ""
+
+#: widgets/section-title.php:499
+msgid "Sub Title Position"
+msgstr ""
+
+#: widgets/section-title.php:500
+msgid "This is option for positioning sub title."
+msgstr ""
+
+#: widgets/section-title.php:514 widgets/section-title.php:1234
+msgid "Lead"
+msgstr ""
+
+#: widgets/section-title.php:516
+msgid "Lead text options available here."
+msgstr ""
+
+#: widgets/section-title.php:523
+msgid "Lead Text"
+msgstr ""
+
+#: widgets/section-title.php:524
+msgid "Enter section lead text here."
+msgstr ""
+
+#: widgets/section-title.php:548 widgets/section-title.php:1042
+msgid "Separator"
+msgstr ""
+
+#: widgets/section-title.php:550
+msgid "Separator options available here."
+msgstr ""
+
+#: widgets/section-title.php:557 widgets/timeline.php:207
+msgid "Separator Type"
+msgstr ""
+
+#: widgets/section-title.php:558
+msgid "This is section title seperator type."
+msgstr ""
+
+#: widgets/section-title.php:562
+msgid "Border/Pattern"
+msgstr ""
+
+#: widgets/section-title.php:571
+msgid "Border/Shape"
+msgstr ""
+
+#: widgets/section-title.php:687
+msgid "Content options available here."
+msgstr ""
+
+#: widgets/section-title.php:695
+msgid "Enter section title below content."
+msgstr ""
+
+#: widgets/section-title.php:713
+msgid "Enable Button"
+msgstr ""
+
+#: widgets/section-title.php:714
+msgid "This is option for enable button on section title."
+msgstr ""
+
+#: widgets/section-title.php:908
+msgid "Title Prefix Color"
+msgstr ""
+
+#: widgets/section-title.php:909
+msgid "Here you can put the prefix title font color."
+msgstr ""
+
+#: widgets/section-title.php:921
+msgid "Here you can put the main title font color."
+msgstr ""
+
+#: widgets/section-title.php:932
+msgid "Title Suffix Color"
+msgstr ""
+
+#: widgets/section-title.php:933
+msgid "Here you can put the suffix title font color."
+msgstr ""
+
+#: widgets/section-title.php:1001
+msgid "Sub Title Color"
+msgstr ""
+
+#: widgets/section-title.php:1002
+msgid "Here you can put the sub title font color."
+msgstr ""
+
+#: widgets/section-title.php:1012
+msgid "Sub Title Spacing"
+msgstr ""
+
+#: widgets/section-title.php:1075
+msgid "Icon Size"
+msgstr ""
+
+#: widgets/section-title.php:1155
+msgid "Amount"
+msgstr ""
+
+#: widgets/section-title.php:1209
+msgid "Gap"
+msgstr ""
+
+#: widgets/section-title.php:1242
+msgid "Lead Text Color"
+msgstr ""
+
+#: widgets/section-title.php:1243
+msgid "Here you can put the lead font color."
+msgstr ""
+
+#: widgets/section-title.php:1253 widgets/section-title.php:1302
+msgid "Content Spacing"
+msgstr ""
+
+#: widgets/section-title.php:1291
+msgid "Content Color"
+msgstr ""
+
+#: widgets/section-title.php:1292
+msgid "Here you can put the content font color."
+msgstr ""
+
+#: widgets/social-links.php:132
+msgid "Social links options available here."
+msgstr ""
+
+#: widgets/switcher-content.php:113
+msgid "Switcher Content Type"
+msgstr ""
+
+#: widgets/switcher-content.php:114
+msgid ""
+"This is option for switcher content type either text content or html "
+"element. If choose HTML element, then have to put element ID into the each "
+"switcher content element box"
+msgstr ""
+
+#: widgets/switcher-content.php:130
+msgid "Switcher content options."
+msgstr ""
+
+#: widgets/switcher-content.php:145
+msgid "Primary Element ID"
+msgstr ""
+
+#: widgets/switcher-content.php:175
+msgid "Secondary Element ID"
+msgstr ""
+
+#: widgets/switcher-content.php:279
+msgid "Switcher Head"
+msgstr ""
+
+#: widgets/switcher-content.php:366
+msgid "Switcher Title Typo"
+msgstr ""
+
+#: widgets/switcher-content.php:374
+msgid "Switch Title Padding"
+msgstr ""
+
+#: widgets/switcher-content.php:426
+msgid "Primary"
+msgstr ""
+
+#: widgets/switcher-content.php:455
+msgid "Secondary"
+msgstr ""
+
+#: widgets/switcher-content.php:485
+msgid "Switcher Content Typo"
+msgstr ""
+
+#: widgets/tab.php:107
+msgid "Default tab options."
+msgstr ""
+
+#: widgets/tab.php:126
+msgid "Tab options."
+msgstr ""
+
+#: widgets/tab.php:135
+msgid "tab title."
+msgstr ""
+
+#: widgets/tab.php:141
+msgid "Icon Type"
+msgstr ""
+
+#: widgets/tab.php:183
+msgid "Tab Image"
+msgstr ""
+
+#: widgets/tab.php:222
+msgid "Tab Content"
+msgstr ""
+
+#: widgets/tab.php:224
+msgid "You can place here tab content."
+msgstr ""
+
+#: widgets/tab.php:258
+msgid "Tab List"
+msgstr ""
+
+#: widgets/tab.php:315
+msgid "Vertical Tab"
+msgstr ""
+
+#: widgets/tab.php:316
+msgid "This is option for enable vertical tab."
+msgstr ""
+
+#: widgets/tab.php:395
+msgid "Tab Title"
+msgstr ""
+
+#: widgets/tab.php:520
+msgid "Title Colors"
+msgstr ""
+
+#: widgets/tab.php:585
+msgid "Title Icon"
+msgstr ""
+
+#: widgets/timeline-slide.php:114
+msgid "Event Line Distance"
+msgstr ""
+
+#: widgets/timeline-slide.php:115
+msgid ""
+"This is option for timeline event line distance. If you use timeline for "
+"years make distance volume low."
+msgstr ""
+
+#: widgets/timeline-slide.php:127 widgets/timeline.php:149
+msgid "Timeline options available here."
+msgstr ""
+
+#: widgets/timeline-slide.php:136 widgets/timeline-slide.php:259
+msgid "Timeline Date"
+msgstr ""
+
+#: widgets/timeline-slide.php:137
+msgid ""
+"Here you can put the timeline date. Must follow the date format dd/mm/yyyy. "
+"Example 16/01/2014"
+msgstr ""
+
+#: widgets/timeline-slide.php:145
+msgid "Timeline Separator Title"
+msgstr ""
+
+#: widgets/timeline-slide.php:146 widgets/timeline.php:285
+msgid "Here you can put the timeline separator title."
+msgstr ""
+
+#: widgets/timeline-slide.php:154 widgets/timeline-slide.php:298
+#: widgets/timeline.php:170 widgets/timeline.php:544
+msgid "Timeline Title"
+msgstr ""
+
+#: widgets/timeline-slide.php:155 widgets/timeline.php:171
+msgid "Here you can put the timeline title."
+msgstr ""
+
+#: widgets/timeline-slide.php:163 widgets/timeline-slide.php:324
+#: widgets/timeline.php:178
+msgid "Timeline Sub Title"
+msgstr ""
+
+#: widgets/timeline-slide.php:164 widgets/timeline.php:179
+msgid "Here you can put the timeline sub title."
+msgstr ""
+
+#: widgets/timeline-slide.php:180
+msgid "Timeline Setting"
+msgstr ""
+
+#: widgets/timeline-slide.php:181
+msgid "This is options for timeline."
+msgstr ""
+
+#: widgets/timeline-slide.php:186
+msgid "History"
+msgstr ""
+
+#: widgets/timeline-slide.php:188
+msgid "01 Jan"
+msgstr ""
+
+#: widgets/timeline-slide.php:189
+msgid "1st January, 2012"
+msgstr ""
+
+#: widgets/timeline-slide.php:190 widgets/timeline.php:321
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+msgstr ""
+
+#: widgets/timeline-slide.php:210
+msgid "Timeline Color"
+msgstr ""
+
+#: widgets/timeline-slide.php:279
+msgid "Line Dot Color"
+msgstr ""
+
+#: widgets/timeline-slide.php:306
+msgid "Timeline Title Color"
+msgstr ""
+
+#: widgets/timeline-slide.php:332
+msgid "Timeline Sub Title Color"
+msgstr ""
+
+#: widgets/timeline-slide.php:343 widgets/timeline.php:593
+msgid "Timeline Separator"
+msgstr ""
+
+#: widgets/timeline-slide.php:351
+msgid "Timeline Separator Color"
+msgstr ""
+
+#: widgets/timeline.php:99
+msgid "Timeline Style"
+msgstr ""
+
+#: widgets/timeline.php:100
+msgid "Here you can choose the Time Line view type."
+msgstr ""
+
+#: widgets/timeline.php:113
+msgid "Timeline Layout"
+msgstr ""
+
+#: widgets/timeline.php:114
+msgid ""
+"This is option for timeline layout. If you choose left/right layout, then "
+"this option set the timeline position same side."
+msgstr ""
+
+#: widgets/timeline.php:119
+msgid "Left Layout"
+msgstr ""
+
+#: widgets/timeline.php:120
+msgid "Right Layout"
+msgstr ""
+
+#: widgets/timeline.php:127
+msgid "History Line Style"
+msgstr ""
+
+#: widgets/timeline.php:128
+msgid "This is option for timeline history line style."
+msgstr ""
+
+#: widgets/timeline.php:156
+msgid "Timeline Position"
+msgstr ""
+
+#: widgets/timeline.php:157
+msgid ""
+"This is option for timeline position. Either same side or opposite side."
+msgstr ""
+
+#: widgets/timeline.php:161
+msgid "Same Side"
+msgstr ""
+
+#: widgets/timeline.php:162
+msgid "Opposite Side"
+msgstr ""
+
+#: widgets/timeline.php:186
+msgid "Separator Shape"
+msgstr ""
+
+#: widgets/timeline.php:187
+msgid "This is options for separator shape."
+msgstr ""
+
+#: widgets/timeline.php:194
+msgid "Triangle"
+msgstr ""
+
+#: widgets/timeline.php:195
+msgid "Pentagon"
+msgstr ""
+
+#: widgets/timeline.php:196
+msgid "Hexagon"
+msgstr ""
+
+#: widgets/timeline.php:197
+msgid "Heptagon"
+msgstr ""
+
+#: widgets/timeline.php:198
+msgid "Octagon"
+msgstr ""
+
+#: widgets/timeline.php:199
+msgid "Nonagon"
+msgstr ""
+
+#: widgets/timeline.php:200
+msgid "Decagon"
+msgstr ""
+
+#: widgets/timeline.php:208
+msgid ""
+"This is option for timeline separator type either icon/image/text. If no "
+"need separator, then choose none."
+msgstr ""
+
+#: widgets/timeline.php:238
+msgid "Separator Image"
+msgstr ""
+
+#: widgets/timeline.php:239
+msgid "Choose separator image."
+msgstr ""
+
+#: widgets/timeline.php:249
+msgid "Separator Text"
+msgstr ""
+
+#: widgets/timeline.php:250
+msgid "This is option for showing text on separator."
+msgstr ""
+
+#: widgets/timeline.php:260
+msgid "Separator Color"
+msgstr ""
+
+#: widgets/timeline.php:261 widgets/timeline.php:273
+msgid "Here you can put the timeline separator color."
+msgstr ""
+
+#: widgets/timeline.php:272
+msgid "Separator Bg Color"
+msgstr ""
+
+#: widgets/timeline.php:284
+msgid "Separator Title"
+msgstr ""
+
+#: widgets/timeline.php:292
+msgid "Separator Sub Title"
+msgstr ""
+
+#: widgets/timeline.php:293
+msgid "Here you can put the timeline separator sub title."
+msgstr ""
+
+#: widgets/timeline.php:309
+msgid "Timeline Settings"
+msgstr ""
+
+#: widgets/timeline.php:314
+msgid "History 1"
+msgstr ""
+
+#: widgets/timeline.php:320
+msgid "started"
+msgstr ""
+
+#: widgets/timeline.php:362
+msgid "Here you can put timeline font color."
+msgstr ""
+
+#: widgets/timeline.php:374
+msgid "Here you can put timeline background color."
+msgstr ""
+
+#: widgets/timeline.php:394
+msgid "Timeline Content"
+msgstr ""
+
+#: widgets/timeline.php:433 widgets/timeline.php:442 widgets/timeline.php:503
+#: widgets/timeline.php:512
+msgid "This is option for show box shadow on timeline content hover."
+msgstr ""
+
+#: widgets/timeline.php:602
+msgid "Separator Title Color"
+msgstr ""
+
+#: widgets/timeline.php:613
+msgid "Separator Content Color"
+msgstr ""
+
+#: widgets/timeline.php:624
+msgid "Separator Shape Color"
+msgstr ""
+
+#: widgets/timeline.php:635
+msgid "Separator Shape Bg"
+msgstr ""
+
+#: widgets/timeline.php:645
+msgid "Timeline Border"
+msgstr ""
+
+#: widgets/toggle-content.php:106
+msgid "Toggle"
+msgstr ""
+
+#: widgets/toggle-content.php:108
+msgid "Default toggle content options."
+msgstr ""
+
+#: widgets/toggle-content.php:115
+msgid "Number of Lines Toggle"
+msgstr ""
+
+#: widgets/toggle-content.php:116
+msgid ""
+"Here you put the number of lines want to show on page load. Other lines are "
+"hidden untill when trigger toggle button."
+msgstr ""
+
+#: widgets/toggle-content.php:211
+msgid "Toggle Inactive"
+msgstr ""
+
+#: widgets/toggle-content.php:238
+msgid "Toggle Active"
+msgstr ""
+
+#: widgets/toggle-content.php:641
+msgid "More"
+msgstr ""
+
+#: widgets/toggle-content.php:642
+msgid "Less"
+msgstr ""

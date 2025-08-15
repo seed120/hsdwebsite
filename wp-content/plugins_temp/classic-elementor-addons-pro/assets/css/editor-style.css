@@ -1,0 +1,29 @@
+/* Pro Styles */
+.elementor-control-cea_pro_section .elementor-section-title,
+.elementor-panel .elementor-control.elementor-control-pro_desc .elementor-control-field-description .cea-pro-feature a,
+.elementor-control-animate_style_warning .elementor-control-title, 
+.elementor-control-layout_style_warning .elementor-control-title,
+.elementor-control-flip_style_warning .elementor-control-title,
+.elementor-control-map_style_warning .elementor-control-title,
+.elementor-control-image_grid_style_warning .elementor-control-title,
+.elementor-control-popover_type_warning .elementor-control-title,
+.elementor-control-sep_model_warning .elementor-control-title,
+.elementor-control-tab_type_warning .elementor-control-title {
+    color: #39b54a;
+}
+.elementor-control.elementor-control-pro_desc .elementor-control-field {
+    display: none !important;
+}
+i.cea-default-icon:after {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    height: 15px;
+    width: 15px;
+    content: "";
+    background-image: url(../images/logo.png);
+    background-size: contain;
+    border-radius: 50%;
+	opacity: 0.3;
+    filter: grayscale(100%);
+}

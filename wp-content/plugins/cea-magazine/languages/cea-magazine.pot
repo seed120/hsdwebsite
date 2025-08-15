@@ -1,0 +1,614 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CEA Magazine\n"
+"POT-Creation-Date: 2022-09-14 17:45+0530\n"
+"PO-Revision-Date: 2022-09-14 17:45+0530\n"
+"Last-Translator: \n"
+"Language-Team: zozothemes\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/cea-addon.php:50
+msgid "Enable/Disable CEA Magazine widget here."
+msgstr ""
+
+#: inc/cea-addon.php:96
+msgid "CEA Post Magazine Widget"
+msgstr ""
+
+#: index.php:53
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" and \"%3$s\" to be installed and activated."
+msgstr ""
+
+#: index.php:54
+msgid "CEA Magazine"
+msgstr ""
+
+#: index.php:55
+msgid "Elementor"
+msgstr ""
+
+#: index.php:56
+msgid "Classic Elementor Addons"
+msgstr ""
+
+#: widgets/blog-layouts.php:49
+msgid "Blog Layouts"
+msgstr ""
+
+#: widgets/blog-layouts.php:124 widgets/blog-layouts.php:674
+msgid "General"
+msgstr ""
+
+#: widgets/blog-layouts.php:126
+msgid "Default blog options."
+msgstr ""
+
+#: widgets/blog-layouts.php:133
+msgid "Extra Class"
+msgstr ""
+
+#: widgets/blog-layouts.php:134
+msgid "Put extra class for some additional styles."
+msgstr ""
+
+#: widgets/blog-layouts.php:143
+msgid "Query"
+msgstr ""
+
+#: widgets/blog-layouts.php:145
+msgid "Blog query options."
+msgstr ""
+
+#: widgets/blog-layouts.php:152
+msgid "Post Per Page"
+msgstr ""
+
+#: widgets/blog-layouts.php:153
+msgid "Here you can define post limits per page. Example 10"
+msgstr ""
+
+#: widgets/blog-layouts.php:161 widgets/blog-layouts.php:352
+#: widgets/blog-layouts.php:384 widgets/blog-layouts.php:400
+#: widgets/blog-layouts.php:430 widgets/blog-layouts.php:494
+#: widgets/blog-layouts.php:522 widgets/blog-layouts.php:546
+#: widgets/blog-layouts.php:572
+msgid "Author"
+msgstr ""
+
+#: widgets/blog-layouts.php:162
+msgid "This is filter author posts."
+msgstr ""
+
+#: widgets/blog-layouts.php:173
+msgid "Categories"
+msgstr ""
+
+#: widgets/blog-layouts.php:174
+msgid ""
+"This is filter categories. Enter and select which categories you want. If "
+"you don't want top filter, then leave this empty."
+msgstr ""
+
+#: widgets/blog-layouts.php:185
+msgid "Exclude Categories"
+msgstr ""
+
+#: widgets/blog-layouts.php:186
+msgid "Here you can mention unwanted categories"
+msgstr ""
+
+#: widgets/blog-layouts.php:197
+msgid "Tags"
+msgstr ""
+
+#: widgets/blog-layouts.php:198
+msgid "This is filter tags. Enter and select which tags you want."
+msgstr ""
+
+#: widgets/blog-layouts.php:209
+msgid "Include Posts"
+msgstr ""
+
+#: widgets/blog-layouts.php:220
+msgid "Exclude Posts"
+msgstr ""
+
+#: widgets/blog-layouts.php:231
+msgid "Order By"
+msgstr ""
+
+#: widgets/blog-layouts.php:241
+msgid "Order"
+msgstr ""
+
+#: widgets/blog-layouts.php:255
+msgid "Read More Text"
+msgstr ""
+
+#: widgets/blog-layouts.php:256
+msgid "Here you can enter read more text instead of default text."
+msgstr ""
+
+#: widgets/blog-layouts.php:257 widgets/blog-layouts.php:385
+#: widgets/blog-layouts.php:405 widgets/blog-layouts.php:431
+#: widgets/blog-layouts.php:527 widgets/blog-layouts.php:547
+#: widgets/blog-layouts.php:573 widgets/blog-layouts.php:647
+msgid "Read More"
+msgstr ""
+
+#: widgets/blog-layouts.php:263
+msgid "Post Pagination"
+msgstr ""
+
+#: widgets/blog-layouts.php:277
+msgid "Layouts"
+msgstr ""
+
+#: widgets/blog-layouts.php:279
+msgid "Blog layout options here available."
+msgstr ""
+
+#: widgets/blog-layouts.php:285
+msgid "Layout"
+msgstr ""
+
+#: widgets/blog-layouts.php:286
+msgid "This is an option for display varity of layouts."
+msgstr ""
+
+#: widgets/blog-layouts.php:290
+msgid "List Layout"
+msgstr ""
+
+#: widgets/blog-layouts.php:291
+msgid "Layout 1"
+msgstr ""
+
+#: widgets/blog-layouts.php:292
+msgid "Layout 2"
+msgstr ""
+
+#: widgets/blog-layouts.php:293
+msgid "Layout 3"
+msgstr ""
+
+#: widgets/blog-layouts.php:294
+msgid "Layout 4"
+msgstr ""
+
+#: widgets/blog-layouts.php:295
+msgid "Layout 5"
+msgstr ""
+
+#: widgets/blog-layouts.php:296
+msgid "Layout 6"
+msgstr ""
+
+#: widgets/blog-layouts.php:297
+msgid "Layout 7"
+msgstr ""
+
+#: widgets/blog-layouts.php:298
+msgid "Layout 8"
+msgstr ""
+
+#: widgets/blog-layouts.php:305 widgets/blog-layouts.php:2086
+msgid "Primary"
+msgstr ""
+
+#: widgets/blog-layouts.php:314
+msgid "Primary Post Excerpt Length"
+msgstr ""
+
+#: widgets/blog-layouts.php:315
+msgid "Here you can define primary post excerpt length. Example 10"
+msgstr ""
+
+#: widgets/blog-layouts.php:322
+msgid "Primary Title Heading Tag"
+msgstr ""
+
+#: widgets/blog-layouts.php:323
+msgid "This is an option for primary layout title heading tag"
+msgstr ""
+
+#: widgets/blog-layouts.php:327 widgets/blog-layouts.php:469
+msgid "h1"
+msgstr ""
+
+#: widgets/blog-layouts.php:328 widgets/blog-layouts.php:470
+msgid "h2"
+msgstr ""
+
+#: widgets/blog-layouts.php:329 widgets/blog-layouts.php:471
+msgid "h3"
+msgstr ""
+
+#: widgets/blog-layouts.php:330 widgets/blog-layouts.php:472
+msgid "h4"
+msgstr ""
+
+#: widgets/blog-layouts.php:331 widgets/blog-layouts.php:473
+msgid "h5"
+msgstr ""
+
+#: widgets/blog-layouts.php:332 widgets/blog-layouts.php:474
+msgid "h6"
+msgstr ""
+
+#: widgets/blog-layouts.php:340
+msgid ""
+"This is settings for primary layout post items. here you can set your own "
+"layout. Drag and drop needed post items to Enabled part."
+msgstr ""
+
+#: widgets/blog-layouts.php:344 widgets/blog-layouts.php:486
+#: widgets/blog-layouts.php:2347 widgets/blog-layouts.php:2361
+msgid "Feature Image"
+msgstr ""
+
+#: widgets/blog-layouts.php:345 widgets/blog-layouts.php:434
+#: widgets/blog-layouts.php:487 widgets/blog-layouts.php:576
+#: widgets/blog-layouts.php:623 widgets/blog-layouts.php:770
+#: widgets/blog-layouts.php:2348 widgets/blog-layouts.php:2362
+msgid "Title"
+msgstr ""
+
+#: widgets/blog-layouts.php:346 widgets/blog-layouts.php:490
+#: widgets/blog-layouts.php:2349
+msgid "Excerpt"
+msgstr ""
+
+#: widgets/blog-layouts.php:349 widgets/blog-layouts.php:435
+#: widgets/blog-layouts.php:491 widgets/blog-layouts.php:577
+msgid "Top Meta"
+msgstr ""
+
+#: widgets/blog-layouts.php:350 widgets/blog-layouts.php:436
+#: widgets/blog-layouts.php:492 widgets/blog-layouts.php:578
+msgid "Bottom Meta"
+msgstr ""
+
+#: widgets/blog-layouts.php:351 widgets/blog-layouts.php:380
+#: widgets/blog-layouts.php:404 widgets/blog-layouts.php:429
+#: widgets/blog-layouts.php:493 widgets/blog-layouts.php:526
+#: widgets/blog-layouts.php:542 widgets/blog-layouts.php:571
+msgid "Category"
+msgstr ""
+
+#: widgets/blog-layouts.php:360
+msgid "Primary Image Size"
+msgstr ""
+
+#: widgets/blog-layouts.php:376 widgets/blog-layouts.php:518
+msgid "This is settings for blog shortcode post top meta."
+msgstr ""
+
+#: widgets/blog-layouts.php:379 widgets/blog-layouts.php:399
+#: widgets/blog-layouts.php:521 widgets/blog-layouts.php:541
+msgid "Left"
+msgstr ""
+
+#: widgets/blog-layouts.php:382 widgets/blog-layouts.php:402
+#: widgets/blog-layouts.php:524 widgets/blog-layouts.php:544
+msgid "Right"
+msgstr ""
+
+#: widgets/blog-layouts.php:383 widgets/blog-layouts.php:403
+#: widgets/blog-layouts.php:428 widgets/blog-layouts.php:525
+#: widgets/blog-layouts.php:545 widgets/blog-layouts.php:570
+msgid "disabled"
+msgstr ""
+
+#: widgets/blog-layouts.php:386 widgets/blog-layouts.php:406
+#: widgets/blog-layouts.php:432 widgets/blog-layouts.php:528
+#: widgets/blog-layouts.php:548 widgets/blog-layouts.php:574
+msgid "Date"
+msgstr ""
+
+#: widgets/blog-layouts.php:387 widgets/blog-layouts.php:407
+#: widgets/blog-layouts.php:433 widgets/blog-layouts.php:529
+#: widgets/blog-layouts.php:549 widgets/blog-layouts.php:575
+msgid "Comment"
+msgstr ""
+
+#: widgets/blog-layouts.php:396 widgets/blog-layouts.php:538
+msgid "This is settings for blog shortcode post bottom meta."
+msgstr ""
+
+#: widgets/blog-layouts.php:415 widgets/blog-layouts.php:557
+msgid "Primary Overlay Items Options"
+msgstr ""
+
+#: widgets/blog-layouts.php:424 widgets/blog-layouts.php:566
+msgid "This is settings for primary post overlay items."
+msgstr ""
+
+#: widgets/blog-layouts.php:427 widgets/blog-layouts.php:569
+msgid "Enabled"
+msgstr ""
+
+#: widgets/blog-layouts.php:447 widgets/blog-layouts.php:2192
+msgid "Secondary"
+msgstr ""
+
+#: widgets/blog-layouts.php:456
+msgid "Secondary Post Excerpt Length"
+msgstr ""
+
+#: widgets/blog-layouts.php:457
+msgid "Here you can define secondary post excerpt length. Example 5"
+msgstr ""
+
+#: widgets/blog-layouts.php:464
+msgid "Secondary Title Heading Tag"
+msgstr ""
+
+#: widgets/blog-layouts.php:465
+msgid "This is an option for secondary layout title heading tag"
+msgstr ""
+
+#: widgets/blog-layouts.php:482
+msgid ""
+"This is settings for secondary layout post items. here you can set your own "
+"layout. Drag and drop needed post items to Enabled part."
+msgstr ""
+
+#: widgets/blog-layouts.php:502
+msgid "Secondary Image Size"
+msgstr ""
+
+#: widgets/blog-layouts.php:592
+msgid "Links"
+msgstr ""
+
+#: widgets/blog-layouts.php:599 widgets/blog-layouts.php:1010
+msgid "Image"
+msgstr ""
+
+#: widgets/blog-layouts.php:607 widgets/blog-layouts.php:631
+#: widgets/blog-layouts.php:655
+msgid "Target Blank"
+msgstr ""
+
+#: widgets/blog-layouts.php:615 widgets/blog-layouts.php:639
+#: widgets/blog-layouts.php:663
+msgid "No Follow"
+msgstr ""
+
+#: widgets/blog-layouts.php:682 widgets/blog-layouts.php:804
+#: widgets/blog-layouts.php:919 widgets/blog-layouts.php:1261
+#: widgets/blog-layouts.php:1410 widgets/blog-layouts.php:1571
+#: widgets/blog-layouts.php:1655 widgets/blog-layouts.php:1740
+#: widgets/blog-layouts.php:1824 widgets/blog-layouts.php:1891
+#: widgets/blog-layouts.php:1988 widgets/blog-layouts.php:2154
+#: widgets/blog-layouts.php:2260
+msgid "Normal"
+msgstr ""
+
+#: widgets/blog-layouts.php:688 widgets/blog-layouts.php:724
+#: widgets/blog-layouts.php:810 widgets/blog-layouts.php:925
+#: widgets/blog-layouts.php:1577 widgets/blog-layouts.php:1661
+#: widgets/blog-layouts.php:1746 widgets/blog-layouts.php:1830
+#: widgets/blog-layouts.php:1897 widgets/blog-layouts.php:1915
+#: widgets/blog-layouts.php:1994 widgets/blog-layouts.php:2012
+msgid "Color"
+msgstr ""
+
+#: widgets/blog-layouts.php:699 widgets/blog-layouts.php:735
+#: widgets/blog-layouts.php:2160 widgets/blog-layouts.php:2178
+#: widgets/blog-layouts.php:2266 widgets/blog-layouts.php:2284
+msgid "Background"
+msgstr ""
+
+#: widgets/blog-layouts.php:718 widgets/blog-layouts.php:822
+#: widgets/blog-layouts.php:937 widgets/blog-layouts.php:1291
+#: widgets/blog-layouts.php:1440 widgets/blog-layouts.php:1600
+#: widgets/blog-layouts.php:1684 widgets/blog-layouts.php:1769
+#: widgets/blog-layouts.php:1853 widgets/blog-layouts.php:1909
+#: widgets/blog-layouts.php:2006 widgets/blog-layouts.php:2172
+#: widgets/blog-layouts.php:2278
+msgid "Hover"
+msgstr ""
+
+#: widgets/blog-layouts.php:755 widgets/blog-layouts.php:853
+#: widgets/blog-layouts.php:968 widgets/blog-layouts.php:1088
+#: widgets/blog-layouts.php:1188 widgets/blog-layouts.php:1357
+#: widgets/blog-layouts.php:1506 widgets/blog-layouts.php:1955
+#: widgets/blog-layouts.php:2052 widgets/blog-layouts.php:2101
+#: widgets/blog-layouts.php:2207
+msgid "Padding"
+msgstr ""
+
+#: widgets/blog-layouts.php:777
+msgid "Primary Title"
+msgstr ""
+
+#: widgets/blog-layouts.php:785 widgets/blog-layouts.php:900
+msgid "Title Transform"
+msgstr ""
+
+#: widgets/blog-layouts.php:787 widgets/blog-layouts.php:902
+msgid "Set title text-transform property."
+msgstr ""
+
+#: widgets/blog-layouts.php:790 widgets/blog-layouts.php:905
+#: widgets/blog-layouts.php:1247 widgets/blog-layouts.php:1396
+msgid "Default"
+msgstr ""
+
+#: widgets/blog-layouts.php:791 widgets/blog-layouts.php:906
+#: widgets/blog-layouts.php:1248 widgets/blog-layouts.php:1397
+msgid "Capitalized"
+msgstr ""
+
+#: widgets/blog-layouts.php:792 widgets/blog-layouts.php:907
+#: widgets/blog-layouts.php:1249 widgets/blog-layouts.php:1398
+msgid "Upper Case"
+msgstr ""
+
+#: widgets/blog-layouts.php:793 widgets/blog-layouts.php:908
+#: widgets/blog-layouts.php:1250 widgets/blog-layouts.php:1399
+msgid "Lower Case"
+msgstr ""
+
+#: widgets/blog-layouts.php:828 widgets/blog-layouts.php:943
+msgid "Hover Color"
+msgstr ""
+
+#: widgets/blog-layouts.php:841 widgets/blog-layouts.php:956
+msgid "margin"
+msgstr ""
+
+#: widgets/blog-layouts.php:865 widgets/blog-layouts.php:980
+#: widgets/blog-layouts.php:1550 widgets/blog-layouts.php:1634
+#: widgets/blog-layouts.php:1719 widgets/blog-layouts.php:1803
+#: widgets/blog-layouts.php:1935 widgets/blog-layouts.php:2032
+msgid "Spacing"
+msgstr ""
+
+#: widgets/blog-layouts.php:892
+msgid "Secondary Title"
+msgstr ""
+
+#: widgets/blog-layouts.php:1017
+msgid "Primary Image"
+msgstr ""
+
+#: widgets/blog-layouts.php:1025 widgets/blog-layouts.php:1125
+msgid "Resize Option"
+msgstr ""
+
+#: widgets/blog-layouts.php:1026 widgets/blog-layouts.php:1126
+msgid "Enable resize option."
+msgstr ""
+
+#: widgets/blog-layouts.php:1034 widgets/blog-layouts.php:1134
+msgid "Image Size"
+msgstr ""
+
+#: widgets/blog-layouts.php:1058 widgets/blog-layouts.php:1158
+msgid "Image Spacing"
+msgstr ""
+
+#: widgets/blog-layouts.php:1077 widgets/blog-layouts.php:1177
+#: widgets/blog-layouts.php:1278 widgets/blog-layouts.php:1307
+#: widgets/blog-layouts.php:1427 widgets/blog-layouts.php:1456
+msgid "Background Color"
+msgstr ""
+
+#: widgets/blog-layouts.php:1099 widgets/blog-layouts.php:1199
+msgid "Border"
+msgstr ""
+
+#: widgets/blog-layouts.php:1106 widgets/blog-layouts.php:1206
+#: widgets/blog-layouts.php:1339 widgets/blog-layouts.php:1488
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/blog-layouts.php:1117
+msgid "Secondary Image"
+msgstr ""
+
+#: widgets/blog-layouts.php:1220
+msgid "Read More Button"
+msgstr ""
+
+#: widgets/blog-layouts.php:1227
+msgid "Primary Button"
+msgstr ""
+
+#: widgets/blog-layouts.php:1242 widgets/blog-layouts.php:1391
+msgid "Transform"
+msgstr ""
+
+#: widgets/blog-layouts.php:1244 widgets/blog-layouts.php:1393
+msgid "Set read more button text-transform property."
+msgstr ""
+
+#: widgets/blog-layouts.php:1267 widgets/blog-layouts.php:1297
+#: widgets/blog-layouts.php:1416 widgets/blog-layouts.php:1446
+msgid "Text Color"
+msgstr ""
+
+#: widgets/blog-layouts.php:1317 widgets/blog-layouts.php:1466
+msgid "Border Color"
+msgstr ""
+
+#: widgets/blog-layouts.php:1376
+msgid "Secondary Button"
+msgstr ""
+
+#: widgets/blog-layouts.php:1528
+msgid "Meta"
+msgstr ""
+
+#: widgets/blog-layouts.php:1535
+msgid "Primary Top Meta"
+msgstr ""
+
+#: widgets/blog-layouts.php:1588 widgets/blog-layouts.php:1672
+#: widgets/blog-layouts.php:1757 widgets/blog-layouts.php:1841
+msgid "Link"
+msgstr ""
+
+#: widgets/blog-layouts.php:1606 widgets/blog-layouts.php:1690
+#: widgets/blog-layouts.php:1775 widgets/blog-layouts.php:1859
+msgid "Link Hover"
+msgstr ""
+
+#: widgets/blog-layouts.php:1619
+msgid "Primary Bottom Meta"
+msgstr ""
+
+#: widgets/blog-layouts.php:1704
+msgid "Secondary Top Meta"
+msgstr ""
+
+#: widgets/blog-layouts.php:1788
+msgid "Secondary Bottom Meta"
+msgstr ""
+
+#: widgets/blog-layouts.php:1875
+msgid "Content"
+msgstr ""
+
+#: widgets/blog-layouts.php:1882
+msgid "Primary Content"
+msgstr ""
+
+#: widgets/blog-layouts.php:1967 widgets/blog-layouts.php:2064
+msgid "Margin"
+msgstr ""
+
+#: widgets/blog-layouts.php:1979
+msgid "Secondary Content"
+msgstr ""
+
+#: widgets/blog-layouts.php:2079
+msgid "Overlay"
+msgstr ""
+
+#: widgets/blog-layouts.php:2113 widgets/blog-layouts.php:2219
+msgid "Position Top"
+msgstr ""
+
+#: widgets/blog-layouts.php:2133 widgets/blog-layouts.php:2239
+msgid "Position Left"
+msgstr ""
+
+#: widgets/blog-layouts.php:2327 widgets/blog-layouts.php:2565
+msgid "Read more"
+msgstr ""

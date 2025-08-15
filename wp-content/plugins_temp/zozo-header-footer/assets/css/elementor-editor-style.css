@@ -1,0 +1,15 @@
+i.zhf-icon:after {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    opacity: 0.4;
+    filter: grayscale(100%);
+    content: "z";
+    font-size: 15px;
+    background: #d5d5d5;
+    line-height: 11px;
+    color: #333;
+}

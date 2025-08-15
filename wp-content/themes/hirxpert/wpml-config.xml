@@ -1,0 +1,52 @@
+<wpml-config>
+    <admin-texts>
+		<key name="hirxpert_options">
+			<key name="header-phone-text-textarea" />
+			<key name="header-address" />
+			<key name="header-email" />
+			<key name="topbar-custom-text-1" />
+			<key name="topbar-custom-text-2" />
+			<key name="logobar-custom-text-1" />
+			<key name="logobar-custom-text-2" />			
+			<key name="navbar-custom-text-1" />
+			<key name="navbar-custom-text-2" />
+			<key name="copyright-text" />
+			<key name="blog-page-title" />
+			<key name="blog-page-description" />
+			<key name="blog-readmore" />			
+			<key name="maintenance-email" />
+			<key name="maintenance-address" />			
+		</key>
+	</admin-texts>
+	<custom-fields>
+		<custom-field action="translate">cea_portfolio_date</custom-field>
+		<custom-field action="translate">cea_portfolio_client_name</custom-field>
+		<custom-field action="translate">cea_portfolio_duration</custom-field>
+		<custom-field action="translate">cea_portfolio_estimation</custom-field>
+		<custom-field action="translate">cea_portfolio_place</custom-field>
+		<custom-field action="copy">cea_portfolio_url</custom-field>
+		<custom-field action="copy">cea_portfolio_video_id</custom-field>
+		<custom-field action="copy">cea_portfolio_audio_id</custom-field>
+		<custom-field action="copy">cea_portfolio_gmap_latitude</custom-field>
+		<custom-field action="copy">cea_portfolio_gmap_longitude</custom-field>
+		<custom-field action="copy">cea_portfolio_gmap_marker</custom-field>
+		<custom-field action="translate">cea_team_designation</custom-field>
+		<custom-field action="copy">cea_team_experience</custom-field>
+		<custom-field action="translate">cea_testimonial_designation</custom-field>
+		<custom-field action="translate">cea_testimonial_company_name</custom-field>
+		<custom-field action="copy">cea_testimonial_company_url</custom-field>		
+		<custom-field action="translate">cea_event_organiser_name</custom-field>
+		<custom-field action="translate">cea_event_organiser_designation</custom-field>
+		<custom-field action="copy">cea_event_start_date</custom-field>
+		<custom-field action="translate">cea_event_end_date</custom-field>
+		<custom-field action="translate">cea_event_time</custom-field>
+		<custom-field action="translate">cea_event_cost</custom-field>
+		<custom-field action="copy">cea_event_link</custom-field>
+		<custom-field action="translate">cea_event_link_text</custom-field>
+		<custom-field action="translate">cea_event_venue_name</custom-field>
+		<custom-field action="translate">cea_event_venue_address</custom-field>
+		<custom-field action="copy">cea_event_email</custom-field>
+		<custom-field action="copy">cea_event_phone</custom-field>
+		<custom-field action="copy">cea_event_website</custom-field>
+    </custom-fields>	
+</wpml-config>

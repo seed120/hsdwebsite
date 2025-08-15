@@ -1,0 +1,30 @@
+.toplevel_page_hirxpert-welcome .wp-menu-image > img {
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    opacity: 1 !important;
+    filter: grayscale(100%);
+    padding: 0 !important;
+    margin-top: 6px;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/poppins-regular.woff2') format('woff2'),
+         url('../fonts/poppins-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'poppinsmedium';
+    src: url('../fonts/poppins-medium-webfont.woff2') format('woff2'),
+         url('../fonts/poppins-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.hirxpert-settings-wrap #hirxpert-general, .hirxpert-header-bar, .hirxpert-tab{
+    font-family: 'Poppins', sans-serif !important;
+}

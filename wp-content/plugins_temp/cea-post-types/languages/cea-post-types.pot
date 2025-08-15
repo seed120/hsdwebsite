@@ -1,0 +1,2903 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cea Post Types\n"
+"POT-Creation-Date: 2023-05-10 17:20+0530\n"
+"PO-Revision-Date: 2023-05-10 17:21+0530\n"
+"Last-Translator: \n"
+"Language-Team: zozothemes\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/config/cea-event-config.php:5 widgets/event.php:47
+msgid "Event"
+msgstr ""
+
+#: admin/config/cea-event-config.php:11
+msgid "Event Title"
+msgstr ""
+
+#: admin/config/cea-event-config.php:12
+msgid "Enable/Disable event title on single event( not page title )."
+msgstr ""
+
+#: admin/config/cea-event-config.php:14
+#: admin/config/cea-portfolio-config.php:14
+#: admin/config/cea-portfolio-config.php:158
+#: admin/config/cea-portfolio-config.php:214
+#: admin/config/cea-service-config.php:14 admin/config/cea-team-config.php:14
+#: admin/config/cea-testimonial-config.php:14
+msgid "Enable"
+msgstr ""
+
+#: admin/config/cea-event-config.php:15
+#: admin/config/cea-portfolio-config.php:15
+#: admin/config/cea-portfolio-config.php:159
+#: admin/config/cea-portfolio-config.php:215
+#: admin/config/cea-service-config.php:15 admin/config/cea-team-config.php:15
+#: admin/config/cea-testimonial-config.php:15
+msgid "Disable"
+msgstr ""
+
+#: admin/config/cea-event-config.php:20
+msgid "Event Slug"
+msgstr ""
+
+#: admin/config/cea-event-config.php:21
+msgid "Enter event slug for register custom post type."
+msgstr ""
+
+#: admin/config/cea-event-config.php:27
+msgid "Event Sidebar"
+msgstr ""
+
+#: admin/config/cea-event-config.php:28
+msgid "Select single event sidebar."
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:5 admin/metabox/metabox-config.php:11
+#: admin/metabox/metabox-config.php:17 admin/metabox/metabox-config.php:29
+#: admin/metabox/metabox-config.php:45 admin/metabox/metabox-config.php:56
+#: admin/metabox/metabox-config.php:80 admin/metabox/metabox-config.php:88
+#: inc/cpt.class.php:20 widgets/portfolio.php:47
+msgid "Portfolio"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:11
+msgid "Portfolio Title"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:12
+msgid "Enable/Disable portfolio title on single portfolio( not page title )."
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:20
+msgid "Portfolio Slug"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:21
+msgid "Enter portfolio slug for register custom post type."
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:27 admin/metabox/metabox-config.php:54
+msgid "Portfolio Meta Items"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:28
+msgid "Needed portfolio meta items drag from disabled and put enabled part."
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:31
+#: admin/config/cea-portfolio-config.php:62
+#: admin/config/cea-portfolio-config.php:64 admin/metabox/metabox-config.php:61
+#: widgets/event.php:475 widgets/event.php:499 widgets/event.php:517
+#: widgets/portfolio.php:529 widgets/portfolio.php:554
+#: widgets/portfolio.php:573 widgets/service.php:475 widgets/service.php:498
+#: widgets/service.php:515 widgets/team.php:476 widgets/team.php:501
+#: widgets/team.php:520 widgets/testimonial.php:474 widgets/testimonial.php:497
+#: widgets/testimonial.php:514
+msgid "Date"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:32
+#: admin/config/cea-portfolio-config.php:48
+#: admin/config/cea-portfolio-config.php:50 admin/metabox/metabox-config.php:62
+msgid "Client"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:33
+#: admin/config/cea-portfolio-config.php:97
+#: admin/config/cea-portfolio-config.php:99 admin/metabox/metabox-config.php:63
+#: inc/cpt.class.php:159 widgets/event.php:449 widgets/portfolio.php:502
+#: widgets/portfolio.php:525 widgets/portfolio.php:551
+#: widgets/portfolio.php:570 widgets/service.php:449 widgets/team.php:449
+#: widgets/testimonial.php:449
+msgid "Category"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:34
+#: admin/config/cea-portfolio-config.php:111
+#: admin/config/cea-portfolio-config.php:113
+#: admin/metabox/metabox-config.php:64
+msgid "Share"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:37
+#: admin/config/cea-portfolio-config.php:104
+#: admin/config/cea-portfolio-config.php:106
+#: admin/metabox/metabox-config.php:67 inc/cpt.class.php:186
+msgid "Tags"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:38
+#: admin/config/cea-portfolio-config.php:69
+#: admin/config/cea-portfolio-config.php:71 admin/metabox/metabox-config.php:68
+#: admin/metabox/metabox-config.php:121
+msgid "Duration"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:39
+#: admin/config/cea-portfolio-config.php:90
+#: admin/config/cea-portfolio-config.php:92 admin/metabox/metabox-config.php:69
+#: admin/metabox/metabox-config.php:145
+msgid "URL"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:40
+#: admin/config/cea-portfolio-config.php:83
+#: admin/config/cea-portfolio-config.php:85 admin/metabox/metabox-config.php:70
+#: admin/metabox/metabox-config.php:137
+msgid "Place"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:41
+#: admin/config/cea-portfolio-config.php:76
+#: admin/config/cea-portfolio-config.php:78 admin/metabox/metabox-config.php:71
+#: admin/metabox/metabox-config.php:129
+msgid "Estimation"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:49
+msgid "Enter portfolio client label."
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:55
+msgid "Type"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:56
+msgid "Enter portfolio type label."
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:57
+msgid "Portfolio Type"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:63
+msgid "Enter portfolio date label."
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:70
+msgid "Enter portfolio duration label."
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:77
+msgid "Enter portfolio estimation label."
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:84
+msgid "Enter portfolio place label."
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:91
+msgid "Enter portfolio URL label."
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:98
+msgid "Enter portfolio category label."
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:105
+msgid "Enter portfolio tags label."
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:112
+msgid "Enter portfolio share label."
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:118
+#: admin/metabox/metabox-config.php:256
+msgid "Grid Columns"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:119
+msgid "Select grid columns."
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:121
+#: admin/config/cea-portfolio-config.php:171
+#: admin/config/cea-portfolio-config.php:186
+#: admin/config/cea-portfolio-config.php:200 widgets/event.php:283
+#: widgets/portfolio.php:310 widgets/service.php:283 widgets/team.php:283
+#: widgets/testimonial.php:283
+msgid "4 Columns"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:122
+#: admin/config/cea-portfolio-config.php:172
+#: admin/config/cea-portfolio-config.php:187
+#: admin/config/cea-portfolio-config.php:201 widgets/event.php:284
+#: widgets/portfolio.php:311 widgets/service.php:284 widgets/team.php:284
+#: widgets/testimonial.php:284
+msgid "3 Columns"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:123
+#: admin/config/cea-portfolio-config.php:173
+#: admin/config/cea-portfolio-config.php:188
+#: admin/config/cea-portfolio-config.php:202 widgets/event.php:285
+#: widgets/portfolio.php:312 widgets/service.php:285 widgets/team.php:285
+#: widgets/testimonial.php:285
+msgid "2 Columns"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:130
+msgid "Portfolio Grid Gutter"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:131
+msgid "Enter grid gutter size. Example 20."
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:137
+msgid "Grid Type"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:138
+msgid "Select grid type normal or isotope."
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:140
+msgid "Normal Grid"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:141
+msgid "Isotope Grid"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:148
+msgid "Portfolio Sidebar"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:149
+msgid "Select single portfolio sidebar."
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:155
+msgid "Related Slider"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:156
+msgid "Enable/Disable portfolio related slider."
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:166
+msgid "Related Slide Items"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:167
+msgid "Select related slide columns."
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:169
+#: admin/config/cea-portfolio-config.php:184
+msgid "6 Columns"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:170
+#: admin/config/cea-portfolio-config.php:185
+msgid "5 Columns"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:181
+msgid "Related Slide Items on Tab"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:182
+msgid "Select related slide columns on tab."
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:189
+#: admin/config/cea-portfolio-config.php:203 widgets/event.php:286
+#: widgets/portfolio.php:313 widgets/service.php:286 widgets/team.php:286
+#: widgets/testimonial.php:286
+msgid "1 Column"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:197
+msgid "Related Slide Items on Mobile"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:198
+msgid "Select related slide columns on mobile."
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:211
+msgid "Related Slider Loop"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:212
+msgid "Enable/Disable portfolio related slider loop."
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:220
+msgid "Related Slider Margin"
+msgstr ""
+
+#: admin/config/cea-portfolio-config.php:221
+msgid "Enable/Disable portfolio related slider margin space. Example 10"
+msgstr ""
+
+#: admin/config/cea-service-config.php:5 admin/metabox/metabox-config.php:745
+#: widgets/service.php:47
+msgid "Service"
+msgstr ""
+
+#: admin/config/cea-service-config.php:11
+msgid "Service Title"
+msgstr ""
+
+#: admin/config/cea-service-config.php:12
+msgid "Enable/Disable service title on single service( not page title )."
+msgstr ""
+
+#: admin/config/cea-service-config.php:20
+msgid "Service Slug"
+msgstr ""
+
+#: admin/config/cea-service-config.php:21
+msgid "Enter service slug for register custom post type."
+msgstr ""
+
+#: admin/config/cea-service-config.php:27
+msgid "Service Sidebar"
+msgstr ""
+
+#: admin/config/cea-service-config.php:28
+msgid "Select single service sidebar."
+msgstr ""
+
+#: admin/config/cea-team-config.php:5 admin/metabox/metabox-config.php:348
+#: admin/metabox/metabox-config.php:356 admin/metabox/metabox-config.php:364
+#: admin/metabox/metabox-config.php:372 admin/metabox/metabox-config.php:380
+#: inc/cpt.class.php:20 widgets/team.php:47
+msgid "Team"
+msgstr ""
+
+#: admin/config/cea-team-config.php:11
+msgid "Team Title"
+msgstr ""
+
+#: admin/config/cea-team-config.php:12
+msgid "Enable/Disable team title on single team( not page title )."
+msgstr ""
+
+#: admin/config/cea-team-config.php:20
+msgid "Team Slug"
+msgstr ""
+
+#: admin/config/cea-team-config.php:21
+msgid "Enter team slug for register custom post type."
+msgstr ""
+
+#: admin/config/cea-team-config.php:27
+msgid "Team Sidebar"
+msgstr ""
+
+#: admin/config/cea-team-config.php:28
+msgid "Select single team sidebar."
+msgstr ""
+
+#: admin/config/cea-testimonial-config.php:5
+#: admin/metabox/metabox-config.php:704 admin/metabox/metabox-config.php:712
+#: admin/metabox/metabox-config.php:720 admin/metabox/metabox-config.php:728
+#: inc/cpt.class.php:20 widgets/testimonial.php:47
+msgid "Testimonial"
+msgstr ""
+
+#: admin/config/cea-testimonial-config.php:11
+msgid "Testimonial Title"
+msgstr ""
+
+#: admin/config/cea-testimonial-config.php:12
+msgid ""
+"Enable/Disable testimonial title on single testimonial( not page title )."
+msgstr ""
+
+#: admin/config/cea-testimonial-config.php:20
+msgid "Testimonial Slug"
+msgstr ""
+
+#: admin/config/cea-testimonial-config.php:21
+msgid "Enter testimonial slug for register custom post type."
+msgstr ""
+
+#: admin/config/cea-testimonial-config.php:27
+msgid "Testimonial Sidebar"
+msgstr ""
+
+#: admin/config/cea-testimonial-config.php:28
+msgid "Select single testimonial sidebar."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:9
+msgid "Portfolio General Settings"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:10
+msgid "These all are single portfolio general settings."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:15
+msgid "Sticky Column"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:20 admin/metabox/metabox-config.php:178
+#: admin/metabox/metabox-config.php:210
+msgid "None"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:21
+msgid "Right Column"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:22
+msgid "Left Column"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:27
+msgid "Portfolio Format"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:32 admin/metabox/metabox-config.php:310
+#: admin/metabox/metabox-config.php:630
+msgid "Standard"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:33 admin/metabox/metabox-config.php:154
+msgid "Video"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:34 admin/metabox/metabox-config.php:198
+msgid "Audio"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:35 admin/metabox/metabox-config.php:229
+msgid "Gallery"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:36 admin/metabox/metabox-config.php:275
+msgid "Google Map"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:37 admin/metabox/metabox-config.php:324
+msgid "360 Degree"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:42
+msgid "Portfolio Meta Items Options"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:43
+msgid "Choose portfolio meta items option."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:48
+msgid "Theme Default"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:49
+msgid "Custom"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:55
+msgid ""
+"These all are meta items for portfolio. drag and drop needed items from "
+"disabled part to enabled."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:77
+msgid "Custom Redirect URL"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:78
+msgid ""
+"Enter url for custom webpage redirection. This link only for portfolio "
+"archive layout not for single portfolio."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:85
+msgid "Custom Redirect URL Target"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:86
+msgid "Choose custom url page navigate to blank or same page."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:91
+msgid "Blank"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:92
+msgid "Self"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:97
+msgid "Portfolio Date"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:98
+msgid "Choose/Enter portfolio date."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:100 admin/metabox/metabox-config.php:108
+#: admin/metabox/metabox-config.php:116 admin/metabox/metabox-config.php:124
+#: admin/metabox/metabox-config.php:132 admin/metabox/metabox-config.php:140
+#: admin/metabox/metabox-config.php:148 widgets/testimonial.php:500
+#: widgets/testimonial.php:521
+msgid "Info"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:105 admin/metabox/metabox-config.php:509
+msgid "Date Format"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:106
+msgid "Enter date format to show selcted portfolio date. Example: F j, Y"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:113
+msgid "Client Name"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:114
+msgid "Enter client name."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:122
+msgid "Enter duration years or months."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:130
+msgid "Enter project estimation."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:138
+msgid "Enter project place."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:146
+msgid "Enter project URL."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:155
+msgid ""
+"This part for if you choosed video format, then you must choose video type "
+"and give video id."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:156 admin/metabox/metabox-config.php:162
+#: admin/metabox/metabox-config.php:175 admin/metabox/metabox-config.php:189
+#: admin/metabox/metabox-config.php:195 admin/metabox/metabox-config.php:200
+#: admin/metabox/metabox-config.php:207 admin/metabox/metabox-config.php:220
+#: admin/metabox/metabox-config.php:226 admin/metabox/metabox-config.php:231
+#: admin/metabox/metabox-config.php:237 admin/metabox/metabox-config.php:250
+#: admin/metabox/metabox-config.php:259 admin/metabox/metabox-config.php:268
+#: admin/metabox/metabox-config.php:272 admin/metabox/metabox-config.php:277
+#: admin/metabox/metabox-config.php:284 admin/metabox/metabox-config.php:292
+#: admin/metabox/metabox-config.php:300 admin/metabox/metabox-config.php:307
+#: admin/metabox/metabox-config.php:321 admin/metabox/metabox-config.php:326
+#: admin/metabox/metabox-config.php:333
+msgid "Format"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:160
+msgid "Video Modal"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:165
+msgid "On Click Run Video"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:166
+msgid "Modal Box Video"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:167
+msgid "Direct Video"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:172
+msgid "Video Type"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:173
+msgid "Choose video type."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:179 admin/metabox/metabox-config.php:452
+msgid "Youtube"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:180 admin/metabox/metabox-config.php:460
+msgid "Vimeo"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:181
+msgid "Custom Video"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:186
+msgid "Video ID"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:187
+msgid ""
+"Enter Video ID Example: ZSt9tm3RoUU. If you choose custom video type then "
+"you enter custom video url and video must be mp4 format."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:199
+msgid "This part for if you choosed audio format, then you must give audio id."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:204
+msgid "Audio Type"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:205
+msgid "Choose audio type."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:211
+msgid "Soundcloud"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:212
+msgid "Custom Audio"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:217
+msgid "Audio ID"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:218
+msgid "Enter soundcloud audio ID. Example: 315307209."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:230
+msgid ""
+"This part for if you choosed gallery format, then you must choose gallery "
+"images here."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:235
+msgid "Gallery Modal"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:240
+msgid "Default Gallery"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:241
+msgid "Normal Gallery"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:242
+msgid "Grid/Masonry Gallery"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:247
+msgid "Grid Gutter Size"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:248
+msgid "Enter gallery grid gutter size. Example 20"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:257
+msgid "Enter gallery grid columns count. Example 2"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:265
+msgid "Choose Gallery Images"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:276
+msgid ""
+"This part for if you choosed google map format, then you must give google "
+"map lat, lang and map style."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:281
+msgid "Google Map Latitude"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:282
+msgid "Enter google latitude."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:289
+msgid "Google Map Longitude"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:290
+msgid "Enter google longitude."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:297 admin/metabox/metabox-config.php:617
+msgid "Google Map Marker URL"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:298 admin/metabox/metabox-config.php:618
+msgid "Enter google map custom marker url."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:305 admin/metabox/metabox-config.php:625
+msgid "Google Map Style"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:311 admin/metabox/metabox-config.php:631
+msgid "Silver"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:312 admin/metabox/metabox-config.php:632
+msgid "Retro"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:313 admin/metabox/metabox-config.php:633
+#: widgets/event.php:430 widgets/portfolio.php:483 widgets/service.php:430
+#: widgets/team.php:430 widgets/team.php:848 widgets/team.php:865
+#: widgets/testimonial.php:430
+msgid "Dark"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:314 admin/metabox/metabox-config.php:634
+msgid "Night"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:315 admin/metabox/metabox-config.php:635
+msgid "Aubergine"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:325
+msgid "This part for if you choosed 360 degree format."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:330
+msgid "360 Degree Image"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:331
+msgid "Choose 360 degree image."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:339
+msgid "CEA Portfolio Options"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:345
+msgid "Member Designation"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:346
+msgid "Enter member designation."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:353
+msgid "Member Email"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:354
+msgid "Enter member email."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:361
+msgid "Member Phone"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:362
+msgid "Enter member phone number."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:369
+msgid "Member Website"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:370
+msgid "Enter member website."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:377
+msgid "Member Experience"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:378
+msgid "Enter member experience."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:385
+msgid "Link Target"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:387 admin/metabox/metabox-config.php:399
+#: admin/metabox/metabox-config.php:407 admin/metabox/metabox-config.php:415
+#: admin/metabox/metabox-config.php:423 admin/metabox/metabox-config.php:431
+#: admin/metabox/metabox-config.php:439 admin/metabox/metabox-config.php:447
+#: admin/metabox/metabox-config.php:455 admin/metabox/metabox-config.php:463
+msgid "Social"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:390 admin/metabox/metabox-config.php:547
+msgid "New Window"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:391 admin/metabox/metabox-config.php:548
+msgid "Self Window"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:396
+msgid "Facebook"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:397
+msgid "Facebook profile link."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:404
+msgid "Twitter"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:405
+msgid "Twitter profile link."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:412
+msgid "Instagram"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:413
+msgid "Instagram profile link."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:420
+msgid "Linkedin"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:421
+msgid "Linkedin profile link."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:428
+msgid "Pinterest"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:429
+msgid "Pinterest profile link."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:436
+msgid "Dribbble"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:437
+msgid "Dribbble profile link."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:444
+msgid "Flickr"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:445
+msgid "Flickr profile link."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:453
+msgid "Youtube profile link."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:461
+msgid "Vimeo profile link."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:470
+msgid "CEA Team Options"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:477
+msgid "Event Organiser Name"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:478
+msgid "Enter event organiser name."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:480 admin/metabox/metabox-config.php:488
+#: admin/metabox/metabox-config.php:496 admin/metabox/metabox-config.php:504
+#: admin/metabox/metabox-config.php:512 admin/metabox/metabox-config.php:520
+#: admin/metabox/metabox-config.php:528 admin/metabox/metabox-config.php:536
+#: admin/metabox/metabox-config.php:544 admin/metabox/metabox-config.php:556
+#: inc/cpt.class.php:20
+msgid "Events"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:485
+msgid "Event Organiser Designation"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:486
+msgid "Enter event organiser designation."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:493
+msgid "Event Start Date"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:494
+msgid "Enter event start date."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:501
+msgid "Event End Date"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:502
+msgid "Enter event end date."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:510
+msgid "Enter date format to show selcted event date. Example: F j, Y"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:517
+msgid "Event Start Time"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:518
+msgid "Enter event start time."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:525
+msgid "Event Cost"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:526
+msgid "Enter event cost."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:533
+msgid "Custom Link for Event Item"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:534
+msgid "Enter custom link to redirect custom event page."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:541
+msgid "Custom Link Target"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:542
+msgid "Choose custom link target to new window or self window."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:553
+msgid "Custom Link Button Text"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:554
+msgid "Enter custom link buttom text: Example More About Event."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:561
+msgid "Venue Name"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:562
+msgid "Enter event venue name."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:564 admin/metabox/metabox-config.php:572
+#: admin/metabox/metabox-config.php:580 admin/metabox/metabox-config.php:588
+#: admin/metabox/metabox-config.php:596 widgets/event.php:451
+#: widgets/event.php:479 widgets/event.php:500 widgets/event.php:518
+msgid "Address"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:569
+msgid "Venue Address"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:570
+msgid "Enter event venue address."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:577
+msgid "E-mail"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:578
+msgid "Enter email id for clarification about event."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:585
+msgid "Phone"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:586
+msgid "Enter phone number for contact about event."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:593
+msgid "Website"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:594
+msgid "Enter event website."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:601
+msgid "Latitude"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:602
+msgid "Enter map latitude."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:604 admin/metabox/metabox-config.php:612
+#: admin/metabox/metabox-config.php:620 admin/metabox/metabox-config.php:627
+#: admin/metabox/metabox-config.php:643
+msgid "GMap"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:609
+msgid "Longitude"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:610
+msgid "Enter map longitude."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:640
+msgid "Google Map Height"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:641
+msgid "Enter map height in values. Example 400"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:648
+msgid "Contact Form"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:649
+msgid "Contact form shortcode here."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:651
+msgid "Contact"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:656
+msgid "Event Info Columns"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:657
+msgid "Enter column division values like given format. Example 3-3-6"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:659 admin/metabox/metabox-config.php:666
+#: admin/metabox/metabox-config.php:683
+msgid "Layout"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:664
+msgid "Event Detail Items"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:665
+msgid "This is layout settings for event."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:671
+msgid "Event Details"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:672
+msgid "Event Venue"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:673
+msgid "Event Map"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:676
+msgid "Event Form"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:681 widgets/event.php:646
+#: widgets/portfolio.php:702 widgets/service.php:643 widgets/team.php:650
+#: widgets/testimonial.php:650
+msgid "Navigation"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:686
+msgid "Top"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:687
+msgid "Bottom"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:694
+msgid "CEA Event Options"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:701
+msgid "Author Designation"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:702
+msgid "Enter author designation."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:709
+msgid "Company Name"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:710
+msgid "Enter company name."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:717
+msgid "Company URL"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:718
+msgid "Enter company URL."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:725
+msgid "Rating"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:726
+msgid "Set user rating."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:735
+msgid "CEA Testimonial Options"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:742
+msgid "Service Image"
+msgstr ""
+
+#: admin/metabox/metabox-config.php:743
+msgid "Choose service image for show front."
+msgstr ""
+
+#: admin/metabox/metabox-config.php:752
+msgid "CEA Service Options"
+msgstr ""
+
+#: inc/cea-addon.php:78
+msgid "Enable/Disable CEA post types widget here."
+msgstr ""
+
+#: inc/cea-addon.php:124
+msgid "Elementor Portfolio Widget"
+msgstr ""
+
+#: inc/cea-addon.php:125
+msgid "Elementor Service Widget"
+msgstr ""
+
+#: inc/cea-addon.php:126
+msgid "Elementor Event Widget"
+msgstr ""
+
+#: inc/cea-addon.php:127
+msgid "Elementor Team Widget"
+msgstr ""
+
+#: inc/cea-addon.php:128
+msgid "Elementor Testimonial Widget"
+msgstr ""
+
+#: inc/cpt.basic-functions.php:12 inc/cpt.basic-functions.php:73
+#: inc/cpt.elements.php:14 inc/cpt.elements.php:75
+msgid "First"
+msgstr ""
+
+#: inc/cpt.basic-functions.php:13 inc/cpt.elements.php:15
+msgid "Prev"
+msgstr ""
+
+#: inc/cpt.basic-functions.php:14 inc/cpt.elements.php:16
+msgid "Next"
+msgstr ""
+
+#: inc/cpt.basic-functions.php:15 inc/cpt.basic-functions.php:94
+#: inc/cpt.elements.php:17 inc/cpt.elements.php:96
+msgid "Last"
+msgstr ""
+
+#: inc/cpt.basic-functions.php:75 inc/cpt.elements.php:77
+msgid "previous"
+msgstr ""
+
+#: inc/cpt.basic-functions.php:90 inc/cpt.elements.php:92
+msgid "next"
+msgstr ""
+
+#: inc/cpt.class.php:20
+msgid "Services"
+msgstr ""
+
+#: inc/cpt.class.php:139 inc/cpt.class.php:140 inc/cpt.class.php:145
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/cpt.class.php:141
+msgid "Add New"
+msgstr ""
+
+#: inc/cpt.class.php:142
+#, php-format
+msgid "Add New %1$s"
+msgstr ""
+
+#: inc/cpt.class.php:143
+#, php-format
+msgid "Edit %1$s"
+msgstr ""
+
+#: inc/cpt.class.php:144
+#, php-format
+msgid "New %1$s"
+msgstr ""
+
+#: inc/cpt.class.php:146
+#, php-format
+msgid "View %1$s"
+msgstr ""
+
+#: inc/cpt.class.php:147
+#, php-format
+msgid "Search %1$s"
+msgstr ""
+
+#: inc/cpt.class.php:148
+#, php-format
+msgid "No %1$s found"
+msgstr ""
+
+#: inc/cpt.class.php:149
+#, php-format
+msgid "No %1$s found in Trash"
+msgstr ""
+
+#: inc/cpt.class.php:158
+#, php-format
+msgid "%1$s Categories"
+msgstr ""
+
+#: inc/cpt.class.php:160
+msgid "Search Categories"
+msgstr ""
+
+#: inc/cpt.class.php:161
+msgid "All Categories"
+msgstr ""
+
+#: inc/cpt.class.php:162
+msgid "Parent Category"
+msgstr ""
+
+#: inc/cpt.class.php:163
+msgid "Parent Category:"
+msgstr ""
+
+#: inc/cpt.class.php:164
+msgid "Edit Category"
+msgstr ""
+
+#: inc/cpt.class.php:165
+msgid "Update Category"
+msgstr ""
+
+#: inc/cpt.class.php:166
+msgid "Add New Category"
+msgstr ""
+
+#: inc/cpt.class.php:167
+msgid "New Category Name"
+msgstr ""
+
+#: inc/cpt.class.php:168 widgets/portfolio.php:172
+msgid "Categories"
+msgstr ""
+
+#: inc/cpt.class.php:176
+#, php-format
+msgid "%1$s Tags"
+msgstr ""
+
+#: inc/cpt.class.php:177
+msgid "Tag"
+msgstr ""
+
+#: inc/cpt.class.php:178
+msgid "Search Tags"
+msgstr ""
+
+#: inc/cpt.class.php:179
+msgid "All Tags"
+msgstr ""
+
+#: inc/cpt.class.php:180
+msgid "Parent Tag"
+msgstr ""
+
+#: inc/cpt.class.php:181
+msgid "Parent Tag:"
+msgstr ""
+
+#: inc/cpt.class.php:182
+msgid "Edit Tag"
+msgstr ""
+
+#: inc/cpt.class.php:183
+msgid "Update Tag"
+msgstr ""
+
+#: inc/cpt.class.php:184
+msgid "Add New Tag"
+msgstr ""
+
+#: inc/cpt.class.php:185
+msgid "New Tag Name"
+msgstr ""
+
+#: inc/cpt.elements.php:162
+msgid "360&deg;"
+msgstr ""
+
+#: inc/cpt.elements.php:382
+msgid "Related Projects"
+msgstr ""
+
+#: inc/cpt.elements.php:712
+msgid "Click to send this page to Twitter!"
+msgstr ""
+
+#: index.php:61
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" and \"%3$s\" to be installed and activated."
+msgstr ""
+
+#: index.php:62
+msgid "CEA Post Types"
+msgstr ""
+
+#: index.php:63
+msgid "Elementor"
+msgstr ""
+
+#: index.php:64
+msgid "Classic Elementor Addons"
+msgstr ""
+
+#: widgets/event.php:120 widgets/portfolio.php:123 widgets/service.php:120
+#: widgets/team.php:120 widgets/testimonial.php:120
+msgid "General"
+msgstr ""
+
+#: widgets/event.php:122
+msgid "Default event options."
+msgstr ""
+
+#: widgets/event.php:129 widgets/portfolio.php:132 widgets/service.php:129
+#: widgets/team.php:129 widgets/testimonial.php:129
+msgid "Extra Class"
+msgstr ""
+
+#: widgets/event.php:130 widgets/portfolio.php:133 widgets/service.php:130
+#: widgets/team.php:130 widgets/testimonial.php:130
+msgid "Put extra class for some additional styles."
+msgstr ""
+
+#: widgets/event.php:139 widgets/portfolio.php:142 widgets/service.php:139
+#: widgets/team.php:139 widgets/testimonial.php:139
+msgid "Query"
+msgstr ""
+
+#: widgets/event.php:141
+msgid "Event query options."
+msgstr ""
+
+#: widgets/event.php:148 widgets/portfolio.php:151 widgets/service.php:148
+#: widgets/team.php:148 widgets/testimonial.php:148
+msgid "Post Per Page"
+msgstr ""
+
+#: widgets/event.php:149 widgets/portfolio.php:152 widgets/service.php:149
+#: widgets/team.php:149 widgets/testimonial.php:149
+msgid "Here you can define post limits per page. Example 10"
+msgstr ""
+
+#: widgets/event.php:157 widgets/event.php:450 widgets/event.php:473
+#: widgets/event.php:497 widgets/event.php:515 widgets/portfolio.php:160
+#: widgets/portfolio.php:503 widgets/portfolio.php:526
+#: widgets/portfolio.php:552 widgets/portfolio.php:571 widgets/service.php:157
+#: widgets/service.php:450 widgets/service.php:473 widgets/service.php:496
+#: widgets/service.php:513 widgets/team.php:157 widgets/team.php:450
+#: widgets/team.php:474 widgets/team.php:499 widgets/team.php:518
+#: widgets/testimonial.php:157 widgets/testimonial.php:450
+#: widgets/testimonial.php:472 widgets/testimonial.php:493
+#: widgets/testimonial.php:519
+msgid "Author"
+msgstr ""
+
+#: widgets/event.php:158 widgets/portfolio.php:161 widgets/service.php:158
+#: widgets/team.php:158 widgets/testimonial.php:158
+msgid "This is filter author posts."
+msgstr ""
+
+#: widgets/event.php:169 widgets/portfolio.php:196 widgets/service.php:169
+#: widgets/team.php:169 widgets/testimonial.php:169
+msgid "Include Posts"
+msgstr ""
+
+#: widgets/event.php:180 widgets/portfolio.php:207 widgets/service.php:180
+#: widgets/team.php:180 widgets/testimonial.php:180
+msgid "Exclude Posts"
+msgstr ""
+
+#: widgets/event.php:191 widgets/portfolio.php:218 widgets/service.php:191
+#: widgets/team.php:191 widgets/testimonial.php:191
+msgid "Order By"
+msgstr ""
+
+#: widgets/event.php:201 widgets/portfolio.php:228 widgets/service.php:201
+#: widgets/team.php:201 widgets/testimonial.php:201
+msgid "Order"
+msgstr ""
+
+#: widgets/event.php:217 widgets/portfolio.php:244 widgets/service.php:217
+#: widgets/team.php:217 widgets/testimonial.php:217
+msgid "Layouts"
+msgstr ""
+
+#: widgets/event.php:219 widgets/portfolio.php:246 widgets/service.php:219
+#: widgets/team.php:219 widgets/testimonial.php:219
+msgid "Post layout options here available."
+msgstr ""
+
+#: widgets/event.php:225 widgets/portfolio.php:252 widgets/service.php:225
+#: widgets/team.php:225 widgets/testimonial.php:225
+msgid "Alignment"
+msgstr ""
+
+#: widgets/event.php:230 widgets/event.php:494 widgets/event.php:512
+#: widgets/portfolio.php:257 widgets/portfolio.php:548
+#: widgets/portfolio.php:567 widgets/service.php:230 widgets/service.php:493
+#: widgets/service.php:510 widgets/team.php:230 widgets/team.php:496
+#: widgets/team.php:515 widgets/testimonial.php:230 widgets/testimonial.php:492
+#: widgets/testimonial.php:513
+msgid "Left"
+msgstr ""
+
+#: widgets/event.php:234 widgets/portfolio.php:261 widgets/service.php:234
+#: widgets/team.php:234 widgets/testimonial.php:234
+msgid "Center"
+msgstr ""
+
+#: widgets/event.php:238 widgets/event.php:495 widgets/event.php:513
+#: widgets/portfolio.php:265 widgets/portfolio.php:549
+#: widgets/portfolio.php:568 widgets/service.php:238 widgets/service.php:494
+#: widgets/service.php:511 widgets/team.php:238 widgets/team.php:497
+#: widgets/team.php:516 widgets/testimonial.php:238 widgets/testimonial.php:495
+#: widgets/testimonial.php:516
+msgid "Right"
+msgstr ""
+
+#: widgets/event.php:242 widgets/portfolio.php:269 widgets/service.php:242
+#: widgets/team.php:242 widgets/testimonial.php:242
+msgid "Justified"
+msgstr ""
+
+#: widgets/event.php:255 widgets/portfolio.php:282 widgets/service.php:255
+#: widgets/team.php:255 widgets/testimonial.php:255
+msgid "Excerpt Length"
+msgstr ""
+
+#: widgets/event.php:256 widgets/portfolio.php:283 widgets/service.php:256
+#: widgets/team.php:256 widgets/testimonial.php:256
+msgid "Here you can define post excerpt length. Example 10"
+msgstr ""
+
+#: widgets/event.php:263 widgets/portfolio.php:290 widgets/service.php:263
+#: widgets/team.php:263 widgets/testimonial.php:263
+msgid "Post Layout"
+msgstr ""
+
+#: widgets/event.php:267 widgets/event.php:893 widgets/event.php:1356
+#: widgets/portfolio.php:294 widgets/portfolio.php:949
+#: widgets/portfolio.php:1412 widgets/service.php:267 widgets/service.php:890
+#: widgets/service.php:1353 widgets/team.php:267 widgets/team.php:984
+#: widgets/team.php:1457 widgets/testimonial.php:267
+#: widgets/testimonial.php:897 widgets/testimonial.php:1360
+msgid "Default"
+msgstr ""
+
+#: widgets/event.php:268 widgets/portfolio.php:295 widgets/service.php:268
+#: widgets/team.php:268 widgets/testimonial.php:268
+msgid "Classic"
+msgstr ""
+
+#: widgets/event.php:269 widgets/portfolio.php:296 widgets/service.php:269
+#: widgets/team.php:269 widgets/testimonial.php:269
+msgid "Modern"
+msgstr ""
+
+#: widgets/event.php:270 widgets/portfolio.php:297 widgets/service.php:270
+#: widgets/team.php:270 widgets/testimonial.php:270
+msgid "Classic Pro"
+msgstr ""
+
+#: widgets/event.php:271 widgets/portfolio.php:298 widgets/service.php:271
+#: widgets/team.php:271 widgets/testimonial.php:271
+msgid "List"
+msgstr ""
+
+#: widgets/event.php:279 widgets/portfolio.php:306 widgets/service.php:279
+#: widgets/team.php:279 widgets/testimonial.php:279
+msgid "Post Columns"
+msgstr ""
+
+#: widgets/event.php:280
+msgid "This is option for event columns."
+msgstr ""
+
+#: widgets/event.php:294 widgets/portfolio.php:321 widgets/service.php:294
+#: widgets/team.php:294 widgets/testimonial.php:294
+msgid "Read More Text"
+msgstr ""
+
+#: widgets/event.php:295 widgets/portfolio.php:322 widgets/service.php:295
+#: widgets/team.php:295 widgets/testimonial.php:295
+msgid "Here you can enter read more text instead of default text."
+msgstr ""
+
+#: widgets/event.php:296 widgets/event.php:474 widgets/event.php:498
+#: widgets/event.php:516 widgets/event.php:758 widgets/portfolio.php:323
+#: widgets/portfolio.php:527 widgets/portfolio.php:553
+#: widgets/portfolio.php:572 widgets/portfolio.php:814 widgets/service.php:296
+#: widgets/service.php:474 widgets/service.php:497 widgets/service.php:514
+#: widgets/service.php:755 widgets/team.php:296 widgets/team.php:475
+#: widgets/team.php:500 widgets/team.php:519 widgets/team.php:762
+#: widgets/testimonial.php:296 widgets/testimonial.php:473
+#: widgets/testimonial.php:498 widgets/testimonial.php:518
+#: widgets/testimonial.php:762
+msgid "Read More"
+msgstr ""
+
+#: widgets/event.php:302 widgets/portfolio.php:329 widgets/service.php:302
+#: widgets/team.php:302 widgets/testimonial.php:302
+msgid "Post Masonry"
+msgstr ""
+
+#: widgets/event.php:303
+msgid "This is option for event masonry or normal."
+msgstr ""
+
+#: widgets/event.php:315 widgets/portfolio.php:342 widgets/service.php:315
+#: widgets/team.php:315 widgets/testimonial.php:315
+msgid "Post Masonry Gutter"
+msgstr ""
+
+#: widgets/event.php:316
+msgid "Here you can mention event masonry gutter size. Example 30"
+msgstr ""
+
+#: widgets/event.php:327 widgets/portfolio.php:354 widgets/service.php:327
+#: widgets/team.php:327 widgets/testimonial.php:327
+msgid "Lazy Load"
+msgstr ""
+
+#: widgets/event.php:328 widgets/portfolio.php:355 widgets/service.php:328
+#: widgets/team.php:328 widgets/testimonial.php:328
+msgid "Enabel lazy load option for load isotope grids lazy with animation."
+msgstr ""
+
+#: widgets/event.php:340 widgets/portfolio.php:393 widgets/service.php:340
+#: widgets/team.php:340 widgets/testimonial.php:340
+msgid "Masonry Layout"
+msgstr ""
+
+#: widgets/event.php:344 widgets/portfolio.php:397 widgets/service.php:344
+#: widgets/team.php:344 widgets/testimonial.php:344
+msgid "Masonry"
+msgstr ""
+
+#: widgets/event.php:345 widgets/portfolio.php:398 widgets/service.php:345
+#: widgets/team.php:345 widgets/testimonial.php:345
+msgid "Fit Rows"
+msgstr ""
+
+#: widgets/event.php:356 widgets/portfolio.php:409 widgets/service.php:356
+#: widgets/team.php:356 widgets/testimonial.php:356
+msgid "Post Masonry Infinite"
+msgstr ""
+
+#: widgets/event.php:357
+msgid "This is option for event masonry infinite scroll."
+msgstr ""
+
+#: widgets/event.php:370 widgets/portfolio.php:423 widgets/service.php:370
+#: widgets/team.php:370 widgets/testimonial.php:370
+msgid "Infinite Loading Message"
+msgstr ""
+
+#: widgets/event.php:371 widgets/portfolio.php:424 widgets/service.php:371
+#: widgets/team.php:371 widgets/testimonial.php:371
+msgid "Here you can mention infinite loading post message."
+msgstr ""
+
+#: widgets/event.php:372 widgets/portfolio.php:425 widgets/service.php:372
+#: widgets/team.php:372 widgets/testimonial.php:372
+msgid "Loading posts.."
+msgstr ""
+
+#: widgets/event.php:383 widgets/portfolio.php:436 widgets/service.php:383
+#: widgets/team.php:383 widgets/testimonial.php:383
+msgid "Infinite Ending Message"
+msgstr ""
+
+#: widgets/event.php:384 widgets/portfolio.php:437 widgets/service.php:384
+#: widgets/team.php:384 widgets/testimonial.php:384
+msgid "Here you can mention infinite loading ending message."
+msgstr ""
+
+#: widgets/event.php:385 widgets/portfolio.php:438 widgets/service.php:385
+#: widgets/team.php:385 widgets/testimonial.php:385
+msgid "No more post."
+msgstr ""
+
+#: widgets/event.php:395 widgets/portfolio.php:448 widgets/service.php:395
+#: widgets/team.php:395 widgets/testimonial.php:395
+msgid "Infinite Loader Image URL"
+msgstr ""
+
+#: widgets/event.php:396 widgets/portfolio.php:449 widgets/service.php:396
+#: widgets/team.php:396 widgets/testimonial.php:396
+msgid "Here you can choose infinite loader image."
+msgstr ""
+
+#: widgets/event.php:413 widgets/portfolio.php:466 widgets/service.php:413
+#: widgets/team.php:413 widgets/testimonial.php:413
+msgid "Post Pagination"
+msgstr ""
+
+#: widgets/event.php:425 widgets/portfolio.php:478 widgets/service.php:425
+#: widgets/team.php:425 widgets/testimonial.php:425
+msgid "Post Variation"
+msgstr ""
+
+#: widgets/event.php:426
+msgid "This is option for event variatoin either dark or light."
+msgstr ""
+
+#: widgets/event.php:429 widgets/portfolio.php:482 widgets/service.php:429
+#: widgets/team.php:429 widgets/team.php:847 widgets/team.php:864
+#: widgets/testimonial.php:429
+msgid "Light"
+msgstr ""
+
+#: widgets/event.php:438
+msgid ""
+"This is settings for event custom layout. here you can set your own layout. "
+"Drag and drop needed event items to Enabled part."
+msgstr ""
+
+#: widgets/event.php:442 widgets/event.php:1985 widgets/portfolio.php:495
+#: widgets/portfolio.php:2033 widgets/service.php:442 widgets/service.php:2051
+#: widgets/team.php:442 widgets/team.php:2078 widgets/testimonial.php:442
+#: widgets/testimonial.php:1975
+msgid "Feature Image"
+msgstr ""
+
+#: widgets/event.php:443 widgets/event.php:476 widgets/event.php:529
+#: widgets/event.php:734 widgets/event.php:881 widgets/event.php:1986
+#: widgets/portfolio.php:496 widgets/portfolio.php:531
+#: widgets/portfolio.php:585 widgets/portfolio.php:790
+#: widgets/portfolio.php:937 widgets/portfolio.php:2034 widgets/service.php:443
+#: widgets/service.php:476 widgets/service.php:526 widgets/service.php:731
+#: widgets/service.php:878 widgets/service.php:2052 widgets/team.php:443
+#: widgets/team.php:477 widgets/team.php:533 widgets/team.php:738
+#: widgets/team.php:972 widgets/team.php:2079 widgets/testimonial.php:443
+#: widgets/testimonial.php:475 widgets/testimonial.php:533
+#: widgets/testimonial.php:738 widgets/testimonial.php:885
+#: widgets/testimonial.php:1976
+msgid "Title"
+msgstr ""
+
+#: widgets/event.php:444 widgets/event.php:1987 widgets/portfolio.php:497
+#: widgets/portfolio.php:2035 widgets/service.php:444 widgets/service.php:2053
+#: widgets/team.php:444 widgets/team.php:2080 widgets/testimonial.php:444
+#: widgets/testimonial.php:1977
+msgid "Excerpt"
+msgstr ""
+
+#: widgets/event.php:447 widgets/event.php:477 widgets/event.php:1496
+#: widgets/portfolio.php:500 widgets/portfolio.php:532
+#: widgets/portfolio.php:1552 widgets/service.php:447 widgets/service.php:477
+#: widgets/service.php:1576 widgets/team.php:447 widgets/team.php:480
+#: widgets/team.php:1597 widgets/testimonial.php:447
+#: widgets/testimonial.php:476 widgets/testimonial.php:1500
+msgid "Top Meta"
+msgstr ""
+
+#: widgets/event.php:448 widgets/event.php:478 widgets/event.php:1531
+#: widgets/portfolio.php:501 widgets/portfolio.php:533
+#: widgets/portfolio.php:1587 widgets/service.php:448 widgets/service.php:478
+#: widgets/service.php:1611 widgets/team.php:448 widgets/team.php:481
+#: widgets/team.php:1632 widgets/testimonial.php:448
+#: widgets/testimonial.php:477 widgets/testimonial.php:1535
+msgid "Bottom Meta"
+msgstr ""
+
+#: widgets/event.php:459 widgets/portfolio.php:511 widgets/service.php:459
+#: widgets/team.php:460 widgets/testimonial.php:458
+msgid "Post Overlay Items Options"
+msgstr ""
+
+#: widgets/event.php:468
+msgid "This is settings for event shortcode post overlay items."
+msgstr ""
+
+#: widgets/event.php:471 widgets/portfolio.php:523 widgets/service.php:471
+#: widgets/team.php:472 widgets/testimonial.php:470
+msgid "Enabled"
+msgstr ""
+
+#: widgets/event.php:472 widgets/event.php:496 widgets/event.php:514
+#: widgets/portfolio.php:524 widgets/portfolio.php:550
+#: widgets/portfolio.php:569 widgets/service.php:472 widgets/service.php:495
+#: widgets/service.php:512 widgets/team.php:473 widgets/team.php:498
+#: widgets/team.php:517 widgets/testimonial.php:471 widgets/testimonial.php:496
+#: widgets/testimonial.php:517
+msgid "disabled"
+msgstr ""
+
+#: widgets/event.php:491
+msgid "This is settings for event shortcode post top meta."
+msgstr ""
+
+#: widgets/event.php:509
+msgid "This is settings for event shortcode post bottom meta."
+msgstr ""
+
+#: widgets/event.php:531 widgets/portfolio.php:587 widgets/service.php:528
+#: widgets/team.php:535 widgets/testimonial.php:535
+msgid "Title options here available."
+msgstr ""
+
+#: widgets/event.php:537 widgets/portfolio.php:593 widgets/service.php:534
+#: widgets/team.php:541 widgets/testimonial.php:541
+msgid "Post Heading Tag"
+msgstr ""
+
+#: widgets/event.php:541 widgets/portfolio.php:597 widgets/service.php:538
+#: widgets/team.php:545 widgets/testimonial.php:545
+msgid "h1"
+msgstr ""
+
+#: widgets/event.php:542 widgets/portfolio.php:598 widgets/service.php:539
+#: widgets/team.php:546 widgets/testimonial.php:546
+msgid "h2"
+msgstr ""
+
+#: widgets/event.php:543 widgets/portfolio.php:599 widgets/service.php:540
+#: widgets/team.php:547 widgets/testimonial.php:547
+msgid "h3"
+msgstr ""
+
+#: widgets/event.php:544 widgets/portfolio.php:600 widgets/service.php:541
+#: widgets/team.php:548 widgets/testimonial.php:548
+msgid "h4"
+msgstr ""
+
+#: widgets/event.php:545 widgets/portfolio.php:601 widgets/service.php:542
+#: widgets/team.php:549 widgets/testimonial.php:549
+msgid "h5"
+msgstr ""
+
+#: widgets/event.php:546 widgets/portfolio.php:602 widgets/service.php:543
+#: widgets/team.php:550 widgets/testimonial.php:550
+msgid "h6"
+msgstr ""
+
+#: widgets/event.php:556 widgets/event.php:710 widgets/event.php:1232
+#: widgets/portfolio.php:612 widgets/portfolio.php:766
+#: widgets/portfolio.php:1288 widgets/service.php:553 widgets/service.php:707
+#: widgets/service.php:1229 widgets/team.php:560 widgets/team.php:714
+#: widgets/team.php:1323 widgets/testimonial.php:560
+#: widgets/testimonial.php:714 widgets/testimonial.php:1236
+msgid "Image"
+msgstr ""
+
+#: widgets/event.php:558 widgets/portfolio.php:614 widgets/service.php:555
+#: widgets/team.php:562 widgets/testimonial.php:562
+msgid "Image options here available."
+msgstr ""
+
+#: widgets/event.php:575 widgets/portfolio.php:631 widgets/service.php:572
+#: widgets/team.php:579 widgets/testimonial.php:579
+msgid "Slide"
+msgstr ""
+
+#: widgets/event.php:577
+msgid "Event slide options here available."
+msgstr ""
+
+#: widgets/event.php:583 widgets/portfolio.php:639 widgets/service.php:580
+#: widgets/team.php:587 widgets/testimonial.php:587
+msgid "Slide Option"
+msgstr ""
+
+#: widgets/event.php:584
+msgid "This is option for event slider option."
+msgstr ""
+
+#: widgets/event.php:593 widgets/portfolio.php:649 widgets/service.php:590
+#: widgets/team.php:597 widgets/testimonial.php:597
+msgid "Slide Items"
+msgstr ""
+
+#: widgets/event.php:594
+msgid "This is option for event slide items shown on large devices."
+msgstr ""
+
+#: widgets/event.php:602 widgets/portfolio.php:658 widgets/service.php:599
+#: widgets/team.php:606 widgets/testimonial.php:606
+msgid "Items on Tab"
+msgstr ""
+
+#: widgets/event.php:603
+msgid "This is option for event slide items shown on tab."
+msgstr ""
+
+#: widgets/event.php:611 widgets/portfolio.php:667 widgets/service.php:608
+#: widgets/team.php:615 widgets/testimonial.php:615
+msgid "Items on Mobile"
+msgstr ""
+
+#: widgets/event.php:612
+msgid "This is option for event slide items shown on mobile."
+msgstr ""
+
+#: widgets/event.php:619 widgets/portfolio.php:675 widgets/service.php:616
+#: widgets/team.php:623 widgets/testimonial.php:623
+msgid "Auto Play"
+msgstr ""
+
+#: widgets/event.php:620
+msgid "This is option for event slider auto play."
+msgstr ""
+
+#: widgets/event.php:628 widgets/portfolio.php:684 widgets/service.php:625
+#: widgets/team.php:632 widgets/testimonial.php:632
+msgid "Loop"
+msgstr ""
+
+#: widgets/event.php:629
+msgid "This is option for event slider loop."
+msgstr ""
+
+#: widgets/event.php:637 widgets/portfolio.php:693 widgets/service.php:634
+#: widgets/team.php:641 widgets/testimonial.php:641
+msgid "Items Center"
+msgstr ""
+
+#: widgets/event.php:638
+msgid ""
+"This is option for event slider center, for this option must active loop and "
+"minimum items 2."
+msgstr ""
+
+#: widgets/event.php:647
+msgid "This is option for event slider navigation."
+msgstr ""
+
+#: widgets/event.php:655 widgets/portfolio.php:711 widgets/service.php:652
+#: widgets/team.php:659 widgets/testimonial.php:659
+msgid "Pagination"
+msgstr ""
+
+#: widgets/event.php:656
+msgid "This is option for event slider pagination."
+msgstr ""
+
+#: widgets/event.php:665 widgets/portfolio.php:721 widgets/service.php:662
+#: widgets/team.php:669 widgets/testimonial.php:669
+msgid "Items Margin"
+msgstr ""
+
+#: widgets/event.php:666
+msgid "This is option for event slider margin space."
+msgstr ""
+
+#: widgets/event.php:674 widgets/portfolio.php:730 widgets/service.php:671
+#: widgets/team.php:678 widgets/testimonial.php:678
+msgid "Items Duration"
+msgstr ""
+
+#: widgets/event.php:675
+msgid "This is option for event slider duration."
+msgstr ""
+
+#: widgets/event.php:683 widgets/portfolio.php:739 widgets/service.php:680
+#: widgets/team.php:687 widgets/testimonial.php:687
+msgid "Items Smart Speed"
+msgstr ""
+
+#: widgets/event.php:684
+msgid "This is option for event slider smart speed."
+msgstr ""
+
+#: widgets/event.php:692 widgets/portfolio.php:748 widgets/service.php:689
+#: widgets/team.php:696 widgets/testimonial.php:696
+msgid "Items Slideby"
+msgstr ""
+
+#: widgets/event.php:693
+msgid "This is option for event slider scroll by."
+msgstr ""
+
+#: widgets/event.php:703 widgets/event.php:1038 widgets/portfolio.php:759
+#: widgets/portfolio.php:1094 widgets/service.php:700 widgets/service.php:1035
+#: widgets/team.php:707 widgets/team.php:1129 widgets/testimonial.php:707
+#: widgets/testimonial.php:1042
+msgid "Links"
+msgstr ""
+
+#: widgets/event.php:718 widgets/event.php:742 widgets/event.php:766
+#: widgets/portfolio.php:774 widgets/portfolio.php:798
+#: widgets/portfolio.php:822 widgets/service.php:715 widgets/service.php:739
+#: widgets/service.php:763 widgets/team.php:722 widgets/team.php:746
+#: widgets/team.php:770 widgets/testimonial.php:722 widgets/testimonial.php:746
+#: widgets/testimonial.php:770
+msgid "Target Blank"
+msgstr ""
+
+#: widgets/event.php:726 widgets/event.php:750 widgets/event.php:774
+#: widgets/portfolio.php:782 widgets/portfolio.php:806
+#: widgets/portfolio.php:830 widgets/service.php:723 widgets/service.php:747
+#: widgets/service.php:771 widgets/team.php:730 widgets/team.php:754
+#: widgets/team.php:778 widgets/testimonial.php:730 widgets/testimonial.php:754
+#: widgets/testimonial.php:778
+msgid "No Follow"
+msgstr ""
+
+#: widgets/event.php:785 widgets/portfolio.php:841 widgets/service.php:782
+#: widgets/team.php:876 widgets/testimonial.php:789
+msgid "Post Grid"
+msgstr ""
+
+#: widgets/event.php:793 widgets/event.php:907 widgets/event.php:1054
+#: widgets/event.php:1100 widgets/event.php:1146 widgets/event.php:1192
+#: widgets/event.php:1370 widgets/event.php:1577 widgets/event.php:1725
+#: widgets/portfolio.php:849 widgets/portfolio.php:963
+#: widgets/portfolio.php:1110 widgets/portfolio.php:1156
+#: widgets/portfolio.php:1202 widgets/portfolio.php:1248
+#: widgets/portfolio.php:1426 widgets/portfolio.php:1633
+#: widgets/portfolio.php:1767 widgets/service.php:790 widgets/service.php:904
+#: widgets/service.php:1051 widgets/service.php:1097 widgets/service.php:1143
+#: widgets/service.php:1189 widgets/service.php:1367 widgets/service.php:1657
+#: widgets/service.php:1791 widgets/team.php:884 widgets/team.php:998
+#: widgets/team.php:1145 widgets/team.php:1191 widgets/team.php:1237
+#: widgets/team.php:1283 widgets/team.php:1471 widgets/team.php:1678
+#: widgets/team.php:1812 widgets/testimonial.php:797
+#: widgets/testimonial.php:911 widgets/testimonial.php:1058
+#: widgets/testimonial.php:1104 widgets/testimonial.php:1150
+#: widgets/testimonial.php:1196 widgets/testimonial.php:1374
+#: widgets/testimonial.php:1581 widgets/testimonial.php:1715
+msgid "Normal"
+msgstr ""
+
+#: widgets/event.php:799 widgets/event.php:835 widgets/event.php:913
+#: widgets/event.php:1060 widgets/event.php:1106 widgets/event.php:1152
+#: widgets/event.php:1198 widgets/event.php:1583 widgets/event.php:1601
+#: widgets/portfolio.php:855 widgets/portfolio.php:891
+#: widgets/portfolio.php:969 widgets/portfolio.php:1116
+#: widgets/portfolio.php:1162 widgets/portfolio.php:1208
+#: widgets/portfolio.php:1254 widgets/portfolio.php:1639
+#: widgets/portfolio.php:1657 widgets/service.php:796 widgets/service.php:832
+#: widgets/service.php:910 widgets/service.php:1057 widgets/service.php:1103
+#: widgets/service.php:1149 widgets/service.php:1195 widgets/service.php:1663
+#: widgets/service.php:1681 widgets/team.php:890 widgets/team.php:926
+#: widgets/team.php:1004 widgets/team.php:1151 widgets/team.php:1197
+#: widgets/team.php:1243 widgets/team.php:1289 widgets/team.php:1684
+#: widgets/team.php:1702 widgets/testimonial.php:803
+#: widgets/testimonial.php:839 widgets/testimonial.php:917
+#: widgets/testimonial.php:1064 widgets/testimonial.php:1110
+#: widgets/testimonial.php:1156 widgets/testimonial.php:1202
+#: widgets/testimonial.php:1587 widgets/testimonial.php:1605
+msgid "Color"
+msgstr ""
+
+#: widgets/event.php:810 widgets/event.php:846 widgets/event.php:1731
+#: widgets/event.php:1749 widgets/portfolio.php:866 widgets/portfolio.php:902
+#: widgets/portfolio.php:1773 widgets/portfolio.php:1791
+#: widgets/service.php:807 widgets/service.php:843 widgets/service.php:1797
+#: widgets/service.php:1815 widgets/team.php:901 widgets/team.php:937
+#: widgets/team.php:1818 widgets/team.php:1836 widgets/testimonial.php:814
+#: widgets/testimonial.php:850 widgets/testimonial.php:1721
+#: widgets/testimonial.php:1739
+msgid "Background"
+msgstr ""
+
+#: widgets/event.php:829 widgets/event.php:945 widgets/event.php:1072
+#: widgets/event.php:1118 widgets/event.php:1164 widgets/event.php:1210
+#: widgets/event.php:1400 widgets/event.php:1595 widgets/event.php:1743
+#: widgets/portfolio.php:885 widgets/portfolio.php:1001
+#: widgets/portfolio.php:1128 widgets/portfolio.php:1174
+#: widgets/portfolio.php:1220 widgets/portfolio.php:1266
+#: widgets/portfolio.php:1456 widgets/portfolio.php:1651
+#: widgets/portfolio.php:1785 widgets/service.php:826 widgets/service.php:942
+#: widgets/service.php:1069 widgets/service.php:1115 widgets/service.php:1161
+#: widgets/service.php:1207 widgets/service.php:1397 widgets/service.php:1675
+#: widgets/service.php:1809 widgets/team.php:920 widgets/team.php:1036
+#: widgets/team.php:1163 widgets/team.php:1209 widgets/team.php:1255
+#: widgets/team.php:1301 widgets/team.php:1501 widgets/team.php:1696
+#: widgets/team.php:1830 widgets/testimonial.php:833
+#: widgets/testimonial.php:949 widgets/testimonial.php:1076
+#: widgets/testimonial.php:1122 widgets/testimonial.php:1168
+#: widgets/testimonial.php:1214 widgets/testimonial.php:1404
+#: widgets/testimonial.php:1599 widgets/testimonial.php:1733
+msgid "Hover"
+msgstr ""
+
+#: widgets/event.php:866 widgets/event.php:996 widgets/event.php:1316
+#: widgets/event.php:1467 widgets/event.php:1672 widgets/portfolio.php:922
+#: widgets/portfolio.php:1052 widgets/portfolio.php:1372
+#: widgets/portfolio.php:1523 widgets/portfolio.php:1714
+#: widgets/service.php:863 widgets/service.php:993 widgets/service.php:1313
+#: widgets/service.php:1464 widgets/service.php:1556 widgets/service.php:1738
+#: widgets/team.php:957 widgets/team.php:1087 widgets/team.php:1407
+#: widgets/team.php:1568 widgets/team.php:1759 widgets/testimonial.php:870
+#: widgets/testimonial.php:1000 widgets/testimonial.php:1320
+#: widgets/testimonial.php:1471 widgets/testimonial.php:1662
+msgid "Padding"
+msgstr ""
+
+#: widgets/event.php:888 widgets/portfolio.php:944 widgets/service.php:885
+#: widgets/team.php:979 widgets/testimonial.php:892
+msgid "Title Transform"
+msgstr ""
+
+#: widgets/event.php:890 widgets/portfolio.php:946 widgets/service.php:887
+#: widgets/team.php:981 widgets/testimonial.php:894
+msgid "Set title text-transform property."
+msgstr ""
+
+#: widgets/event.php:894 widgets/event.php:1357 widgets/portfolio.php:950
+#: widgets/portfolio.php:1413 widgets/service.php:891 widgets/service.php:1354
+#: widgets/team.php:985 widgets/team.php:1458 widgets/testimonial.php:898
+#: widgets/testimonial.php:1361
+msgid "Capitalized"
+msgstr ""
+
+#: widgets/event.php:895 widgets/event.php:1358 widgets/portfolio.php:951
+#: widgets/portfolio.php:1414 widgets/service.php:892 widgets/service.php:1355
+#: widgets/team.php:986 widgets/team.php:1459 widgets/testimonial.php:899
+#: widgets/testimonial.php:1362
+msgid "Upper Case"
+msgstr ""
+
+#: widgets/event.php:896 widgets/event.php:1359 widgets/portfolio.php:952
+#: widgets/portfolio.php:1415 widgets/service.php:893 widgets/service.php:1356
+#: widgets/team.php:987 widgets/team.php:1460 widgets/testimonial.php:900
+#: widgets/testimonial.php:1363
+msgid "Lower Case"
+msgstr ""
+
+#: widgets/event.php:924 widgets/event.php:962 widgets/event.php:1797
+#: widgets/portfolio.php:980 widgets/portfolio.php:1018
+#: widgets/portfolio.php:1839 widgets/service.php:921 widgets/service.php:959
+#: widgets/service.php:1863 widgets/team.php:1015 widgets/team.php:1053
+#: widgets/team.php:1884 widgets/testimonial.php:928
+#: widgets/testimonial.php:966 widgets/testimonial.php:1787
+msgid "Scale"
+msgstr ""
+
+#: widgets/event.php:951 widgets/event.php:1078 widgets/event.php:1124
+#: widgets/event.php:1170 widgets/event.php:1216 widgets/portfolio.php:1007
+#: widgets/portfolio.php:1134 widgets/portfolio.php:1180
+#: widgets/portfolio.php:1226 widgets/portfolio.php:1272
+#: widgets/service.php:948 widgets/service.php:1075 widgets/service.php:1121
+#: widgets/service.php:1167 widgets/service.php:1213 widgets/team.php:1042
+#: widgets/team.php:1169 widgets/team.php:1215 widgets/team.php:1261
+#: widgets/team.php:1307 widgets/testimonial.php:955
+#: widgets/testimonial.php:1082 widgets/testimonial.php:1128
+#: widgets/testimonial.php:1174 widgets/testimonial.php:1220
+msgid "Hover Color"
+msgstr ""
+
+#: widgets/event.php:984 widgets/portfolio.php:1040 widgets/service.php:981
+#: widgets/team.php:1075 widgets/testimonial.php:988
+msgid "margin"
+msgstr ""
+
+#: widgets/event.php:1008 widgets/event.php:1511 widgets/event.php:1546
+#: widgets/event.php:1621 widgets/portfolio.php:1064 widgets/portfolio.php:1567
+#: widgets/portfolio.php:1602 widgets/portfolio.php:1677
+#: widgets/service.php:1005 widgets/service.php:1591 widgets/service.php:1626
+#: widgets/service.php:1701 widgets/team.php:1099 widgets/team.php:1612
+#: widgets/team.php:1647 widgets/team.php:1722 widgets/testimonial.php:1012
+#: widgets/testimonial.php:1515 widgets/testimonial.php:1550
+#: widgets/testimonial.php:1625
+msgid "Spacing"
+msgstr ""
+
+#: widgets/event.php:1045 widgets/portfolio.php:1101 widgets/service.php:1042
+#: widgets/team.php:1136 widgets/testimonial.php:1049
+msgid "Default Post Links"
+msgstr ""
+
+#: widgets/event.php:1091 widgets/portfolio.php:1147 widgets/service.php:1088
+#: widgets/team.php:1182 widgets/testimonial.php:1095
+msgid "Top Meta Links"
+msgstr ""
+
+#: widgets/event.php:1137 widgets/portfolio.php:1193 widgets/service.php:1134
+#: widgets/team.php:1228 widgets/testimonial.php:1141
+msgid "Bottom Meta Links"
+msgstr ""
+
+#: widgets/event.php:1183 widgets/portfolio.php:1239 widgets/service.php:1180
+#: widgets/team.php:1274 widgets/testimonial.php:1187
+msgid "Overlay Links"
+msgstr ""
+
+#: widgets/event.php:1239 widgets/portfolio.php:1295 widgets/service.php:1236
+#: widgets/team.php:1330 widgets/testimonial.php:1243
+msgid "Image Style"
+msgstr ""
+
+#: widgets/event.php:1241 widgets/portfolio.php:1297 widgets/service.php:1238
+#: widgets/team.php:1332 widgets/testimonial.php:1245
+msgid "Choose image style."
+msgstr ""
+
+#: widgets/event.php:1244 widgets/portfolio.php:1300 widgets/service.php:1241
+#: widgets/team.php:802 widgets/team.php:1335 widgets/testimonial.php:1248
+msgid "Squared"
+msgstr ""
+
+#: widgets/event.php:1245 widgets/portfolio.php:1301 widgets/service.php:1242
+#: widgets/team.php:803 widgets/team.php:1336 widgets/testimonial.php:1249
+msgid "Rounded"
+msgstr ""
+
+#: widgets/event.php:1246 widgets/portfolio.php:1302 widgets/service.php:1243
+#: widgets/team.php:804 widgets/team.php:1337 widgets/testimonial.php:1250
+msgid "Circled"
+msgstr ""
+
+#: widgets/event.php:1253 widgets/portfolio.php:1309 widgets/service.php:1250
+#: widgets/service.php:1493 widgets/team.php:1344 widgets/testimonial.php:1257
+msgid "Resize Option"
+msgstr ""
+
+#: widgets/event.php:1254 widgets/portfolio.php:1310 widgets/service.php:1251
+#: widgets/service.php:1494 widgets/team.php:1345 widgets/testimonial.php:1258
+msgid "Enable resize option."
+msgstr ""
+
+#: widgets/event.php:1262 widgets/portfolio.php:1318 widgets/service.php:1259
+#: widgets/service.php:1502 widgets/team.php:1353 widgets/testimonial.php:1266
+msgid "Image Size"
+msgstr ""
+
+#: widgets/event.php:1286 widgets/portfolio.php:1342 widgets/service.php:1283
+#: widgets/service.php:1526 widgets/team.php:1377 widgets/testimonial.php:1290
+msgid "Image Spacing"
+msgstr ""
+
+#: widgets/event.php:1305 widgets/event.php:1387 widgets/event.php:1417
+#: widgets/portfolio.php:1361 widgets/portfolio.php:1443
+#: widgets/portfolio.php:1473 widgets/service.php:1302 widgets/service.php:1384
+#: widgets/service.php:1414 widgets/service.php:1545 widgets/team.php:1396
+#: widgets/team.php:1488 widgets/team.php:1518 widgets/testimonial.php:1309
+#: widgets/testimonial.php:1391 widgets/testimonial.php:1421
+msgid "Background Color"
+msgstr ""
+
+#: widgets/event.php:1327 widgets/portfolio.php:1383 widgets/service.php:1324
+#: widgets/team.php:1428 widgets/testimonial.php:1331
+msgid "Border"
+msgstr ""
+
+#: widgets/event.php:1337 widgets/portfolio.php:1393 widgets/service.php:1334
+#: widgets/team.php:1438 widgets/testimonial.php:1341
+msgid "Read More Button"
+msgstr ""
+
+#: widgets/event.php:1351 widgets/portfolio.php:1407 widgets/service.php:1348
+#: widgets/team.php:1452 widgets/testimonial.php:1355
+msgid "Transform"
+msgstr ""
+
+#: widgets/event.php:1353 widgets/portfolio.php:1409 widgets/service.php:1350
+#: widgets/team.php:1454 widgets/testimonial.php:1357
+msgid "Set read more button text-transform property."
+msgstr ""
+
+#: widgets/event.php:1376 widgets/event.php:1406 widgets/portfolio.php:1432
+#: widgets/portfolio.php:1462 widgets/service.php:1373 widgets/service.php:1403
+#: widgets/team.php:1477 widgets/team.php:1507 widgets/testimonial.php:1380
+#: widgets/testimonial.php:1410
+msgid "Text Color"
+msgstr ""
+
+#: widgets/event.php:1427 widgets/portfolio.php:1483 widgets/service.php:1424
+#: widgets/team.php:1528 widgets/testimonial.php:1431
+msgid "Border Color"
+msgstr ""
+
+#: widgets/event.php:1449 widgets/portfolio.php:1505 widgets/service.php:1446
+#: widgets/team.php:1550 widgets/testimonial.php:1453
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/event.php:1489 widgets/portfolio.php:1545 widgets/service.php:1569
+#: widgets/team.php:1590 widgets/testimonial.php:1493
+msgid "Meta"
+msgstr ""
+
+#: widgets/event.php:1569 widgets/portfolio.php:1625 widgets/service.php:1649
+#: widgets/team.php:1670 widgets/testimonial.php:1573
+msgid "Content"
+msgstr ""
+
+#: widgets/event.php:1641
+msgid "Address Icon Color"
+msgstr ""
+
+#: widgets/event.php:1658 widgets/portfolio.php:1700 widgets/service.php:1724
+#: widgets/team.php:1745 widgets/testimonial.php:1648
+msgid "Overlay"
+msgstr ""
+
+#: widgets/event.php:1684 widgets/portfolio.php:1726 widgets/service.php:1750
+#: widgets/team.php:1771 widgets/testimonial.php:1674
+msgid "Position Top"
+msgstr ""
+
+#: widgets/event.php:1704 widgets/portfolio.php:1746 widgets/service.php:1770
+#: widgets/team.php:1791 widgets/testimonial.php:1694
+msgid "Position Left"
+msgstr ""
+
+#: widgets/event.php:1765 widgets/portfolio.php:1807 widgets/service.php:1831
+#: widgets/team.php:1852 widgets/testimonial.php:1755
+msgid "Tilt"
+msgstr ""
+
+#: widgets/event.php:1772 widgets/portfolio.php:1814 widgets/service.php:1838
+#: widgets/team.php:1859 widgets/testimonial.php:1762
+msgid "Tilt Option"
+msgstr ""
+
+#: widgets/event.php:1773 widgets/portfolio.php:1815 widgets/service.php:1839
+#: widgets/team.php:1860 widgets/testimonial.php:1763
+msgid "This is option for enable tilt animation option."
+msgstr ""
+
+#: widgets/event.php:1781 widgets/portfolio.php:1823 widgets/service.php:1847
+#: widgets/team.php:1868 widgets/testimonial.php:1771
+msgid "maxTilt"
+msgstr ""
+
+#: widgets/event.php:1789 widgets/portfolio.php:1831 widgets/service.php:1855
+#: widgets/team.php:1876 widgets/testimonial.php:1779
+msgid "Perspective"
+msgstr ""
+
+#: widgets/event.php:1805 widgets/portfolio.php:1847 widgets/service.php:1871
+#: widgets/team.php:1892 widgets/testimonial.php:1795
+msgid "Speed"
+msgstr ""
+
+#: widgets/event.php:1813 widgets/portfolio.php:1855 widgets/service.php:1879
+#: widgets/team.php:1900 widgets/testimonial.php:1803
+msgid "Tilt Transition"
+msgstr ""
+
+#: widgets/event.php:1814 widgets/portfolio.php:1856 widgets/service.php:1880
+#: widgets/team.php:1901 widgets/testimonial.php:1804
+msgid "This is option for tilt transition."
+msgstr ""
+
+#: widgets/event.php:2058 widgets/portfolio.php:2147 widgets/service.php:2124
+#: widgets/team.php:2151 widgets/testimonial.php:2048
+msgid "Loading.."
+msgstr ""
+
+#: widgets/event.php:2059 widgets/portfolio.php:2148 widgets/service.php:2125
+#: widgets/team.php:2152 widgets/testimonial.php:2049
+msgid "No more posts.."
+msgstr ""
+
+#: widgets/event.php:2259 widgets/portfolio.php:2365 widgets/service.php:2316
+#: widgets/team.php:2344 widgets/testimonial.php:2261
+msgid "Read more"
+msgstr ""
+
+#: widgets/portfolio.php:125
+msgid "Default portfolio options."
+msgstr ""
+
+#: widgets/portfolio.php:144
+msgid "Portfolio query options."
+msgstr ""
+
+#: widgets/portfolio.php:173
+msgid ""
+"This is filter categories. Enter and select which categories you want. If "
+"you don't want top filter, then leave this empty."
+msgstr ""
+
+#: widgets/portfolio.php:184
+msgid "Exclude Categories"
+msgstr ""
+
+#: widgets/portfolio.php:185
+msgid "Here you can mention unwanted categories"
+msgstr ""
+
+#: widgets/portfolio.php:307
+msgid "This is option for portfolio columns."
+msgstr ""
+
+#: widgets/portfolio.php:330
+msgid "This is option for portfolio masonry or normal."
+msgstr ""
+
+#: widgets/portfolio.php:343
+msgid "Here you can mention portfolio masonry gutter size. Example 30"
+msgstr ""
+
+#: widgets/portfolio.php:367
+msgid "Isotope Filter"
+msgstr ""
+
+#: widgets/portfolio.php:368
+msgid "Enabel to show portfolio filter by category."
+msgstr ""
+
+#: widgets/portfolio.php:381
+msgid "Filter All Text"
+msgstr ""
+
+#: widgets/portfolio.php:382
+msgid "Here you can mention portfolio's first filter text."
+msgstr ""
+
+#: widgets/portfolio.php:383 widgets/portfolio.php:1979
+msgid "All"
+msgstr ""
+
+#: widgets/portfolio.php:410
+msgid "This is option for portfolio masonry infinite scroll."
+msgstr ""
+
+#: widgets/portfolio.php:479
+msgid "This is option for portfolio variatoin either dark or light."
+msgstr ""
+
+#: widgets/portfolio.php:491
+msgid ""
+"This is settings for portfolio custom layout. here you can set your own "
+"layout. Drag and drop needed portfolio items to Enabled part."
+msgstr ""
+
+#: widgets/portfolio.php:520
+msgid "This is settings for portfolio shortcode post overlay items."
+msgstr ""
+
+#: widgets/portfolio.php:528
+msgid "Zoom/Link Icon"
+msgstr ""
+
+#: widgets/portfolio.php:530 widgets/portfolio.php:555
+#: widgets/portfolio.php:574
+msgid "Comment"
+msgstr ""
+
+#: widgets/portfolio.php:545
+msgid "This is settings for portfolio shortcode post top meta."
+msgstr ""
+
+#: widgets/portfolio.php:564
+msgid "This is settings for portfolio shortcode post bottom meta."
+msgstr ""
+
+#: widgets/portfolio.php:633
+msgid "Portfolio slide options here available."
+msgstr ""
+
+#: widgets/portfolio.php:640
+msgid "This is option for portfolio slider option."
+msgstr ""
+
+#: widgets/portfolio.php:650
+msgid "This is option for portfolio slide items shown on large devices."
+msgstr ""
+
+#: widgets/portfolio.php:659
+msgid "This is option for portfolio slide items shown on tab."
+msgstr ""
+
+#: widgets/portfolio.php:668
+msgid "This is option for portfolio slide items shown on mobile."
+msgstr ""
+
+#: widgets/portfolio.php:676
+msgid "This is option for portfolio slider auto play."
+msgstr ""
+
+#: widgets/portfolio.php:685
+msgid "This is option for portfolio slider loop."
+msgstr ""
+
+#: widgets/portfolio.php:694
+msgid ""
+"This is option for portfolio slider center, for this option must active loop "
+"and minimum items 2."
+msgstr ""
+
+#: widgets/portfolio.php:703
+msgid "This is option for portfolio slider navigation."
+msgstr ""
+
+#: widgets/portfolio.php:712
+msgid "This is option for portfolio slider pagination."
+msgstr ""
+
+#: widgets/portfolio.php:722
+msgid "This is option for portfolio slider margin space."
+msgstr ""
+
+#: widgets/portfolio.php:731
+msgid "This is option for portfolio slider duration."
+msgstr ""
+
+#: widgets/portfolio.php:740
+msgid "This is option for portfolio slider smart speed."
+msgstr ""
+
+#: widgets/portfolio.php:749
+msgid "This is option for portfolio slider scroll by."
+msgstr ""
+
+#: widgets/service.php:122
+msgid "Default service options."
+msgstr ""
+
+#: widgets/service.php:141
+msgid "Service query options."
+msgstr ""
+
+#: widgets/service.php:280
+msgid "This is option for service columns."
+msgstr ""
+
+#: widgets/service.php:303
+msgid "This is option for service masonry or normal."
+msgstr ""
+
+#: widgets/service.php:316
+msgid "Here you can mention service masonry gutter size. Example 30"
+msgstr ""
+
+#: widgets/service.php:357
+msgid "This is option for service masonry infinite scroll."
+msgstr ""
+
+#: widgets/service.php:426
+msgid "This is option for service variatoin either dark or light."
+msgstr ""
+
+#: widgets/service.php:438
+msgid ""
+"This is settings for service custom layout. here you can set your own "
+"layout. Drag and drop needed service items to Enabled part."
+msgstr ""
+
+#: widgets/service.php:451 widgets/service.php:1486
+msgid "Icon Image"
+msgstr ""
+
+#: widgets/service.php:468
+msgid "This is settings for service shortcode post overlay items."
+msgstr ""
+
+#: widgets/service.php:490
+msgid "This is settings for service shortcode post top meta."
+msgstr ""
+
+#: widgets/service.php:507
+msgid "This is settings for service shortcode post bottom meta."
+msgstr ""
+
+#: widgets/service.php:574
+msgid "Service slide options here available."
+msgstr ""
+
+#: widgets/service.php:581
+msgid "This is option for service slider option."
+msgstr ""
+
+#: widgets/service.php:591
+msgid "This is option for service slide items shown on large devices."
+msgstr ""
+
+#: widgets/service.php:600
+msgid "This is option for service slide items shown on tab."
+msgstr ""
+
+#: widgets/service.php:609
+msgid "This is option for service slide items shown on mobile."
+msgstr ""
+
+#: widgets/service.php:617
+msgid "This is option for service slider auto play."
+msgstr ""
+
+#: widgets/service.php:626
+msgid "This is option for service slider loop."
+msgstr ""
+
+#: widgets/service.php:635
+msgid ""
+"This is option for service slider center, for this option must active loop "
+"and minimum items 2."
+msgstr ""
+
+#: widgets/service.php:644
+msgid "This is option for service slider navigation."
+msgstr ""
+
+#: widgets/service.php:653
+msgid "This is option for service slider pagination."
+msgstr ""
+
+#: widgets/service.php:663
+msgid "This is option for service slider margin space."
+msgstr ""
+
+#: widgets/service.php:672
+msgid "This is option for service slider duration."
+msgstr ""
+
+#: widgets/service.php:681
+msgid "This is option for service slider smart speed."
+msgstr ""
+
+#: widgets/service.php:690
+msgid "This is option for service slider scroll by."
+msgstr ""
+
+#: widgets/team.php:122
+msgid "Default team options."
+msgstr ""
+
+#: widgets/team.php:141
+msgid "Team query options."
+msgstr ""
+
+#: widgets/team.php:280
+msgid "This is option for team columns."
+msgstr ""
+
+#: widgets/team.php:303
+msgid "This is option for team masonry or normal."
+msgstr ""
+
+#: widgets/team.php:316
+msgid "Here you can mention team masonry gutter size. Example 30"
+msgstr ""
+
+#: widgets/team.php:357
+msgid "This is option for team masonry infinite scroll."
+msgstr ""
+
+#: widgets/team.php:426
+msgid "This is option for team variatoin either dark or light."
+msgstr ""
+
+#: widgets/team.php:438
+msgid ""
+"This is settings for team custom layout. here you can set your own layout. "
+"Drag and drop needed team items to Enabled part."
+msgstr ""
+
+#: widgets/team.php:451 widgets/team.php:478 widgets/team.php:502
+#: widgets/team.php:521 widgets/testimonial.php:499 widgets/testimonial.php:520
+msgid "Designation"
+msgstr ""
+
+#: widgets/team.php:452 widgets/team.php:479 widgets/team.php:503
+#: widgets/team.php:522 widgets/team.php:789
+msgid "Social Links"
+msgstr ""
+
+#: widgets/team.php:469
+msgid "This is settings for team shortcode post overlay items."
+msgstr ""
+
+#: widgets/team.php:493
+msgid "This is settings for team shortcode post top meta."
+msgstr ""
+
+#: widgets/team.php:512
+msgid "This is settings for team shortcode post bottom meta."
+msgstr ""
+
+#: widgets/team.php:581
+msgid "Team slide options here available."
+msgstr ""
+
+#: widgets/team.php:588
+msgid "This is option for team slider option."
+msgstr ""
+
+#: widgets/team.php:598
+msgid "This is option for team slide items shown on large devices."
+msgstr ""
+
+#: widgets/team.php:607
+msgid "This is option for team slide items shown on tab."
+msgstr ""
+
+#: widgets/team.php:616
+msgid "This is option for team slide items shown on mobile."
+msgstr ""
+
+#: widgets/team.php:624
+msgid "This is option for team slider auto play."
+msgstr ""
+
+#: widgets/team.php:633
+msgid "This is option for team slider loop."
+msgstr ""
+
+#: widgets/team.php:642
+msgid ""
+"This is option for team slider center, for this option must active loop and "
+"minimum items 2."
+msgstr ""
+
+#: widgets/team.php:651
+msgid "This is option for team slider navigation."
+msgstr ""
+
+#: widgets/team.php:660
+msgid "This is option for team slider pagination."
+msgstr ""
+
+#: widgets/team.php:670
+msgid "This is option for team slider margin space."
+msgstr ""
+
+#: widgets/team.php:679
+msgid "This is option for team slider duration."
+msgstr ""
+
+#: widgets/team.php:688
+msgid "This is option for team slider smart speed."
+msgstr ""
+
+#: widgets/team.php:697
+msgid "This is option for team slider scroll by."
+msgstr ""
+
+#: widgets/team.php:791
+msgid "Social links options available here."
+msgstr ""
+
+#: widgets/team.php:797
+msgid "Social Iocns Type"
+msgstr ""
+
+#: widgets/team.php:798
+msgid "Here you can choose the social icons view type."
+msgstr ""
+
+#: widgets/team.php:812
+msgid "Social Icons Fore"
+msgstr ""
+
+#: widgets/team.php:813
+msgid "This is option for day social icons fore color."
+msgstr ""
+
+#: widgets/team.php:816 widgets/team.php:830 widgets/team.php:846
+#: widgets/team.php:863
+msgid "Black"
+msgstr ""
+
+#: widgets/team.php:817 widgets/team.php:831 widgets/team.php:845
+#: widgets/team.php:862
+msgid "White"
+msgstr ""
+
+#: widgets/team.php:818 widgets/team.php:832 widgets/team.php:849
+#: widgets/team.php:866
+msgid "Own Color"
+msgstr ""
+
+#: widgets/team.php:826
+msgid "Social Icons Fore Hover"
+msgstr ""
+
+#: widgets/team.php:827
+msgid "This is option for day social icons fore hover color."
+msgstr ""
+
+#: widgets/team.php:840
+msgid "Social Icons Background"
+msgstr ""
+
+#: widgets/team.php:841
+msgid "This is option for day social icons background color."
+msgstr ""
+
+#: widgets/team.php:844 widgets/team.php:861
+msgid "Transparent"
+msgstr ""
+
+#: widgets/team.php:857
+msgid "Social Icons Background Hover"
+msgstr ""
+
+#: widgets/team.php:858
+msgid "This is option for day social icons background hover color."
+msgstr ""
+
+#: widgets/team.php:1417
+msgid "Margin"
+msgstr ""
+
+#: widgets/testimonial.php:122
+msgid "Default testimonial options."
+msgstr ""
+
+#: widgets/testimonial.php:141
+msgid "Testimonial query options."
+msgstr ""
+
+#: widgets/testimonial.php:280
+msgid "This is option for testimonial columns."
+msgstr ""
+
+#: widgets/testimonial.php:303
+msgid "This is option for testimonial masonry or normal."
+msgstr ""
+
+#: widgets/testimonial.php:316
+msgid "Here you can mention testimonial masonry gutter size. Example 30"
+msgstr ""
+
+#: widgets/testimonial.php:357
+msgid "This is option for testimonial masonry infinite scroll."
+msgstr ""
+
+#: widgets/testimonial.php:426
+msgid "This is option for testimonial variatoin either dark or light."
+msgstr ""
+
+#: widgets/testimonial.php:438
+msgid ""
+"This is settings for testimonial custom layout. here you can set your own "
+"layout. Drag and drop needed testimonial items to Enabled part."
+msgstr ""
+
+#: widgets/testimonial.php:467
+msgid "This is settings for testimonial shortcode post overlay items."
+msgstr ""
+
+#: widgets/testimonial.php:489
+msgid "This is settings for testimonial shortcode post top meta."
+msgstr ""
+
+#: widgets/testimonial.php:501 widgets/testimonial.php:522
+msgid "Rate"
+msgstr ""
+
+#: widgets/testimonial.php:510
+msgid "This is settings for testimonial shortcode post bottom meta."
+msgstr ""
+
+#: widgets/testimonial.php:581
+msgid "Testimonial slide options here available."
+msgstr ""
+
+#: widgets/testimonial.php:588
+msgid "This is option for testimonial slider option."
+msgstr ""
+
+#: widgets/testimonial.php:598
+msgid "This is option for testimonial slide items shown on large devices."
+msgstr ""
+
+#: widgets/testimonial.php:607
+msgid "This is option for testimonial slide items shown on tab."
+msgstr ""
+
+#: widgets/testimonial.php:616
+msgid "This is option for testimonial slide items shown on mobile."
+msgstr ""
+
+#: widgets/testimonial.php:624
+msgid "This is option for testimonial slider auto play."
+msgstr ""
+
+#: widgets/testimonial.php:633
+msgid "This is option for testimonial slider loop."
+msgstr ""
+
+#: widgets/testimonial.php:642
+msgid ""
+"This is option for testimonial slider center, for this option must active "
+"loop and minimum items 2."
+msgstr ""
+
+#: widgets/testimonial.php:651
+msgid "This is option for testimonial slider navigation."
+msgstr ""
+
+#: widgets/testimonial.php:660
+msgid "This is option for testimonial slider pagination."
+msgstr ""
+
+#: widgets/testimonial.php:670
+msgid "This is option for testimonial slider margin space."
+msgstr ""
+
+#: widgets/testimonial.php:679
+msgid "This is option for testimonial slider duration."
+msgstr ""
+
+#: widgets/testimonial.php:688
+msgid "This is option for testimonial slider smart speed."
+msgstr ""
+
+#: widgets/testimonial.php:697
+msgid "This is option for testimonial slider scroll by."
+msgstr ""

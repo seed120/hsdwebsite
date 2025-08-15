@@ -1,0 +1,1602 @@
+/* Tab Styles */
+.hirxpert-admin-content-wrap {
+    background: #fff;
+	border-radius: 8px;
+}
+.hirxpert-inner-wrap {
+    margin-top: 35px;
+}
+.hirxpert-tab {
+    display: block;
+    overflow: hidden;
+    padding: 30px;
+    box-shadow: 0 3px 16px rgba(142, 134, 171, .05);
+    -webkit-box-shadow: 0 3px 16px rgba(142, 134, 171, .05);
+}
+.hirxpert-tab-list {
+    float: left;
+    border-right: 1px solid #fff;
+    background-color: #fff;
+    width: 19%;
+    height: auto;
+    min-height: 700px;
+    padding-bottom: 50px;
+}
+ul.tablinks-list {
+    position: relative;
+    overflow: hidden;
+	margin: 0;
+}
+.hirxpert-tab-list ul.tablinks-list {
+    background-color: #060818;
+    padding: 16px;
+    border-radius: 8px;
+}
+.hirxpert-tab-list .tablinks > span {
+    display: block;
+    background-color: inherit;
+    color: black;
+    padding: 0;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 16px;
+    font-weight: bold;
+	margin-bottom: 0;
+}
+.hirxpert-tab-list .tablinks > span {
+    display: block;
+    padding: 11px 14px;
+}
+.hirxpert_page_hirxpert-options .hirxpert-tab-list .tablinks > span {
+    display: block;
+    padding: 8px 14px;
+}
+.hirxpert-tab-list .tablinks > span:hover {
+    background: #0e1726;
+	color: #8b9fff;
+}
+ul.tablinks-list > li.tablinks > span.tab-title:hover:before {
+	color: #fff;
+}
+.tablinks-list li.tablinks {
+    margin-bottom: 0;
+	position: relative;
+}
+ul.tablinks-list > li.tablinks > span {
+    background-color: #060818;
+    color: #bfc9d4;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 400;
+    border-radius: 4px;
+}
+ul.tablinks-sub-list > li.tablinks > span {
+    background-color: #1c0a7a;
+    color: #fff;
+    font-size: 13px;
+    line-height: 18px;
+    font-weight: 400;
+	color: #bfc9d4;
+}
+ul.tablinks-list > li.tablinks[data-id="cea-templates"] span.tab-title,
+ul.tablinks-list > li.tablinks[data-id="woocommerce-tab"] span.tab-title  {
+    padding: 12px 16px;
+}
+.tablinks-sub-list li.tablinks > .tab-title {
+    background: #0e1726;
+    padding: 12px 20px;
+}
+.tablinks-sub-list li.tablinks.active > .tab-title:after {
+    content: "\f141";
+    font-family: dashicons;
+    position: absolute;
+    right: -36px;
+    font-size: 54px;
+    z-index: 1;
+    top: 50%;
+    transform: translateY(-50%) rotate(0deg);
+    color: #fff;
+}
+ul.tablinks-list > li.tablinks {
+    height: 43px;
+    overflow: hidden;
+    transition: height ease 0.5s;
+}
+ul.tablinks-list > li.tablinks.active > span.tab-title {
+    background: #4361ee;
+    border-radius: 8px 8px 0 0;
+    color: #fff;
+}
+ul.tablinks-list > li.tablinks.active > span.tab-title:before {
+    color: #fff;
+}
+ul.tablinks-list > li.tablinks.active ul.tablinks-sub-list {
+    border-radius: 0px 0 8px 8px;
+    background: #0e1726;
+}
+.tablinks-sub-list li.tablinks.active > .tab-title,
+.tablinks-sub-list li.tablinks > .tab-title:hover {
+    background: #0e1726;
+}
+.tablinks-sub-list li.tablinks.active > span.tab-title {
+    background: rgba(93, 135, 255, 0.10);
+    color: #8b9fff;
+	position: relative;
+}
+ul.tablinks-list > li.tablinks.active {
+    height: auto;
+    transition: height ease 0.5s;
+    overflow: visible;
+}
+.hirxpert-tab .tabcontent {
+    float: left;
+    padding: 0 35px;
+    width: 75%;
+    min-height: 552px;
+}
+.hirxpert-tab .tab-hide {
+	display: none;
+}
+.hirxpert-tab .customize-control-description {
+    display: block;
+    font-size: 14px;
+    margin-bottom: 15px;
+    color: #838da2;
+}
+.hirxpert-tab .customize-control-description a {
+    color: #4361ee;
+    text-decoration: underline !important;
+}
+.hirxpert-tab .customize-control-title {
+    display: block;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 3px;
+    line-height: 1.2;
+    color: #2a3547;
+    font-family: 'poppins';
+}
+.hirxpert-control {
+    padding: 25px 0;
+    border-bottom: 1px solid #efefef;
+}
+.hirxpert-control.label-control {
+    background: #F6F8FA;
+    padding: 16px 25px;
+	border-bottom: 0;
+	font-family: 'poppins' !important;
+    font-weight: bold;
+	border-radius: 8px;
+}
+div#header-topbar .hirxpert-control.label-control {
+    margin-bottom: 15px;
+}
+div#header-topbar > span.description.customize-control-description {
+    margin-bottom: 0;
+}
+div#header-topbar .meta-drag-drop-multi-field-header-items > div h4 {
+    margin-top: 0;
+}
+.hirxpert-tab .tabcontent .hirxpert-control:first-child:not(.label-control) {
+    padding-top: 0;
+}
+div#header-topbar .meta-drag-drop-multi-field-header-items > div h4 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.hirxpert-control:last-child {
+    margin-bottom: 0;
+    border-bottom: 0;
+    padding-bottom: 0;
+}
+#maintenance-general-tab .hirxpert-control {
+    border-bottom: 0;
+    padding: 15px 0;
+}
+ul.link-colors-list, ul.wp-border-list, ul.wp-dimensions-list, ul.wp-width-height-list, ul.wp-multi-check-list,
+.wp-picker-container .wp-color-result.button {
+    margin: 0;
+}
+.wp-picker-container .wp-color-result.button {
+    vertical-align: middle;
+    height: 38px;
+    border-color: #e1e1e1;
+}
+.wp-picker-container span.wp-color-result-text {
+    height: 36px;
+}
+.wp-picker-container .wp-color-result.button:focus {
+    border-color: #e1e1e1;
+    outline: #e1e1e1;
+    box-shadow: none;
+}
+.wp-picker-container input[type=text].wp-color-picker {
+    height: 30px;
+}
+.color-control-wrap .wp-color-result-text {
+    height: 28px;
+    line-height: 36px;
+    font-size: 13px;
+}
+.wp-backgrounds-fields span.wp-color-result-text {
+    line-height: 36px;
+}
+.hirxpert-image-upload-field {
+    margin-top: 10px;
+}
+.wp-picker-input-wrap .button.wp-picker-clear {
+    height: 30px;
+}
+#site-typo-settings .hirxpert-control label.customize-control-title, 
+#heading-typo-settings .hirxpert-control label.customize-control-title,
+#heading-mobile-typo-settings .hirxpert-control label.customize-control-title,
+#header-typo-settings .hirxpert-control label.customize-control-title,
+#footer-typo-settings .hirxpert-control label.customize-control-title,
+#performance-general-tab .hirxpert-control label.customize-control-title {
+    background: #f4f6f9;
+    padding: 16px 25px;
+    margin-bottom: 15px;
+	border-radius: 0.4rem;
+}
+#site-typo-settings .hirxpert-control, #heading-typo-settings .hirxpert-control, div#performance-general-tab .hirxpert-control {
+    padding-top: 0;
+    padding-bottom: 50px;
+}
+#site-typo-settings .hirxpert-control:last-child, #heading-typo-settings .hirxpert-control:last-child {
+    padding-bottom: 0px;
+}
+/* Fields Styles */
+.hirxpert-customizer-text-field {
+    width: 300px;
+}
+.hirxpert-customizer-text-field, .hirxpert-customizer-textarea-field {
+    width: 300px;
+}
+.hirxpert-customizer-textarea-field {
+    height: 80px;
+    border-color: #e1e1e1;
+}
+.editor-fields .hirxpert-control .hirxpert-customizer-textarea-field {
+    height: 200px;
+    border-left: 18px solid #363633;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+input[type=text] {
+    border-color: #e1e1e1;
+    height: 44px;
+    line-height: 44px;
+}
+.hirxpert-customizer-ajax-hid-wrap {
+    height: 0;
+    overflow: hidden;
+}
+select option.bold-font {
+    font-weight: bold;
+    margin-top: 20px;
+}
+ul.wp-fonts-fields-list {
+    display: block;
+    margin: 0 -15px;
+    margin-bottom: -6px;
+}
+ul.wp-fonts-fields-list > li > span {
+    position: absolute;
+    top: 0;
+    color: #656d9a;
+    font-size: 12px;
+    line-height: 1.4;
+}
+ul.wp-fonts-fields-list > li {
+    display: inline-block;
+    width: 33%;
+    position: relative;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 23px;
+    margin-bottom: 15px;
+}
+ul.wp-fonts-fields-list > li > input, ul.wp-fonts-fields-list > li > select {
+    width: 100%;
+    height: 38px;
+    border-color: #e1e1e166;
+    -webkit-box-shadow: 0 3px 16px rgba(142, 134, 171, .10);
+    box-shadow: 0 3px 16px rgba(142, 134, 171, .10);
+    border-radius: 8px;
+    padding: 0 20px;
+}
+ul.wp-fonts-fields-list > li > span.wp-font-abs-units {
+    right: 20px;
+    top: 45%;
+    line-height: 25px;
+    height: 28px;
+    padding: 0 5px;
+    background: #eee;
+}
+.wp-core-ui select {
+    border-color: #e1e1e1;
+    height: 38px;
+}
+.hirxpert-image-upload-field .img-place img.hirxpert-bg-img {
+    max-height: 100px;
+    margin: 10px 0;
+}
+ul.wp-border-list,
+ul.wp-dimensions-list,
+ul.link-colors-list,
+ul.wp-radio-image-list,
+ul.wp-width-height-list {
+    display: block;
+}
+.wp-border-list > li,
+.wp-dimensions-list > li,
+.link-colors-list > li,
+.wp-radio-image-list > li,
+.wp-width-height-list > li {
+    display: inline-block;
+    position: relative;
+	vertical-align: top;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+.wp-picker-container .wp-color-result.button {
+    padding: 0 0 0 28px;
+}
+.wp-border-list input.wp-border-field,
+.wp-dimensions-list input.wp-dimensions-field,
+.wp-width-height-list input.wp-wh-field {
+    width: 70px;
+    display: block;
+    padding-right: 0;
+    border-color: #e1e1e1;
+    height: 36px;
+    margin-bottom: 10px;
+    min-height: 36px;
+    font-size: 14px;
+}
+input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {
+    display: block;
+    opacity: 1;
+}
+.wp-fonts-fields input::-webkit-outer-spin-button, .wp-fonts-fields input::-webkit-inner-spin-button {
+    height: 42px;
+}
+input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {
+    height: 36px;
+}
+ul.wp-fonts-fields-list > li > input {
+    padding-right: 0;
+}
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+	opacity: 0; 
+}
+span.wp-border-info, span.wp-dimensions-info, span.wp-color-info, span.wp-radio-info, span.wp-wh-info {
+    color: #7f7c7c;
+    font-size: 11px;
+    margin-left: 0px;
+    text-align: center;
+    display: block;
+    line-height: 15px;
+    margin-top: 5px;
+    font-weight: bold;
+}
+ul.wp-radio-image-list {
+    margin-bottom: 0;
+}
+span.field-seperator {
+    display: block;
+    height: 1px;
+    border-top: solid 0px #e1e1e1;
+}
+span.field-seperator.seperator-before {
+	margin-bottom: 0px;
+}
+span.field-seperator.seperator-after {
+	margin-top: 0px;
+}
+.hirxpert-control.label-control .customize-control-description {
+    margin-bottom: 0;
+    display: none;
+}
+.hirxpert-image-upload-field .img-place img {
+    max-width: 30%;
+    background: #dbdbdb;
+    padding: 17px 20px;
+}
+/* Check Box Styles */
+ul.wp-multi-check-list {
+    list-style: none;
+    padding: 0;
+}
+ul.wp-multi-check-list li{
+	display: inline-block;
+    position: relative;
+	margin: 0 2px 2px 2px;
+}
+ul.wp-multi-check-list li label{
+    display: inline-block;
+    background-color: rgba(255, 255, 255, .9);
+    border: 2px solid rgba(139, 139, 139, .3);
+    color: #adadad;
+    border-radius: 6px;
+    white-space: nowrap;
+    margin: 3px 0px;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    transition: all .2s;
+}
+ul.wp-multi-check-list li label {
+    padding: 8px 12px;
+    cursor: pointer;
+}
+ul.wp-multi-check-list li input[type="checkbox"]:checked + label {
+    border: 2px solid #4361EE;
+    background-color: #4361EE;
+    color: #fff;
+    transition: all .2s;
+}
+ul.wp-multi-check-list li input[type="checkbox"] {
+	display: block;
+    width: 100%;
+    height: 40px;
+    top: 6px;
+}
+ul.wp-multi-check-list li input[type="checkbox"] {
+  position: absolute;
+  opacity: 0;
+}
+ul.wp-multi-check-list li input[type="checkbox"]:focus + label {
+  border: 2px solid #e9a1ff;
+}
+
+/* Radio Image Field */
+span.wp-radio-image-field {
+    display: block;
+    margin: 0 2px 2px;
+	position: relative;
+}
+ul.wp-radio-image-list li > input {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+	z-index: 1;
+}
+ul.wp-radio-image-list li input[type="radio"]:checked + span:after {
+    content: "\f15e";
+    position: absolute;
+    font-family: dashicons;
+    left: 0;
+    text-align: center;
+    right: 0;
+    margin: 0 auto;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 28px;
+}
+ul.wp-radio-image-list li input[type="radio"]:checked + span:before {
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    background: rgba(255,255,255,0.8);
+}
+ul.wp-width-height-list li > input {
+    display: block;
+}
+
+/* header */
+.hirxpert-tab div#header-general ul.wp-radio-image-list li img,
+.hirxpert-tab div#site-general-settings ul.wp-radio-image-list li img,
+.hirxpert-tab div#footer-general ul.wp-radio-image-list li img,
+.hirxpert-tab div#footer-insta ul.wp-radio-image-list li img,
+.hirxpert-tab div#footer-widgets ul.wp-radio-image-list li img,
+.hirxpert-tab div#copyright-section ul.wp-radio-image-list li img {
+    max-width: 120px;
+}
+
+/* Toggle Field */
+.hirxpert-switch {
+	position: relative;
+	display: inline-block;
+	width: 60px;
+	height: 34px;
+}
+.hirxpert-switch input {
+    opacity: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 4px;
+    z-index: 1;
+}
+.hirxpert-switch .slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+.hirxpert-switch .slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+.hirxpert-switch input:checked + .slider {
+  background-color: #4361ee;
+}
+.hirxpert-switch input:focus + .slider {
+  box-shadow: 0 0 1px #4361ee;
+}
+.hirxpert-switch input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+.hirxpert-switch .slider.round {
+  border-radius: 34px;
+}
+.hirxpert-switch .slider.round:before {
+  border-radius: 50%;
+}
+
+/* Drag and Drop Field */
+ul.hirxpert-dd-items {
+    display: block;
+    padding: 10px;
+    border: dashed 2px #e2e7f1;
+    background: #ffffff;
+	min-height: 75px;
+}
+ul.hirxpert-dd-items > li {
+    display: inline-block;
+    padding: 5px 16px;
+    margin: 5px;
+    background: #4361ee;
+    font-size: 12px;
+    color: #fff;
+    border-radius: 4px;
+    cursor: grab;
+}
+ul.hirxpert-dd-items > li.ui-sortable-helper {
+	cursor: grabbing;
+}
+.hirxpert-dd-items > li {
+    position: relative;
+}
+.hirxpert-dd-items .drag-drop-custom-value {
+    position: absolute;
+    left: 50%;
+    top: -100%;
+    transform: translateX(-50%);
+    opacity: 0;
+    visibility: hidden;
+}
+.hirxpert-dd-items .drag-drop-custom-value.active {
+    opacity: 1;
+    visibility: visible;
+}
+ul.hirxpert-dd-items > li > i {
+    display: block;
+    text-align: center;
+    margin: -16px;
+    padding: 20px;
+}
+.drag-drop-custom-value.active:after {
+    width: 0;
+    bottom: -4px;
+    left: 50%;
+    height: 0;
+    position: absolute;
+    content: "";
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-top: 6px solid #fff;
+    transform: translateX(-50%);
+}
+
+/* Background Field Styles */
+.wp-backgrounds-fields > * {
+    display: inline-block;
+    width: 30%;
+	margin-bottom: 10px;
+}
+.wp-backgrounds-fields > *.hirxpert-image-upload-field {
+    display: block;
+    width: 100%;
+}
+.hirxpert-control.label-control > label {
+    margin-bottom: 0;
+    font-size: 19px;
+}
+button.option-btn-fixed {
+    position: fixed;
+    top: 50px;
+}
+.hirxpert-image-upload-field .img-btn-controls > input {
+    padding: 8px 20px;
+    border: 0;
+    cursor: pointer;
+    border-radius: 4px;
+}
+input.wp-background-field.bg-upload-image-button {
+    background: #4361ee;
+    color: #fff;
+}
+/*Import/Export Styles*/
+textarea#customize-import-value-box {
+    width: 100%;
+}
+
+
+.tooltip {
+    border: 1px solid rgb(52 52 52 / 27%);
+    cursor: pointer;
+    position: relative;
+    background-color: #4361ee;
+    color: white;
+    font-weight: 500;
+    height: 25px;
+    display: inline-block;
+    width: 25px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 24px;
+    font-size: 14px;
+	    margin: 0;
+}
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 280px;
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    border-radius: 7px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 143%; 
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1;
+    font-size: 12px;
+    line-height: 21px;
+    opacity: 0;
+    transition: opacity 0.3s;
+    font-weight: 400;
+}
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+.tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #333 transparent transparent transparent;
+    transform: rotate(180deg);
+}
+.hirxpert-tab .tabcontent a.docs-tooltip:focus {
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
+.hirxpert-tab .tabcontent a.docs-tooltip {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.hirxpert-tab.vertical {
+    display: block;
+    overflow: hidden;
+}
+.hirxpert-tab-list.vertical {
+    float: left;
+    border-right: 1px solid #fff;
+    background-color: #fff;
+    width: 15%;
+    height: 600px;
+    padding-bottom: 50px;
+    position: absolute;
+}
+ul.tablinks-list.vertical {
+    position: relative;
+    overflow: hidden;
+	margin: 0;
+}
+.hirxpert-tab-list .tablinks-vertical > span {
+    display: block;
+    background-color: inherit;
+    color: black;
+    padding: 0;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 16px;
+    font-weight: bold;
+	margin-bottom: 0;
+}
+.hirxpert-tab-list.vertical .tablinks-vertical > span {
+    display: block;
+    padding: 11px 14px;
+}
+.hirxpert_page_zozo-t-options .hirxpert-tab-list.vertical .tablinks-vertical > span {
+    display: block;
+    padding: 6px 14px;
+}
+.hirxpert-tab-list.vertical .tablinks-vertical > span:hover {
+    background-color: #202020;
+    border-left: 3px solid #e7e7e7;
+    background: #1c0a7a;
+    background-image: -webkit-linear-gradient( -169deg, #1c0a7a 0%, #4a0788 100% );
+}
+.tablinks-list.vertical li.tablinks-vertical {
+    margin-bottom: 0;
+}
+ul.tablinks-list.vertical > li.tablinks-vertical > span {
+    background-color: #171717;
+    color: #f0f0f1;
+    font-size: 14px;
+    line-height: 18px;
+    border-left: 3px solid transparent;
+    font-weight: 400;
+}
+ul.tablinks-sub-list-vertical > li.tablinks-vertical > span {
+    background-color: #1c0a7a;
+    color: #fff;
+    font-size: 13px;
+    line-height: 18px;
+    border-left: 3px solid transparent;
+    font-weight: 400;
+}
+ul.tablinks-list.vertical > li.tablinks-vertical[data-id="cea-templates"] span.tab-title,
+ul.tablinks-list.vertical > li.tablinks-vertical[data-id="woocommerce-tab"] span.tab-title  {
+    padding: 10px 14px;
+}
+.tablinks-sub-list-vertical li.tablinks-vertical > .tab-title {
+    background: #272727;
+    padding: 9px 20px;
+}
+.tablinks-sub-list-vertical li.tablinks-vertical.active > .tab-title:after {
+    content: "\f141";
+    font-family: dashicons;
+    position: absolute;
+    right: -7px;
+    font-size: 20px;
+    z-index: 1;
+}
+ul.tablinks-list.vertical > li.tablinks-vertical {
+    height: 39px;
+    overflow: hidden;
+    transition: height ease 0.5s;
+}
+ul.tablinks-list.vertical > li.tablinks-vertical.active > span.tab-title {
+    background: #1c0a7a;
+    background-image: -webkit-linear-gradient( -169deg, #1c0a7a 0%, #4a0788 100% );
+}
+.tablinks-sub-list-vertical li.tablinks-vertical.active > .tab-title,
+.tablinks-sub-list-vertical li.tablinks-vertical > .tab-title:hover {
+    background: #323437;
+}
+ul.tablinks-list.vertical > li.tablinks-vertical.active {
+	height: auto;
+    transition: height ease 0.5s;
+}
+.hirxpert-tab.vertical .tabcontent {
+    float: left;
+    padding: 50px;
+    width: 75%;
+    border: solid 1px #f1f1f1;
+    min-height: 552px;
+}
+.hirxpert-tab.vertical .tab-hide {
+	display: none;
+}
+
+/* Drop Down */
+.hirxpert-support-dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.hirxpert-support-dropdown .support-title {
+    cursor: pointer;
+    display: inline-block;
+    margin: 0;
+    padding: 10px;
+}
+
+.hirxpert-support-dropdown .support-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 200px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.hirxpert-support-dropdown .support-content ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.hirxpert-support-dropdown .support-content ul li {
+    padding: 12px 16px;
+    text-decoration: none;
+}
+
+.hirxpert-support-dropdown .support-content ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+.hirxpert-support-dropdown .support-content ul li a:hover {
+   background-color: #ddd;
+}
+
+.dragdrop-editor-modal {
+    height: auto;
+    max-height: 500px;
+    position: fixed;
+    width: 665px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #ffffff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+    z-index: 9999;
+    overflow: auto;
+    border-radius: 10px;
+    border: 15px solid #fff;
+}
+.dragdrop-editor-modal .button {
+    margin-top: 20px;
+}
+.close-modal-button {
+    top: 0px;
+    right: 0px;
+    font-size: 28px;
+    cursor: pointer;
+    border: 1px solid transparent;
+    background-color: #e9e9e9;
+    color: #565050;
+    position: sticky;
+    float: right;
+    left: auto;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+	top: 3px;
+}
+.close-modal-button:hover{
+    background-color: rgb(240, 30, 30);
+    color: #fff;
+}
+
+a.theme-options {
+    border-style: double;
+}
+.edit-icon {
+    margin-top: -24px;
+    float: right;
+    font-size: 23px;
+    color: #4361ee;
+    margin-left: 5px;
+    cursor: pointer;
+}
+.toggle-container {
+    padding: 10px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    display: none;
+}
+.icon-modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 400px;
+    max-height: 500px;
+    overflow-y: auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+}
+
+.icon-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.icon-list i {
+    font-size: 24px;
+    cursor: pointer;
+}
+.close-modal {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 18px;
+    cursor: pointer;
+}
+span.label-popup-title {
+    display: block;
+    color: black;
+    margin: 10px 10px 10px 10px;
+    width: fit-content;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+}
+span.dashicons.dashicons-editor-help.theme-info {
+    text-decoration: none;
+    color: #fff;
+    background: #4361ee;
+    border-radius: 8px;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+}
+span.dashicons.dashicons-editor-help.theme-info:before {
+    font-size: 29px;
+    line-height: 50px;
+}
+.hirxpert-tab-contents {
+    position: relative;
+}
+.dragdrop-editor-modal .editor-fields {
+    padding: 0;
+    margin-bottom: 0px;
+}
+.dragdrop-editor-modal .title-editor-field h3 {
+    background: transparent;
+    border-bottom: 1px solid #eaeaea;
+    margin-bottom: 30px;
+	font-size: 17px;
+}
+.editor-fields .link-colors-wrap, .editor-fields .wp-backgrounds-wrap, .editor-fields .border-wrap , .editor-fields .wp-fonts-wrap, .editor-fields .link-colors-wrap, .editor-fields .multi-check-wrap, .editor-fields .radio-image-wrap, .editor-fields .dropdown-sidebars-wrap, .editor-fields .dropdown-pages-wrap, .editor-fields .checkbox_switch,.editor-fields .wp-drag-drop-wrap, .editor-fields .number-wrapper, .editor-fields .select-wrapper {
+    display: block;
+    gap: 40px;
+    align-content: center;
+    align-items: center;
+}
+
+.editor-fields .link-colors-wrap .title-description, .editor-fields .border-wrap .title-description, .editor-fields .number-wrapper .title-description, .editor-fields .select-wrapper .title-description, .editor-fields .wp-backgrounds-wrap .title-description{
+    width: 100%;
+}
+.editor-fields .wp-backgrounds-wrap .wp-backgrounds-inner {
+    width: 100%;
+}
+
+/* div.dragdrop-editor-modal[id^=modal-topbar_delimiter] 
+div.dragdrop-editor-modal[id^=modal-topbar_delimiter] .editor-fields .width-height-wrap,
+div.dragdrop-editor-modal[id^=modal-topbar_delimiter] .editor-fields .color-wrap,
+div.dragdrop-editor-modal[id^=modal-topbar_delimiter] .editor-fields .dimensions-wrap {
+    display: flex;
+    gap: 40px;
+    align-content: center;
+    align-items: center;
+}
+div.dragdrop-editor-modal[id^=modal-topbar_delimiter] .editor-fields .width-height-wrap .title-description,
+div.dragdrop-editor-modal[id^=modal-topbar_delimiter] .editor-fields .color-wrap .title-description,
+div.dragdrop-editor-modal[id^=modal-topbar_delimiter] .editor-fields .dimensions-wrap .title-description  {
+	width: 30%;
+}
+div.dragdrop-editor-modal[id^=modal-topbar_delimiter] .editor-fields .width-height-wrap .width-height-inner,
+div.dragdrop-editor-modal[id^=modal-topbar_delimiter] .editor-fields .color-wrap .color-control-wrap,
+div.dragdrop-editor-modal[id^=modal-topbar_delimiter] .editor-fields .dimensions-wrap .dimensions-inner  {
+	width: 70%;
+}
+*/
+
+.editor-fields span.description.customize-control-description {
+    margin-bottom: 0;
+}
+.dragdrop-editor-modal .editor-fields span.description.customize-control-description {
+    margin-bottom: 20px;
+}
+button.button.save-dragdrop-item {
+    width: 100%;
+    float: right;
+    border-color: transparent !important;
+    background: #4361EE !important;
+    height: 44px;
+    box-shadow: none !important;
+    outline: 0 !important;
+    color: #fff !important;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 4px;
+	position: sticky;
+    bottom: 0;
+    top: auto;
+}
+button.button.save-modal-item {
+    width: 100%;
+    height: 46px;
+    color: #fff;
+    border-color: #4361ee;
+    background: #4361ee;
+    border: 0;
+    border-radius: 4px;
+    position: sticky;
+    bottom: 0;
+    top: auto;
+}
+button.button.save-modal-item:hover,
+button.button.save-dragdrop-item:hover {
+    background: #0e1726;
+    color: #fff;
+}
+.customize-imports-wrap .button.button-primary,
+.customize-exports-wrap .button.button-primary {
+    border-radius: 4px;
+    background-color: #4361ee;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    transition: all 300ms ease-in-out;
+    padding: 0 20px;
+    border: 0;
+}
+.title-editor-field h3 {
+    text-align: center;
+    color: #000000;
+    padding: 15px;
+    border: 2px solid transparent;
+    background-color: #F6F8FA;
+    margin-top: 0;
+}
+
+.label-popup-title {
+    text-align: center;
+    color: #000000;
+    padding: 15px;
+    border: 2px solid transparent;
+    background-color: #f4f6f9;
+    margin-top: 0;
+    font-weight: bold;
+    font-size: 18px;
+}
+.dragdrop-editor-modal .label-popup-title {
+    background: transparent;
+    margin-bottom: 30px;
+    border-bottom: 1px solid #eaeaea;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+div#wpwrap.overlay-active:before {
+    content: "";
+    background: rgb(255 255 255 / 90%);
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 99;
+}
+
+div#wpwrap.overlay-active {
+    overflow-y: hidden;
+    height: 100vh;
+}
+
+.disabled ul.hirxpert-dd-items > li {
+    border: 1px solid #4361ee;
+    background: rgb(28 10 122 / 0%);
+    color: #4361ee;
+}
+ul.hirxpert-dd-items > li{
+    border: 1px solid #4361ee;
+}
+ul.hirxpert-dd-items > li.is-editable:hover {
+    color: #4361ee;
+}
+ul.hirxpert-dd-items > li.is-editable:before {
+    content: "✎";
+    display: none;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: #fff;
+    text-align: center;
+    border-radius: 4px;
+    line-height: 39px;
+	-webkit-transition: opacity 1.2s ease;
+    -moz-transition: opacity 1.2s ease;
+    -ms-transition: opacity 1.2s ease;
+    -o-transition: opacity 1.2s ease;
+    transition: opacity 1.2s ease-out;
+}
+ul.hirxpert-dd-items > li.is-editable:hover:before {
+    display: block;
+    opacity: 1;
+    -webkit-transition: opacity 1.2s ease;
+    -moz-transition: opacity 1.2s ease;
+    -ms-transition: opacity 1.2s ease;
+    -o-transition: opacity 1.2s ease;
+    transition: opacity 1.2s ease-out;
+}
+
+/* Width field */
+.width-height-inner {
+    margin-top: 10px;
+}
+
+
+/* Drag and drop editor */
+.hirxpert-dd-items .editable-item {
+    position: relative;
+}
+
+.hirxpert-dd-items .editable-item .edit-icon {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    display: none;
+    cursor: pointer;
+}
+
+.hirxpert-dd-items .editable-item:hover .edit-icon {
+    display: inline;
+}
+
+.hirxpert-dd-items .non-editable-item {
+    opacity: 0.5;
+    pointer-events: none;
+}
+.hirxpert-header-left .nav-theme-options a span.dashicons {
+    line-height: 15px !important;
+    vertical-align: middle !important;
+    width: auto;
+    height: auto;
+    margin-right: 8px;
+    color: #7C8189;
+}
+.hirxpert-header-left .nav-theme-options a {
+    padding: 4px 15px;
+    display: inline-flex;
+    text-decoration: none;
+    border-radius: .5rem;
+    color: #0e1726;
+    line-height: 3px;
+    font-weight: 400;
+    transition: color 0.2s cubic-bezier(0.21, 0.6, 0.35, 1);
+    font-size: 15px;
+    border: none;
+    align-items: center;
+	box-shadow: none;
+}
+
+.hirxpert-header-left .nav-theme-options a:hover,
+.hirxpert-header-left .nav-theme-options a.active-page {
+    background: #f4f6f9;
+}
+i.fa.fa-caret-square-o-left {
+    padding-right: 10px;
+}
+.nav-theme-options {
+    padding-left: 30px;
+}
+
+
+/* Basic styling for the marquee container */
+.hirxpert-marquee {
+    overflow: hidden;
+    white-space: nowrap;
+    display: inline-block;
+}
+
+.hirxpert-marquee i {
+    padding: 0 5px;
+}
+
+.dd-item.editable-item {
+    background-color: #f0f9ff;
+    border: 1px solid #0073aa;
+}
+
+.editable-icon {
+    cursor: pointer;
+    color: #0073aa;
+    margin-left: 5px;
+}
+.editable-icon:hover {
+    color: #005177;
+}
+
+/* Theme Options Reponsive  */
+/* outer */
+
+@media only screen and (max-width: 1024px) {
+	.hirxpert-settings-wrap {
+		padding: 0;
+		margin: 0 0;
+	}
+	.hirxpert-tab {
+		padding: 15px;
+	}
+	.hirxpert-tab-list {
+		width: 30%;
+	}
+	.hirxpert-tab .tabcontent {
+		float: left;
+		padding: 0 20px;
+		width: 70%;
+	}
+	.hirxpert-header-bar {
+		display: flex;
+		flex-wrap: wrap;
+		flex-direction: row;
+		padding: 15px 20px;
+	}
+	.hirxpert-tab .customize-control-title {
+		font-size: 17px;
+		margin-bottom: 6px;
+		line-height: 1.4;
+	}
+	.hirxpert-tab .customize-control-description {		
+		font-size: 13px;
+		line-height: 1.5;
+	}
+	.hirxpert-header-right {
+		text-align: left;
+		z-index: 9;
+	}
+	.hirxpert-settings-wrap .hirxpert-header-left {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		gap: 15px;
+	}
+    .hirxpert-header-left > * {
+        flex: 0 1 calc(10% - 10px);
+    }
+	.hirxpert-header-left > *.title {
+		flex: 0 1 calc(90% - 10px);
+	}
+	.hirxpert-header-left > .nav-theme-options {
+		flex: 1 1 100%;
+		margin-bottom: 20px;
+	}
+	.hirxpert-header-bar .hirxpert-admin-logo-inline img {
+		width: 40px;
+	}
+    .hirxpert-header-bar .hirxpert-admin-logo-inline {
+        width: 50px;
+        text-align: left;
+    }
+	.hirxpert-db-footer {
+		margin: 0;
+	}
+	.nav-theme-options {
+		padding-left: 0;
+	}
+	button.option-btn-fixed {
+		position: relative;
+		top: 0;
+	}
+	ul.wp-fonts-fields-list > li {
+		display: inline-block;
+		width: 49%;
+	}
+	.tablinks-sub-list li.tablinks > .tab-title {
+		background: #0e1726;
+		padding: 12px 10px;
+	}
+	ul.hirxpert-dd-items > li {		
+		padding: 2px 10px;
+		font-size: 11px;
+	}
+	.meta-drag-drop-multi-field-header-items > div {
+		width: 49.33%;
+		padding: 0px 15px;
+	}
+	.hirxpert-image-upload-field .img-btn-controls > input {
+		padding: 5px 15px;
+		cursor: pointer;
+		font-size: 14px;
+	}
+	ul.wp-multi-check-list li label {
+		font-size: 11px;
+		padding: 2px 11px;
+	}
+	.hirxpert-control {
+		padding: 20px 0;
+	}
+	.meta-drag-drop-multi-field-header-items ul.hirxpert-dd-items {		
+		min-height: 68px;
+	}
+    .meta-drag-drop-multi-field-header-items h4 {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+}
+@media only screen and (max-width: 768px) {
+	ul.tablinks-list > li.tablinks > span, .hirxpert-navigation-buttons .hirxpert-btn {		
+		font-size: 13px;
+	}	
+	.hirxpert-tab-list ul.tablinks-list {		
+		padding: 6px;		
+	}
+	.hirxpert_page_hirxpert-options .hirxpert-tab-list .tablinks > span,
+ul.tablinks-list > li.tablinks[data-id="cea-templates"] span.tab-title,
+ul.tablinks-list > li.tablinks[data-id="woocommerce-tab"] span.tab-title{		
+		padding: 12px 8px;
+	}
+	form#hirxpert-plugin-form-wrapper {    
+		margin: 0;
+	}
+	.hirxpert-control.label-control {
+		padding: 9px 18px;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	form#hirxpert-plugin-form-wrapper {
+		margin: 0;
+		padding: 0;
+	}
+	.hirxpert-settings-wrap {
+		padding: 0;
+		background: #F7F9FB;
+		margin: 0;
+	}
+    .hirxpert-header-bar {
+        display: block;
+        padding: 10px;
+    }
+    .hirxpert-settings-wrap .hirxpert-header-right {
+        display: block;
+        margin-top: 0;
+    }
+	.hirxpert-tab {
+		padding: 0px;
+	}
+	.hirxpert-tab .tabcontent {
+		width: 70%;
+		padding: 15px 15px;
+	}
+	.hirxpert-tab-list {		
+		width: 30%;
+	}
+	.meta-drag-drop-multi-field-header-items > div {
+		width: 100%;
+	}
+	.hirxpert-tab-list ul.tablinks-list {		
+		padding: 5px;
+	}
+	.hirxpert-navigation-buttons .hirxpert-btn {
+        padding: 6px 3px;
+        font-size: 9px;
+        min-height: auto;
+        background: transparent;
+        color: #bfc9d4;
+        text-decoration: underline;
+        text-decoration-color: #4361ee;
+        text-decoration-thickness: 2px;
+    }
+	ul.tablinks-list > li.tablinks[data-id="cea-templates"] span.tab-title,
+	ul.tablinks-list > li.tablinks[data-id="woocommerce-tab"] span.tab-title {
+		padding: 6px 3px;
+	}
+	.hirxpert-header-bar.zhf-bar {
+		display: block;
+		-webkit-box-pack: start;
+		-ms-flex-pack: start;
+		justify-content: start;
+		-webkit-box-align: inherit;
+	  background-image: none;
+	  padding: 20px 20px;
+	}
+	.hirxpert-control {
+		padding: 12px 0;
+		border-bottom: 1px solid #efefef;
+	}
+	.hirxpert-image-upload-field .img-btn-controls > input {
+		padding: 4px 10px;
+		font-size: 10px;
+	}
+	.hirxpert-header-right {
+    	text-align: left;
+		z-index: 1;
+	}
+	.zhf-bar .hirxpert-admin-logo-inline {
+    	margin-left: 0;
+	}
+	.hirxpert-tab {
+    	display: block;
+    	overflow: hidden;
+    	padding: 0 5px;
+	}
+	.hirxpert_page_hirxpert-options .hirxpert-tab-list .tablinks > span {
+        padding: 6px 3px;
+        font-size: 10px;
+    }
+	ul.tablinks-list > li.tablinks.active > span.tab-title {
+		padding: 6px 8px;
+	}
+	.hirxpert-header-bar .title {    	
+    	line-height: 1.8;
+	}
+	ul.wp-fonts-fields-list > li {
+		width: 100%;
+	}
+	.wp-border-list > li, .wp-dimensions-list > li, .link-colors-list > li, .wp-radio-image-list > li, .wp-width-height-list > li {    
+    	margin-bottom: 10px;
+	}
+	.wp-backgrounds-fields > * {    	
+    	width: 100%;
+	}
+	.img-btn-controls > input {
+    	margin-bottom: 10px;
+	}
+	.hirxpert-control input[type=text],
+	.hirxpert-customizer-textarea-field{
+    	width: 100%;
+	}
+    .hirxpert-tab .customize-control-description {
+        line-height: 19px;
+        font-size: 12px;
+    }
+	.hirxpert-tab .customize-control-title {
+    	font-size: 13px;
+    	line-height: 28px;
+	}
+	ul.wp-fonts-fields-list > li > select {
+    	font-size: 13px;
+    	line-height: 26px;
+	}
+	.hirxpert-image-upload-field .img-place img {
+		max-width:100%;
+		padding: 9px 10px;
+	}
+	ul.tablinks-list > li.tablinks.active ul.tablinks-sub-list span.tab-title {
+        padding: 8px 7px;
+        line-height: 15px;
+        font-size: 9px;
+        border-bottom: 1px solid #58585866;
+    }
+	#site-typo-settings .hirxpert-control label.customize-control-title, #heading-typo-settings .hirxpert-control label.customize-control-title, #heading-mobile-typo-settings .hirxpert-control label.customize-control-title, #header-typo-settings .hirxpert-control label.customize-control-title, #footer-typo-settings .hirxpert-control label.customize-control-title, #performance-general-tab .hirxpert-control label.customize-control-title {		
+		padding: 10px 15px;
+		margin-bottom: 15px;
+		border-radius: 0.4rem;
+	}
+	ul.tablinks-list > li.tablinks > span.tab-title:before,
+	.hirxpert-navigation-buttons a.button.hirxpert-btn i,
+   ul.tablinks-list > li.tablinks[data-id="cea-templates"] > span.tab-title:before	{
+		display: none;
+	} 
+	ul.tablinks-list > li.tablinks {
+		height: 31px;
+	}
+	.hirxpert-navigation-buttons a.button.hirxpert-btn i {
+		display: none;
+	}
+	span.dashicons.dashicons-editor-help.theme-info {
+		text-decoration: none;
+		color: #fff;
+		background: #4361ee;
+		border-radius: 8px;
+		width: 38px;
+		height: 38px;
+		line-height: 38px;
+	}
+	span.dashicons.dashicons-editor-help.theme-info:before {
+		font-size: 22px;
+		line-height: 38px;
+	}
+	.hirxpert-control.label-control {
+    	padding: 7px 6px;    
+	}
+	.hirxpert-control select {
+        min-height: 36px;
+        font-size: 12px;
+        line-height: 1.625;
+        padding: 5px 24px 5px 8px;
+    }
+	.hirxpert-control.label-control label.customize-control-title {
+		font-size: 14px;
+		line-height: 25px;
+	}
+	.hirxpert-db-footer-top nav.hirxpert-db-footer-menu {
+		display: grid;
+		gap: 11px;
+	}
+	.dragdrop-editor-modal {
+		height: auto;
+		max-height: 430px;
+		width: 320px;
+	}
+	.editor-fields .wp-backgrounds-inner .wp-backgrounds-fields > * {
+		width: 99%;
+	}
+	.dragdrop-editor-modal .customize-control-description {		
+		font-size: 13px;
+	}
+	.hirxpert-header-left .nav-theme-options a {
+		display: inline-flex;
+        width: 50%;
+        margin-right: 0;
+        gap: 0;
+        line-height: 20px;
+        font-size: 14px;
+        padding: 3px 10px;
+        min-width: 50%;
+        margin-bottom: 13px;
+	}
+	.hirxpert-header-left > .nav-theme-options .support-dropdown {
+		width: 48%;
+	}
+	.hirxpert-header-left .nav-theme-options > div a.dropdown-toggle {
+		width: 100%;
+		margin: 0;
+		font-size: 13px;
+		margin-bottom: 13px;
+	}
+	button.option-btn-fixed {
+		position: static;
+		top: 0;
+	}
+	.edit-icon {
+		position: relative;
+		float: right;
+		right: 10px;
+	}
+	.disabled ul.hirxpert-dd-items > li, ul.hirxpert-dd-items > li {
+		padding: 1px 7px;
+		font-size: 11px;
+		line-height: 22px;
+	}
+	.meta-drag-drop-multi-field-header-items ul.hirxpert-dd-items {
+		padding: 6px 10px;
+		min-height: 54px;
+	}
+	body.hirxpert_page_hirxpert-options div#wpcontent {
+		padding-left: 0;
+	}
+	.hirxpert-header-left > *.title {
+        flex: 0 1 calc(80% - 10px);
+    }
+}
+
+/* Fields */
+/* Left area */
+/* Right area */

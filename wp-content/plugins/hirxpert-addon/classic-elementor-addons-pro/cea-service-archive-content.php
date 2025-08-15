@@ -1,0 +1,88 @@
+<?php
+// Service Archive Content Template
+
+$q_object = get_queried_object();
+$term_name = $taxonomy = '';
+if( isset($q_object->term_id) ) $term_id = $q_object->term_id;
+if( isset($q_object->name) ) $term_name = $q_object->name;
+if( isset($q_object->taxonomy) ) $taxonomy = $q_object->taxonomy;
+
+$t = new CEACPTElements();
+$gutter = $cols = $infinite = $isotope = $extra_class = '';
+$extra_class = 'masonry-layout';
+
+// Archive Layout Grid Settings
+$cols = $t->ceaGetThemeOpt( 'service-grid-cols' );
+$gutter = $t->ceaGetThemeOpt( 'service-grid-gutter' );
+$isotope = $t->ceaGetThemeOpt( 'service-grid-type' );
+$extra_class .= $t->ceaGetThemeOpt( 'service-grid-type' ) == 'normal' ? ' grid-normal' : '';
+
+$article_class = $isotope == 'isotope' ? ' isotope-item' : '';
+
+?>
+	<div class="content-area">
+		<div class="site-main archive-template cea-archive-template <?php echo esc_attr( $extra_class ); ?>" role="main" data-cols="<?php echo esc_attr( $cols ); ?>" data-gutter="<?php echo esc_attr( $gutter ); ?>">
+						
+			<?php
+			$args = array(
+				'post_type' => 'cea-service',
+				'tax_query' => array(
+					array(
+					'taxonomy' => $taxonomy,
+					'field' => 'term_id',
+					'terms' => $term_id)
+				)				
+			);
+			$query = new WP_Query( $args );
+	
+			if ( $query->have_posts() ) {			
+				$chk = $isotope_stat = 1;
+				// Start the Loop
+				while ( $query->have_posts() ) : $query->the_post();
+			
+					if( $isotope == 'isotope' && $isotope_stat == 1 ) : $isotope_stat = 0; ?>
+						<div class="isotope" data-cols="<?php echo esc_attr( $cols ); ?>" data-gutter="<?php echo esc_attr( $gutter ); ?>" data-infinite="<?php echo esc_attr( $infinite ); ?>"><?php
+					endif;
+					
+					if( $chk == 1 && $isotope == 'normal' ) : echo '<div class="grid-parent clearfix">';  endif; ?>
+					
+					<article id="post-<?php the_ID(); ?>" <?php post_class( 'post cea-service' . $article_class ); ?>>
+						<div class="service-archive">
+							<a href="<?php the_permalink(); ?>"><?php the_post_thumbnail( 'medium', array( 'class' => 'img-fluid' ) ); ?></a>
+							<div class="service-archive-title">
+								<?php 
+									$custom_url = get_post_meta( get_the_ID(), 'cea_portfolio_custom_url', true );
+									$target = get_post_meta( get_the_ID(), 'cea_portfolio_custom_url_target', true );
+									$title_url = $custom_url != '' ? $custom_url : get_the_permalink();
+								?>
+								<h4><a href="<?php echo esc_url( $title_url ); ?>" target="<?php echo esc_attr( $target ); ?>"><?php the_title(); ?></a></h4>
+							</div>
+						</div>
+					</article><!-- #post-## -->
+					<?php
+					if( $chk == $cols && $isotope == 'normal' ) : echo '</div><!-- .grid-parent -->'; $chk = 0; endif;
+					
+					$chk++;
+					
+					?>
+				 
+				<?php endwhile;
+				
+				if( $isotope == 'isotope' ) : $isotope_stat = 0; ?>
+					</div><!-- .isotope --><?php
+				endif;
+
+				if( $chk != 1 && $isotope == 'normal' ) : echo '</div><!-- .grid-parent -->'; endif;
+					 
+			} // end of check for query having posts
+				 
+			// use reset postdata to restore orginal query
+			wp_reset_postdata();
+?>
+		</div>
+	</div>
+<?php
+
+wp_enqueue_script( 'imagesloaded' );
+wp_enqueue_script( 'infinite-scroll' );
+wp_enqueue_script( 'isotope' );

@@ -1,0 +1,16 @@
+.cea-data-table-elementor-widget th.cea-table-edit-column,
+.cea-data-table-elementor-widget td.cea-table-edit-column {
+    padding: 0;
+}
+.cea-data-table-elementor-widget td.cea-table-edit-column {
+	position: relative;
+}
+.cea-data-table-elementor-widget th.cea-table-edit-column textarea,
+.cea-data-table-elementor-widget td.cea-table-edit-column textarea {
+    width: 100%;
+    margin-bottom: -10px;
+    height: 100%;
+    padding: 0;
+    border: none;
+    display: block;
+}

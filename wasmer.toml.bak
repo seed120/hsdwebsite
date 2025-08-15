@@ -1,0 +1,24 @@
+[package]
+name = "jqsafi/wordpress"
+version = "0.1.0"
+description = "A WordPress application deployed on Wasmer"
+license = "MIT"
+
+[dependencies]
+php = "8.2"
+
+[command]
+name = "serve"
+command = "php -S 0.0.0.0:8000 -t ." # This serves files from the current directory
+runner = "wasmer/php"
+
+[fs]
+# Mount the current project directory into the Wasmer environment
+"/app" = "."
+
+[env]
+# IMPORTANT: Replace these with your actual external MySQL database credentials
+WORDPRESS_DB_HOST = "db.us-losa1.bengt.wasmernet.com:16751"
+WORDPRESS_DB_USER = "f1dfc7cf76d48000c2663701dfa9"
+WORDPRESS_DB_PASSWORD = "0689f1df-c7cf-7b55-8000-dfb35b845bc1"
+WORDPRESS_DB_NAME = "dbiMnwaoxBiFCmgFw78ZkiST"

@@ -1,0 +1,16 @@
+/*
+ * Hirxpert Megamenu Admin Nav Walker Styles
+ */
+ .hirxpert-megamenu-wrap,
+ .hirxpert-megamenu-col-wrap,
+ .hirxpert-megamenu-widget-wrap {
+	 display: none;
+ }
+.menu-depth-0 .hirxpert-megamenu-wrap,
+.menu-depth-1.megamenu-actived .hirxpert-megamenu-col-wrap,
+.menu-depth-2.megamenu-actived .hirxpert-megamenu-widget-wrap {
+	display: inline-block;
+}
+.hirxpert-menu-icons {
+    font-family: themify;
+}

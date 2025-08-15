@@ -1,0 +1,307 @@
+<wpml-config>	
+	<elementor-widgets>
+		<widget name="ceaaccordion">
+		  <fields-in-item items_of="accordion_list">
+			<field type="Accordion: Title" editor_type="LINE">cea_accordion_title</field>
+			<field type="Accordion: Content" editor_type="VISUAL">cea_accordion_content</field>
+		  </fields-in-item>
+		</widget>
+		
+		<widget name="ceaanimatedtext">                 
+			<conditions>
+                <condition key="widgetType">ceaanimatedtext</condition>
+            </conditions>        
+			<fields>
+                <field type="Animated Text: Pre Text" editor_type="LINE">pre_title</field>
+				<field type="Animated Text: Suffix Text" editor_type="LINE">post_title</field>
+            </fields>
+			<fields-in-item items_of="ani_text_list">
+                <field type="Animated Text: Animated Text" editor_type="LINE">ani_text</field>	
+            </fields-in-item>
+        </widget>
+		<widget name="ceablog">                    
+			<conditions>
+                <condition key="widgetType">ceablog</condition>
+            </conditions>        
+			<fields>
+				<field type="Blog : Read More Text" editor_type="LINE">more_text</field>				
+            </fields>
+		</widget>
+		<widget name="ceabloglayouts">                  
+			<conditions>
+                <condition key="widgetType">ceabloglayouts</condition>
+            </conditions>        
+			<fields>
+				<field type="Blog Layouts : Read More Text" editor_type="LINE">more_text</field>				
+            </fields>
+        </widget>   
+		<widget name="Button">                    
+			<conditions>
+                <condition key="widgetType">ceabutton</condition>
+            </conditions>        
+			<fields>
+				<field type="Button:Text" editor_type="LINE">button_text</field>
+                <field type="Button: URL" editor_type="LINE" key_of="button_link">url</field>				
+            </fields>
+		</widget>		
+    		<widget name="ceachart">                   
+			<conditions>
+                <condition key="widgetType">ceachart</condition>
+            </conditions>      
+						<fields-in-item items_of="chart_labels">
+                <field type="Chart : Title" editor_type="LINE">chart_labels</field>		
+            </fields-in-item>
+        </widget>
+		<widget name="ceacircleprogress">                       
+			<conditions>
+                <condition key="widgetType">ceacircleprogress</condition>
+            </conditions>     
+			<fields>
+                <field type="Circle Progress: Title" editor_type="LINE">title</field>
+				<field type="Circle Progress: content" editor_type="LINE">content</field>	
+            </fields>
+        </widget>
+		<widget name="contactinfo">        
+			<fields>
+                <field type="Contact Info: Title" editor_type="LINE">title</field>
+				<field type="Contact Info: Info" editor_type="LINE">contact_info</field>	
+				<field type="Contact Info: Address" editor_type="LINE">contact_address</field>
+				<field type="Contact Info: Email" editor_type="LINE">contact_email</field>
+				<field type="Contact Info: Phone" editor_type="LINE">contact_number</field>				
+				<field type="Contact Info: Time" editor_type="LINE">contact_timing</field>
+            </fields>
+        </widget>
+		<widget name="ceacounter">                       
+			<conditions>
+                <condition key="widgetType">ceacounter</condition>
+            </conditions>      
+			<fields>
+                <field type="Counter: Title" editor_type="LINE">title</field>
+				<field type="Counter: content" editor_type="LINE">content</field>	
+            </fields>
+        </widget>
+		<widget name="ceadatatable">                          
+			<conditions>
+                <condition key="widgetType">ceadatatable</condition>
+            </conditions>       
+			<fields>
+                <field type="Datatable: Title" editor_type="LINE">table_search_placeholder</field>
+            </fields>
+        </widget>
+		<widget name="ceadaycounter">                        
+			<conditions>
+                <condition key="widgetType">ceadaycounter</condition>
+            </conditions>         
+			<fields>
+                <field type="Day Counter: Day" editor_type="LINE">day_label</field>				
+				<field type="Day Counter: Hours" editor_type="LINE">hour_label</field>					
+				<field type="Day Counter: Minutes" editor_type="LINE">min_label</field>					
+				<field type="Day Counter: Seconds" editor_type="LINE">sec_label</field>					
+				<field type="Day Counter: Week" editor_type="LINE">week_label</field>	
+            </fields>
+        </widget>
+        <widget name="ceafeaturebox">                          
+			<conditions>
+                <condition key="widgetType">ceafeaturebox</condition>
+            </conditions>      
+			<fields>
+                <field type="Featurebox: Title" editor_type="LINE">title</field>
+				<field type="Featurebox: Number" editor_type="LINE">fbox_number</field>
+				<field type="Featurebox: Content" editor_type="LINE">content</field>				
+				<field type="Featurebox: Button Text" editor_type="LINE">button_text</field>
+                <field type="Featurebox: Button URL" editor_type="LINE" key_of="button_link">url</field>
+            </fields>
+        </widget>	
+		<widget name="ceaflipbox">                          
+			<conditions>
+                <condition key="widgetType">ceaflipbox</condition>
+            </conditions>         
+			<fields>
+                <field type="Flipbox: Front Title" editor_type="LINE">primary_title</field>	
+				<field type="Flipbox: Secondary Title" editor_type="LINE">secondary_title</field>					
+				<field type="Flipbox: Front Button Text" editor_type="LINE">button_text</field>
+				<field type="Flipbox: Back Button Text" editor_type="LINE">button_back_text</field>
+				<field type="Flipbox: Button URL" editor_type="LINE" key_of="button_link">url</field>
+				<field type="Flipbox: Front Content" editor_type="LINE">primary_content</field>	
+				<field type="Flipbox: Secondary Content" editor_type="LINE">secondary_content</field>	
+				
+            </fields>
+        </widget>
+		<widget name="cea-icon">			
+		<conditions>
+                <condition key="widgetType">cea-icon</condition>
+            </conditions>  
+      <fields>
+				<field type="Icon List: Icon URL" editor_type="LINE" key_of="link">url</field>
+      </fields>
+		</widget>
+		<widget name="ceaiconlist">		
+			<conditions>
+                <condition key="widgetType">ceaiconlist</condition>
+            </conditions>  
+			<fields-in-item items_of="icon_list">
+				<field type="Icon List: text" editor_type="LINE">list_text</field>
+				<field type="Icon List: Icon URL" editor_type="LINE" key_of="icon_list_link">url</field>
+			</fields-in-item>
+		</widget>
+		<widget name="ceamodalpopup">
+			<fields>
+				<field>button_text</field>
+				<field>popup_text</field>
+				<field>modal_content</field>
+			</fields>
+		</widget>
+		<widget name="ceaoffcanvas">			
+			<conditions>
+                <condition key="widgetType">ceaoffcanvas</condition>
+            </conditions>  
+		  <fields>
+				<field type="Off Canvas	: Content" editor_type="VISUAL">cea_offcanvas_content</field>
+				<field type="Off Canvas : Button Text" editor_type="LINE">button_text</field>
+				<field type="Off Canvas	: Popover Text" editor_type="LINE">offcanvas_text</field>
+				
+		  </fields>
+        </widget>
+		<widget name="ceapricingtable">
+			<conditions>
+                <condition key="widgetType">ceapricingtable</condition>
+            </conditions>          
+			<fields>
+                <field type="Pricing Table : Title" editor_type="LINE">title</field>
+				<field type="Pricing Table : Price Before" editor_type="LINE">price_before</field>
+				<field type="Pricing Table : Price" editor_type="LINE">price</field>
+				<field type="Pricing Table : Price After" editor_type="LINE">price_after</field>	
+				<field type="Pricing Table : Content" editor_type="LINE">pricing_content</field>
+				<field type="Pricing Table : Button Text" editor_type="LINE">button_text</field>
+				<field type="Pricing Table : Button URL" editor_type="LINE" key_of="button_link">url</field>
+				<field type="Pricing Table : Ribbon Text" editor_type="LINE">ribbon_text</field>				
+            </fields>
+			<fields-in-item items_of="pricing_titles">
+				<field type="Pricing Table: feature" editor_type="LINE">title</field>
+			</fields-in-item>
+        </widget>
+		<widget name="ceapopupanything">     
+			<conditions>
+                <condition key="widgetType">ceapopupanything</condition>
+            </conditions>        
+			<fields>
+				<field type="Popup : Popup Url" editor_type="LINE">popup_url</field>
+                <field type="Popup : Button Text" editor_type="LINE">button_text</field>
+				<field type="Popup : Popup Text" editor_type="LINE">popup_text</field>					
+            </fields>
+        </widget>
+		<widget name="ceapopover">
+			<fields>
+				<field>button_text</field>
+				<field>popover_text</field>
+				<field>popover_content</field>
+			</fields>
+		</widget>	
+		<widget name="Section Title">      
+			<conditions>
+                <condition key="widgetType">ceasectiontitle</condition>
+            </conditions>      
+            <fields>
+                <field type="Title: Title" editor_type="LINE">title</field>
+				<field type="Title: Prefix" editor_type="LINE">title_prefix</field>
+				<field type="Title: Suffix" editor_type="LINE">title_suffix</field>
+				<field type="Title: Subtitle" editor_type="LINE">sub_title</field>
+				<field type="Title: Lead" editor_type="LINE">lead_text</field>
+				<field type="Title: Content" editor_type="LINE">sec_tit_content</field>
+				<field type="Title: Button Text" editor_type="LINE">button_text</field>
+				<field type="Title : Button URL" editor_type="LINE" key_of="button_link">url</field>
+            </fields>
+        </widget>		
+		<widget name="ceasociallinks">     
+			<conditions>
+                <condition key="widgetType">ceasociallinks</condition>
+            </conditions>  
+			<fields-in-item items_of="social_icon">
+				<field type="Social : Icon URL" editor_type="LINE" key_of="link">url</field>
+			</fields-in-item>
+        </widget>
+		<widget name="ceaswitchercontent">  
+			<conditions>
+                <condition key="widgetType">ceaswitchercontent</condition>
+            </conditions>  
+      <fields>
+			<field type="Switcher: Title" editor_type="LINE">primary_switcher_title</field>
+			<field type="Switcher : Content" editor_type="VISUAL">primary_switcher_content</field>
+			<field type="Switcher: Secondary Title" editor_type="LINE">secondary_switcher_title</field>
+			<field type="Switcher : Secondary Content" editor_type="VISUAL">secondary_switcher_content</field>
+      </fields>
+        </widget>
+		<widget name="ceatimeline">
+			<fields-in-item items_of="timeline_settings">
+				<field>timeline_title</field>
+				<field>tl_content</field>
+				<field>separator_subtitle</field>
+				<field>separator_title</field>
+			</fields-in-item>
+		</widget>
+		<widget name="ceatimelineslide">  
+			<fields-in-item items_of="timeline_settings">
+                <field>timeline_separator</field>
+                <field>timeline_title</field>
+				<field>timeline_subtitle</field>	
+				<field>tl_content</field>
+			</fields-in-item>
+        </widget>
+		<widget name="ceaportfolio">   
+			<conditions>
+                <condition key="widgetType">ceaportfolio</condition>
+            </conditions>         
+			<fields>
+				<field type="Portfolio : Read More Text" editor_type="LINE">more_text</field>				
+            </fields>
+        </widget>
+		<widget name="ceateam">      
+			<conditions>
+                <condition key="widgetType">ceateam</condition>
+            </conditions>        
+			<fields>
+                <field type="Team : Read More Text" editor_type="LINE">more_text</field>				
+            </fields>
+        </widget>
+		<widget name="ceaevent">        
+			<conditions>
+                <condition key="widgetType">ceaevent</condition>
+            </conditions>        
+			<fields>
+                <field type="Event : Read More Text" editor_type="LINE">more_text</field>		
+            </fields>
+        </widget>
+		<widget name="ceaservice">        
+			<conditions>
+                <condition key="widgetType">ceaservice</condition>
+            </conditions>        
+			<fields>
+                <field type="Service : Read More Text" editor_type="LINE">more_text</field>		
+            </fields>
+        </widget>
+		<widget name="ceatestimonial">      
+			<conditions>
+                <condition key="widgetType">ceatestimonial</condition>
+            </conditions>          
+			<fields>
+                <field type="Testimonials : ReadMore Text" editor_type="LINE">more_text</field>				
+            </fields>
+        </widget>
+		<widget name="togglecontent">      
+			<conditions>
+                <condition key="widgetType">togglecontent</condition>
+            </conditions>       
+			<fields>
+                <field type="Toggle content: Content" editor_type="VISUAL">tg_content</field>	
+				<field type="Toggle content : button text" editor_type="LINE">button_text_up</field>					
+				<field type="Toggle content : button text less" editor_type="LINE">button_text_down</field>					
+            </fields>
+        </widget>
+		<widget name="ceatab">
+			<fields-in-item items_of="tab_list">
+				<field>tab_title</field>
+				<field>tab_content</field>
+			</fields-in-item>
+		</widget>
+    </elementor-widgets>	
+</wpml-config>

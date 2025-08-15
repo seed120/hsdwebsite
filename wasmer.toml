@@ -1,0 +1,17 @@
+[package]
+name = "wordpress"
+version = "0.1.0"
+description = "A WordPress application deployed with Wasmer"
+entrypoint = "index.php" # Or the main entry point of your WordPress application
+
+[dependencies]
+php = "wasmer/php@latest" # Use the latest PHP runtime from Wasmer
+
+[fs]
+"/var/www/html" = "." # Map the current directory (your WordPress files) to /var/www/html inside the Wasm container
+
+[env]
+WORDPRESS_DB_HOST = "db.wasmer.app" # Wasmer's database host
+WORDPRESS_DB_USER = "wordpress" # Your Wasmer database user
+WORDPRESS_DB_PASSWORD = "${WASMER_DB_PASSWORD}" # Will be set in Wasmer Dashboard
+WORDPRESS_DB_NAME = "wordpress_db" # Your Wasmer database name

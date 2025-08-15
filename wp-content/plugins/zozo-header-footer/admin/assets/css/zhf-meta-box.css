@@ -1,0 +1,77 @@
+span.zhf-shortcode-col-wrap > input {
+    background: inherit;
+    color: inherit;
+    font-size: 12px;
+    border: none;
+    box-shadow: none;
+    padding: 4px 8px;
+    margin: 0;
+}
+input.zhf-large-text{
+    width: 99%;
+}
+.zhf-options-row-heading {
+    border-right: 1px solid #E1E1E1;
+    padding: 15px;
+    width: 45%;
+    vertical-align: middle;
+}
+.zhf-options-row td {
+    padding-left: 12px;
+    padding-right: 12px;
+    border-bottom: 1px solid #f0f0f0;
+    zoom: 1;
+    vertical-align: middle;
+}
+.zhf-options-table .zhf-options-row-content {
+    padding: 15px 10px;
+    position: relative;
+    width: 55%;
+}
+.zhf-options-table.widefat {
+	border-width: 0;
+}
+.zhf-options-row-heading label {
+    display: inline-block;
+    font-size: 13px;
+    line-height: 1.4em;
+    font-weight: bold;
+    padding: 0;
+    margin: 0 0 3px;
+    color: #333;
+}
+.zhf-options-row-content select {
+    width: 95%;
+}
+.zhf_radio_options {
+    display: inline-block;
+}
+li#toplevel_page_Settings-page,
+.wp-admin #adminmenu .wp-submenu a[href="themes.php?page=zhf-settings"],
+.wp-admin #adminmenu .wp-submenu a[href="themes.php?page=zhf-guide"],
+.wp-admin #adminmenu .wp-submenu a[href="themes.php?page=zhf-about"] {
+    display: none;
+}
+.appearance_page_zhf-settings #adminmenu .wp-submenu a[href ="edit.php?post_type=zozo-hf" ] {
+    color: #ffffff;
+    font-weight: 600;
+}
+.zhf-heading-inline {
+    font-size: 23px;
+    font-weight: 400;
+    margin: 0;
+    padding: 9px 0 4px 0;
+    line-height: 1.3;
+}
+.zhf-selected-template-type-custom .zhf-shortcode {
+    display: table-row;
+}
+.zhf-selected-template-type-custom .bsf-target-rules-row,
+.zhf-selected-template-type-custom .enable-for-canvas,
+.zhf-shortcode,
+.zhf-selected-template-type-none .bsf-target-rules-row,
+.zhf-selected-template-type-none .zhf-shortcode,
+.zhf-selected-template-type-none .enable-for-canvas,
+.zhf-guide-content .form-table th {
+    display: none;
+}
