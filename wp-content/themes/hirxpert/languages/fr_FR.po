@@ -102,14 +102,10 @@ msgid "Search &hellip;"
 msgstr "Rechercher &hellip;"
 
 #: template-parts/content-none.php:14
-msgid "Nothing Found"
-msgstr "Rien trouvé"
-
-#: template-parts/content-none.php:18
 msgid "Ready to publish your first post?"
 msgstr "Prêt à publier votre premier article ?"
 
-#: template-parts/content-none.php:22
+#: template-parts/content-none.php:18
 msgid "Get started here"
 msgstr "Commencer ici"
 

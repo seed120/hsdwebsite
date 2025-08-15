@@ -1,3 +1,35 @@
 [15-Aug-2025 20:17:45 UTC] Automatic updates starting...
 [15-Aug-2025 20:17:47 UTC] Automatic updates complete.
 [15-Aug-2025 20:18:17 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/shafayat/Documents/Development/ena/wp-admin/admin-header.php on line 41
+[15-Aug-2025 21:26:03 UTC] PHP Warning:  plugins_api(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/shafayat/Documents/Development/ena/wp-includes/functions.php on line 6121
+[15-Aug-2025 21:26:59 UTC] PHP Fatal error:  Cannot redeclare get_gzip_rules() (previously declared in /Users/shafayat/Documents/Development/ena/wp-content/plugins/hirxpert-addon/hirxpert-addon.php:305) in /Users/shafayat/Documents/Development/ena/wp-content/plugins/hirxpert-addon_DISABLED/hirxpert-addon.php on line 305
+[15-Aug-2025 21:45:04 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[15-Aug-2025 21:45:04 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[15-Aug-2025 21:45:24 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[15-Aug-2025 21:45:24 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[15-Aug-2025 21:48:00 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[15-Aug-2025 21:48:00 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[15-Aug-2025 21:55:08 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[15-Aug-2025 21:55:08 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[15-Aug-2025 21:56:19 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[15-Aug-2025 21:56:19 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[15-Aug-2025 21:56:30 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[15-Aug-2025 21:56:30 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[15-Aug-2025 21:57:24 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[15-Aug-2025 21:57:24 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[15-Aug-2025 21:57:30 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[15-Aug-2025 21:57:30 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[15-Aug-2025 21:58:00 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[15-Aug-2025 21:58:00 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[15-Aug-2025 21:58:12 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[15-Aug-2025 21:58:12 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[15-Aug-2025 21:58:52 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[15-Aug-2025 21:58:52 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[15-Aug-2025 21:59:33 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[15-Aug-2025 21:59:33 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[15-Aug-2025 21:59:59 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[15-Aug-2025 21:59:59 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[15-Aug-2025 22:00:40 UTC] PHP Notice:  $_SERVER['HTTP_HOST'] or $_SERVER['REQUEST_URI'] are required but not set. in /Users/shafayat/Documents/Development/ena/wp-content/plugins/polylang/include/functions.php on line 108
+[15-Aug-2025 22:00:40 UTC] PHP Notice:  $_SERVER['HTTP_HOST'] or $_SERVER['REQUEST_URI'] are required but not set. in /Users/shafayat/Documents/Development/ena/wp-content/plugins/polylang/include/functions.php on line 108
+[15-Aug-2025 22:00:41 UTC] PHP Notice:  $_SERVER['HTTP_HOST'] or $_SERVER['REQUEST_URI'] are required but not set. in /Users/shafayat/Documents/Development/ena/wp-content/plugins/polylang/include/functions.php on line 108
+[15-Aug-2025 22:00:41 UTC] PHP Notice:  $_SERVER['HTTP_HOST'] or $_SERVER['REQUEST_URI'] are required but not set. in /Users/shafayat/Documents/Development/ena/wp-content/plugins/polylang/include/functions.php on line 108
