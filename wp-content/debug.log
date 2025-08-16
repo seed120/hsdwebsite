@@ -33,3 +33,5 @@
 [15-Aug-2025 22:00:40 UTC] PHP Notice:  $_SERVER['HTTP_HOST'] or $_SERVER['REQUEST_URI'] are required but not set. in /Users/shafayat/Documents/Development/ena/wp-content/plugins/polylang/include/functions.php on line 108
 [15-Aug-2025 22:00:41 UTC] PHP Notice:  $_SERVER['HTTP_HOST'] or $_SERVER['REQUEST_URI'] are required but not set. in /Users/shafayat/Documents/Development/ena/wp-content/plugins/polylang/include/functions.php on line 108
 [15-Aug-2025 22:00:41 UTC] PHP Notice:  $_SERVER['HTTP_HOST'] or $_SERVER['REQUEST_URI'] are required but not set. in /Users/shafayat/Documents/Development/ena/wp-content/plugins/polylang/include/functions.php on line 108
+[16-Aug-2025 02:17:05 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[16-Aug-2025 02:17:05 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
