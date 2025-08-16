@@ -35,3 +35,298 @@
 [15-Aug-2025 22:00:41 UTC] PHP Notice:  $_SERVER['HTTP_HOST'] or $_SERVER['REQUEST_URI'] are required but not set. in /Users/shafayat/Documents/Development/ena/wp-content/plugins/polylang/include/functions.php on line 108
 [16-Aug-2025 02:17:05 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
 [16-Aug-2025 02:17:05 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[16-Aug-2025 02:23:53 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[16-Aug-2025 02:23:53 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[16-Aug-2025 02:24:03 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[16-Aug-2025 02:24:03 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[16-Aug-2025 02:24:36 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[16-Aug-2025 02:24:36 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[16-Aug-2025 02:24:37 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[16-Aug-2025 02:24:37 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[16-Aug-2025 02:24:39 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[16-Aug-2025 02:24:39 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[16-Aug-2025 02:24:59 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[16-Aug-2025 02:24:59 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[16-Aug-2025 02:25:12 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[16-Aug-2025 02:25:12 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[16-Aug-2025 02:25:23 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[16-Aug-2025 02:25:23 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[16-Aug-2025 02:25:39 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[16-Aug-2025 02:25:39 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[16-Aug-2025 02:25:55 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[16-Aug-2025 02:25:55 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[16-Aug-2025 02:26:17 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[16-Aug-2025 02:26:17 UTC] PHP Warning:  Undefined array key "code" in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php on line 132
+[16-Aug-2025 02:41:23 UTC] PHP Warning:  require(/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php): Failed to open stream: No such file or directory in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:41:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php' (include_path='.:') in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php:187
+Stack trace:
+#0 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(324): Hirxpert_Theme_function::hirxpert_after_support('')
+#1 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/shafayat/Documents/Development/ena/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/shafayat/Documents/Development/ena/wp-settings.php(705): do_action('after_setup_the...')
+#4 /Users/shafayat/Documents/Development/ena/wp-config.php(117): require_once('/Users/shafayat...')
+#5 /Users/shafayat/Documents/Development/ena/wp-load.php(50): require_once('/Users/shafayat...')
+#6 /Users/shafayat/Documents/Development/ena/wp-admin/admin-ajax.php(22): require_once('/Users/shafayat...')
+#7 /Applications/Herd.app/Contents/Resources/valet/server.php(167): require('/Users/shafayat...')
+#8 {main}
+  thrown in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:41:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[16-Aug-2025 02:41:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[16-Aug-2025 02:41:28 UTC] PHP Warning:  require(/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php): Failed to open stream: No such file or directory in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:41:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php' (include_path='.:') in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php:187
+Stack trace:
+#0 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(324): Hirxpert_Theme_function::hirxpert_after_support('')
+#1 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/shafayat/Documents/Development/ena/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/shafayat/Documents/Development/ena/wp-settings.php(705): do_action('after_setup_the...')
+#4 /Users/shafayat/Documents/Development/ena/wp-config.php(117): require_once('/Users/shafayat...')
+#5 /Users/shafayat/Documents/Development/ena/wp-load.php(50): require_once('/Users/shafayat...')
+#6 /Users/shafayat/Documents/Development/ena/wp-admin/admin-ajax.php(22): require_once('/Users/shafayat...')
+#7 /Applications/Herd.app/Contents/Resources/valet/server.php(167): require('/Users/shafayat...')
+#8 {main}
+  thrown in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:42:23 UTC] PHP Warning:  require(/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php): Failed to open stream: No such file or directory in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:42:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php' (include_path='.:') in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php:187
+Stack trace:
+#0 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(324): Hirxpert_Theme_function::hirxpert_after_support('')
+#1 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/shafayat/Documents/Development/ena/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/shafayat/Documents/Development/ena/wp-settings.php(705): do_action('after_setup_the...')
+#4 /Users/shafayat/Documents/Development/ena/wp-config.php(117): require_once('/Users/shafayat...')
+#5 /Users/shafayat/Documents/Development/ena/wp-load.php(50): require_once('/Users/shafayat...')
+#6 /Users/shafayat/Documents/Development/ena/wp-admin/admin-ajax.php(22): require_once('/Users/shafayat...')
+#7 /Applications/Herd.app/Contents/Resources/valet/server.php(167): require('/Users/shafayat...')
+#8 {main}
+  thrown in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:42:38 UTC] PHP Warning:  require(/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php): Failed to open stream: No such file or directory in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:42:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php' (include_path='.:') in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php:187
+Stack trace:
+#0 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(324): Hirxpert_Theme_function::hirxpert_after_support('')
+#1 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/shafayat/Documents/Development/ena/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/shafayat/Documents/Development/ena/wp-settings.php(705): do_action('after_setup_the...')
+#4 /Users/shafayat/Documents/Development/ena/wp-config.php(117): require_once('/Users/shafayat...')
+#5 /Users/shafayat/Documents/Development/ena/wp-load.php(50): require_once('/Users/shafayat...')
+#6 /Users/shafayat/Documents/Development/ena/wp-blog-header.php(13): require_once('/Users/shafayat...')
+#7 /Users/shafayat/Documents/Development/ena/index.php(17): require('/Users/shafayat...')
+#8 /Applications/Herd.app/Contents/Resources/valet/server.php(167): require('/Users/shafayat...')
+#9 {main}
+  thrown in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:42:42 UTC] PHP Warning:  require(/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php): Failed to open stream: No such file or directory in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:42:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php' (include_path='.:') in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php:187
+Stack trace:
+#0 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(324): Hirxpert_Theme_function::hirxpert_after_support('')
+#1 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/shafayat/Documents/Development/ena/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/shafayat/Documents/Development/ena/wp-settings.php(705): do_action('after_setup_the...')
+#4 /Users/shafayat/Documents/Development/ena/wp-config.php(117): require_once('/Users/shafayat...')
+#5 /Users/shafayat/Documents/Development/ena/wp-load.php(50): require_once('/Users/shafayat...')
+#6 /Users/shafayat/Documents/Development/ena/wp-blog-header.php(13): require_once('/Users/shafayat...')
+#7 /Users/shafayat/Documents/Development/ena/index.php(17): require('/Users/shafayat...')
+#8 /Applications/Herd.app/Contents/Resources/valet/server.php(167): require('/Users/shafayat...')
+#9 {main}
+  thrown in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:43:02 UTC] PHP Warning:  require(/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php): Failed to open stream: No such file or directory in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:43:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php' (include_path='.:') in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php:187
+Stack trace:
+#0 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(324): Hirxpert_Theme_function::hirxpert_after_support('')
+#1 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/shafayat/Documents/Development/ena/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/shafayat/Documents/Development/ena/wp-settings.php(705): do_action('after_setup_the...')
+#4 /Users/shafayat/Documents/Development/ena/wp-config.php(117): require_once('/Users/shafayat...')
+#5 /Users/shafayat/Documents/Development/ena/wp-load.php(50): require_once('/Users/shafayat...')
+#6 /Users/shafayat/Documents/Development/ena/wp-admin/admin-ajax.php(22): require_once('/Users/shafayat...')
+#7 /Applications/Herd.app/Contents/Resources/valet/server.php(167): require('/Users/shafayat...')
+#8 {main}
+  thrown in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:43:11 UTC] PHP Warning:  require(/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php): Failed to open stream: No such file or directory in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:43:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php' (include_path='.:') in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php:187
+Stack trace:
+#0 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(324): Hirxpert_Theme_function::hirxpert_after_support('')
+#1 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/shafayat/Documents/Development/ena/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/shafayat/Documents/Development/ena/wp-settings.php(705): do_action('after_setup_the...')
+#4 /Users/shafayat/Documents/Development/ena/wp-config.php(117): require_once('/Users/shafayat...')
+#5 /Users/shafayat/Documents/Development/ena/wp-load.php(50): require_once('/Users/shafayat...')
+#6 /Users/shafayat/Documents/Development/ena/wp-blog-header.php(13): require_once('/Users/shafayat...')
+#7 /Users/shafayat/Documents/Development/ena/index.php(17): require('/Users/shafayat...')
+#8 /Applications/Herd.app/Contents/Resources/valet/server.php(167): require('/Users/shafayat...')
+#9 {main}
+  thrown in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:43:19 UTC] PHP Warning:  require(/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php): Failed to open stream: No such file or directory in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:43:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php' (include_path='.:') in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php:187
+Stack trace:
+#0 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(324): Hirxpert_Theme_function::hirxpert_after_support('')
+#1 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/shafayat/Documents/Development/ena/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/shafayat/Documents/Development/ena/wp-settings.php(705): do_action('after_setup_the...')
+#4 /Users/shafayat/Documents/Development/ena/wp-config.php(117): require_once('/Users/shafayat...')
+#5 /Users/shafayat/Documents/Development/ena/wp-load.php(50): require_once('/Users/shafayat...')
+#6 /Users/shafayat/Documents/Development/ena/wp-blog-header.php(13): require_once('/Users/shafayat...')
+#7 /Users/shafayat/Documents/Development/ena/index.php(17): require('/Users/shafayat...')
+#8 /Applications/Herd.app/Contents/Resources/valet/server.php(167): require('/Users/shafayat...')
+#9 {main}
+  thrown in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:43:23 UTC] PHP Warning:  require(/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php): Failed to open stream: No such file or directory in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:43:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php' (include_path='.:') in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php:187
+Stack trace:
+#0 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(324): Hirxpert_Theme_function::hirxpert_after_support('')
+#1 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/shafayat/Documents/Development/ena/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/shafayat/Documents/Development/ena/wp-settings.php(705): do_action('after_setup_the...')
+#4 /Users/shafayat/Documents/Development/ena/wp-config.php(117): require_once('/Users/shafayat...')
+#5 /Users/shafayat/Documents/Development/ena/wp-load.php(50): require_once('/Users/shafayat...')
+#6 /Users/shafayat/Documents/Development/ena/wp-admin/admin-ajax.php(22): require_once('/Users/shafayat...')
+#7 /Applications/Herd.app/Contents/Resources/valet/server.php(167): require('/Users/shafayat...')
+#8 {main}
+  thrown in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:43:25 UTC] PHP Warning:  require(/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php): Failed to open stream: No such file or directory in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:43:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php' (include_path='.:') in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php:187
+Stack trace:
+#0 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(324): Hirxpert_Theme_function::hirxpert_after_support('')
+#1 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/shafayat/Documents/Development/ena/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/shafayat/Documents/Development/ena/wp-settings.php(705): do_action('after_setup_the...')
+#4 /Users/shafayat/Documents/Development/ena/wp-config.php(117): require_once('/Users/shafayat...')
+#5 /Users/shafayat/Documents/Development/ena/wp-load.php(50): require_once('/Users/shafayat...')
+#6 /Users/shafayat/Documents/Development/ena/wp-blog-header.php(13): require_once('/Users/shafayat...')
+#7 /Users/shafayat/Documents/Development/ena/index.php(17): require('/Users/shafayat...')
+#8 /Applications/Herd.app/Contents/Resources/valet/server.php(167): require('/Users/shafayat...')
+#9 {main}
+  thrown in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:43:30 UTC] PHP Warning:  require(/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php): Failed to open stream: No such file or directory in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:43:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php' (include_path='.:') in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php:187
+Stack trace:
+#0 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(324): Hirxpert_Theme_function::hirxpert_after_support('')
+#1 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/shafayat/Documents/Development/ena/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/shafayat/Documents/Development/ena/wp-settings.php(705): do_action('after_setup_the...')
+#4 /Users/shafayat/Documents/Development/ena/wp-config.php(117): require_once('/Users/shafayat...')
+#5 /Users/shafayat/Documents/Development/ena/wp-load.php(50): require_once('/Users/shafayat...')
+#6 /Users/shafayat/Documents/Development/ena/wp-admin/admin-ajax.php(22): require_once('/Users/shafayat...')
+#7 /Applications/Herd.app/Contents/Resources/valet/server.php(167): require('/Users/shafayat...')
+#8 {main}
+  thrown in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:44:23 UTC] PHP Warning:  require(/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php): Failed to open stream: No such file or directory in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:44:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php' (include_path='.:') in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php:187
+Stack trace:
+#0 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(324): Hirxpert_Theme_function::hirxpert_after_support('')
+#1 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/shafayat/Documents/Development/ena/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/shafayat/Documents/Development/ena/wp-settings.php(705): do_action('after_setup_the...')
+#4 /Users/shafayat/Documents/Development/ena/wp-config.php(117): require_once('/Users/shafayat...')
+#5 /Users/shafayat/Documents/Development/ena/wp-load.php(50): require_once('/Users/shafayat...')
+#6 /Users/shafayat/Documents/Development/ena/wp-admin/admin-ajax.php(22): require_once('/Users/shafayat...')
+#7 /Applications/Herd.app/Contents/Resources/valet/server.php(167): require('/Users/shafayat...')
+#8 {main}
+  thrown in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:44:26 UTC] PHP Warning:  require(/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php): Failed to open stream: No such file or directory in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:44:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php' (include_path='.:') in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php:187
+Stack trace:
+#0 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(324): Hirxpert_Theme_function::hirxpert_after_support('')
+#1 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/shafayat/Documents/Development/ena/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/shafayat/Documents/Development/ena/wp-settings.php(705): do_action('after_setup_the...')
+#4 /Users/shafayat/Documents/Development/ena/wp-config.php(117): require_once('/Users/shafayat...')
+#5 /Users/shafayat/Documents/Development/ena/wp-load.php(50): require_once('/Users/shafayat...')
+#6 /Users/shafayat/Documents/Development/ena/wp-admin/admin-ajax.php(22): require_once('/Users/shafayat...')
+#7 /Applications/Herd.app/Contents/Resources/valet/server.php(167): require('/Users/shafayat...')
+#8 {main}
+  thrown in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:44:45 UTC] PHP Warning:  require(/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php): Failed to open stream: No such file or directory in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:44:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php' (include_path='.:') in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php:187
+Stack trace:
+#0 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(324): Hirxpert_Theme_function::hirxpert_after_support('')
+#1 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/shafayat/Documents/Development/ena/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/shafayat/Documents/Development/ena/wp-settings.php(705): do_action('after_setup_the...')
+#4 /Users/shafayat/Documents/Development/ena/wp-config.php(117): require_once('/Users/shafayat...')
+#5 /Users/shafayat/Documents/Development/ena/wp-load.php(50): require_once('/Users/shafayat...')
+#6 /Users/shafayat/Documents/Development/ena/wp-admin/admin-ajax.php(22): require_once('/Users/shafayat...')
+#7 /Applications/Herd.app/Contents/Resources/valet/server.php(167): require('/Users/shafayat...')
+#8 {main}
+  thrown in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:44:45 UTC] PHP Warning:  require(/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php): Failed to open stream: No such file or directory in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:44:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php' (include_path='.:') in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php:187
+Stack trace:
+#0 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(324): Hirxpert_Theme_function::hirxpert_after_support('')
+#1 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/shafayat/Documents/Development/ena/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/shafayat/Documents/Development/ena/wp-settings.php(705): do_action('after_setup_the...')
+#4 /Users/shafayat/Documents/Development/ena/wp-config.php(117): require_once('/Users/shafayat...')
+#5 /Users/shafayat/Documents/Development/ena/wp-load.php(50): require_once('/Users/shafayat...')
+#6 /Users/shafayat/Documents/Development/ena/wp-blog-header.php(13): require_once('/Users/shafayat...')
+#7 /Users/shafayat/Documents/Development/ena/index.php(17): require('/Users/shafayat...')
+#8 /Applications/Herd.app/Contents/Resources/valet/server.php(167): require('/Users/shafayat...')
+#9 {main}
+  thrown in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:44:48 UTC] PHP Warning:  require(/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php): Failed to open stream: No such file or directory in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:44:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php' (include_path='.:') in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php:187
+Stack trace:
+#0 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(324): Hirxpert_Theme_function::hirxpert_after_support('')
+#1 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/shafayat/Documents/Development/ena/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/shafayat/Documents/Development/ena/wp-settings.php(705): do_action('after_setup_the...')
+#4 /Users/shafayat/Documents/Development/ena/wp-config.php(117): require_once('/Users/shafayat...')
+#5 /Users/shafayat/Documents/Development/ena/wp-load.php(50): require_once('/Users/shafayat...')
+#6 /Users/shafayat/Documents/Development/ena/wp-blog-header.php(13): require_once('/Users/shafayat...')
+#7 /Users/shafayat/Documents/Development/ena/index.php(17): require('/Users/shafayat...')
+#8 /Applications/Herd.app/Contents/Resources/valet/server.php(167): require('/Users/shafayat...')
+#9 {main}
+  thrown in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:49:08 UTC] PHP Warning:  require(/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php): Failed to open stream: No such file or directory in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:49:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php' (include_path='.:') in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php:187
+Stack trace:
+#0 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(324): Hirxpert_Theme_function::hirxpert_after_support('')
+#1 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/shafayat/Documents/Development/ena/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/shafayat/Documents/Development/ena/wp-settings.php(705): do_action('after_setup_the...')
+#4 /Users/shafayat/Documents/Development/ena/wp-config.php(117): require_once('/Users/shafayat...')
+#5 /Users/shafayat/Documents/Development/ena/wp-load.php(50): require_once('/Users/shafayat...')
+#6 /Users/shafayat/Documents/Development/ena/wp-blog-header.php(13): require_once('/Users/shafayat...')
+#7 /Users/shafayat/Documents/Development/ena/index.php(17): require('/Users/shafayat...')
+#8 /Applications/Herd.app/Contents/Resources/valet/server.php(167): require('/Users/shafayat...')
+#9 {main}
+  thrown in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:49:09 UTC] PHP Warning:  require(/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php): Failed to open stream: No such file or directory in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:49:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php' (include_path='.:') in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php:187
+Stack trace:
+#0 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(324): Hirxpert_Theme_function::hirxpert_after_support('')
+#1 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/shafayat/Documents/Development/ena/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/shafayat/Documents/Development/ena/wp-settings.php(705): do_action('after_setup_the...')
+#4 /Users/shafayat/Documents/Development/ena/wp-config.php(117): require_once('/Users/shafayat...')
+#5 /Users/shafayat/Documents/Development/ena/wp-load.php(50): require_once('/Users/shafayat...')
+#6 /Users/shafayat/Documents/Development/ena/wp-blog-header.php(13): require_once('/Users/shafayat...')
+#7 /Users/shafayat/Documents/Development/ena/index.php(17): require('/Users/shafayat...')
+#8 /Applications/Herd.app/Contents/Resources/valet/server.php(167): require('/Users/shafayat...')
+#9 {main}
+  thrown in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:49:26 UTC] PHP Warning:  require(/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php): Failed to open stream: No such file or directory in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:49:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php' (include_path='.:') in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php:187
+Stack trace:
+#0 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(324): Hirxpert_Theme_function::hirxpert_after_support('')
+#1 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/shafayat/Documents/Development/ena/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/shafayat/Documents/Development/ena/wp-settings.php(705): do_action('after_setup_the...')
+#4 /Users/shafayat/Documents/Development/ena/wp-config.php(117): require_once('/Users/shafayat...')
+#5 /Users/shafayat/Documents/Development/ena/wp-load.php(50): require_once('/Users/shafayat...')
+#6 /Users/shafayat/Documents/Development/ena/wp-blog-header.php(13): require_once('/Users/shafayat...')
+#7 /Users/shafayat/Documents/Development/ena/index.php(17): require('/Users/shafayat...')
+#8 /Applications/Herd.app/Contents/Resources/valet/server.php(167): require('/Users/shafayat...')
+#9 {main}
+  thrown in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:49:39 UTC] PHP Warning:  require(/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php): Failed to open stream: No such file or directory in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187
+[16-Aug-2025 02:49:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/inc/multilingual-functions.php' (include_path='.:') in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php:187
+Stack trace:
+#0 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(324): Hirxpert_Theme_function::hirxpert_after_support('')
+#1 /Users/shafayat/Documents/Development/ena/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/shafayat/Documents/Development/ena/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/shafayat/Documents/Development/ena/wp-settings.php(705): do_action('after_setup_the...')
+#4 /Users/shafayat/Documents/Development/ena/wp-config.php(117): require_once('/Users/shafayat...')
+#5 /Users/shafayat/Documents/Development/ena/wp-load.php(50): require_once('/Users/shafayat...')
+#6 /Users/shafayat/Documents/Development/ena/wp-blog-header.php(13): require_once('/Users/shafayat...')
+#7 /Users/shafayat/Documents/Development/ena/index.php(17): require('/Users/shafayat...')
+#8 /Applications/Herd.app/Contents/Resources/valet/server.php(167): require('/Users/shafayat...')
+#9 {main}
+  thrown in /Users/shafayat/Documents/Development/ena/wp-content/themes/hirxpert/functions.php on line 187

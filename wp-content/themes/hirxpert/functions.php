@@ -184,7 +184,7 @@ class Hirxpert_Theme_function{
 	 * Include required files.
 	 */
 		require get_template_directory() . '/inc/template-tags.php'; 
-		require get_template_directory() . '/inc/multilingual-functions.php';
+		// require get_template_directory() . '/inc/multilingual-functions.php';
 
 //Elements
 require get_template_directory() . '/classes/class.hirxpert-wp-elements.php';
